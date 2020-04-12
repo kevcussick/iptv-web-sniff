@@ -1,0 +1,244 @@
+{
+	"1":{
+		"active": 1,
+		"plugin": "tvbnews_live",
+		"channel": "",
+		"website": "https://news.tvb.com/live/",
+		"liveapi": "http://news.tvb.com/live/inews",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": "http://news.tvb.com/live/inews"
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "无线新闻",
+				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/wxxw.png",
+				"group-title": "香港",
+				"title": "无线新闻台"
+			},
+		"m3u8": "tvbnews.m3u8"
+	     },
+	"2":{
+		"active": 1,
+		"plugin": "tvbnews_live",
+		"channel": "",
+		"website": "https://news.tvb.com/live/",
+		"liveapi": "http://news.tvb.com/live/j5_ch85",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": "http://news.tvb.com/live/inews"
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "无限财经",
+				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",
+				"group-title": "香港",
+				"title": "无线财经资讯台"
+			},
+		"m3u8": "tvbj5.m3u8"
+	     },
+	"3":{
+		"active": 1,
+		"plugin": "nhk_live",
+		"channel": "",
+		"website": "https://www3.nhk.or.jp/nhkworld/zh/live/",
+		"liveapi": "https://www3.nhk.or.jp/nhkworld/app/tv/hlslive_zhlive.json",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": "https://www3.nhk.or.jp/nhkworld/common/player/tv/zhlive/embed/embed.html"
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "NHKWorld",
+				"tvg-logo": "http://www.nettv.live/uploads/allimg/19/1-1912251G3550-L.jpg",
+				"group-title": "日本",
+				"title": "NHK华语视界"
+			},
+		"m3u8": "nhkworldzh.m3u8"
+	     },
+	"4":{
+		"active": 1,
+		"plugin": "nhk_live",
+		"channel": "",
+		"website": "https://www3.nhk.or.jp/nhkworld/en/live/",
+		"liveapi": "https://www3.nhk.or.jp/nhkworld/app/tv/hlslive_web.json",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": "https://www3.nhk.or.jp/nhkworld/common/player/tv/zhlive/embed/embed.html"
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "NHKWorldPremium",
+				"tvg-logo": "http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5aa73699999ec.png",
+				"group-title": "日本",
+				"title": "NHKWorldPremium"
+			},
+		"m3u8": "nhkworldjp.m3u8"
+	     },
+	"5":{
+		"active": 1,
+		"plugin": "youtube_live",
+		"channel": "",
+		"website": "",
+		"liveapi": "https://www.youtube.com/watch?v=NvqKZHpKs-g",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": "https://www.youtube.com/watch?v=NvqKZHpKs-g"
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "Deutsche Welle (English)",
+				"tvg-logo": "http://static.iptv-epg.com/de/DeutscheWelleEn.de.png",
+				"group-title": "News",
+				"title": "Deutsche Welle (English)"
+			},
+		"m3u8": "DWNews.m3u8"
+	     },
+	"6":{
+		"active": 1,
+		"plugin": "youtube_live",
+		"channel": "",
+		"website": "",
+		"liveapi": "https://www.youtube.com/watch?v=9Auq9mYxFEE",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": "https://www.youtube.com/watch?v=9Auq9mYxFEE"
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "Sky News",
+				"tvg-logo": "https://static.iptv-epg.com/gb/SkyNews.uk.png",
+				"group-title": "News",
+				"title": "Sky News"
+			},
+		"m3u8": "SKYNews.m3u8"
+	     },
+	"7":{
+		"active": 1,
+		"plugin": "youtube_live",
+		"channel": "",
+		"website": "",
+		"liveapi": "https://www.youtube.com/watch?v=6xrJy-1_qS4",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": "https://www.youtube.com/watch?v=6xrJy-1_qS4"
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "Euronews",
+				"tvg-logo": "http://static.iptv-epg.com/ru/Euronews.ru.png",
+				"group-title": "News",
+				"title": "Euronews"
+			},
+		"m3u8": "EURONews.m3u8"
+	     },
+	"8":{
+		"active": 1,
+		"plugin": "youtube_live",
+		"channel": "",
+		"website": "",
+		"liveapi": "https://www.youtube.com/watch?v=w_Ma8oQLmSM",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": "https://www.youtube.com/watch?v=w_Ma8oQLmSM"
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "ABC News",
+				"tvg-logo": "http://www.nettv.live/uploads/18/1-1P5050119103U.jpg",
+				"group-title": "News",
+				"title": "ABC News"
+			},
+		"m3u8": "ABCNews.m3u8"
+	     },
+	"9":{
+		"active": 1,
+		"plugin": "youtube_live",
+		"channel": "",
+		"website": "",
+		"liveapi": "https://www.youtube.com/watch?v=G-sCNxj2M2M",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": "https://www.youtube.com/watch?v=G-sCNxj2M2M"
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "ABC News Australia",
+				"tvg-logo": "http://www.nettv.live/uploads/allimg/18/1-1P6092202230-L.jpg",
+				"group-title": "News",
+				"title": "ABC News Australia"
+			},
+		"m3u8": "ABCANews.m3u8"
+	     },
+	"10":{
+		"active": 1,
+		"plugin": "youtube_live",
+		"channel": "",
+		"website": "",
+		"liveapi": "https://www.youtube.com/watch?v=4ZVUmEUFwaY",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": "https://www.youtube.com/watch?v=4ZVUmEUFwaY"
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "三立新闻台",
+				"tvg-logo": "http://www.nettv.live/uploads/19/1-1Z4211S203T7.jpg",
+				"group-title": "台湾",
+				"title": "三立新闻台"
+			},
+		"m3u8": "SETNews.m3u8"
+	     },
+	"11":{
+		"active": 1,
+		"plugin": "youtube_live",
+		"channel": "",
+		"website": "",
+		"liveapi": "https://www.youtube.com/watch?v=ag9nrgExHyg",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": "https://www.youtube.com/watch?v=ag9nrgExHyg"
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "三立财经新闻台",
+				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/SETInews.png",
+				"group-title": "台湾",
+				"title": "三立iNEWS"
+			},
+		"m3u8": "SETINews.m3u8"
+	     }
+}
