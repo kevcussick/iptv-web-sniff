@@ -7,8 +7,9 @@ A web stream sniff and proxy tool
 ```console
 $ python3 iptv-web-sniff.py -c tvdb.txt -o playlist/
 ```
-This will sniff all the APIs listed in tvdb.txt and dump a m3u playlist named webtc.m3u,
-then please use iptv player to add the m3u playlist when finished.
+This will sniff all the APIs listed in tvdb.txt and dump a m3u playlist named webtv.m3u,
+then please use iptv player to add webtv.m3u when finished.
+
 And enjoy it!
 
 ### iptv proxy server
