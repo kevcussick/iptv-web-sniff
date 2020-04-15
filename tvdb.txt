@@ -1186,5 +1186,27 @@
 				"title": "CNN"
 			},
 		"m3u8": "cnn.m3u8"
+	     },
+	"55":{
+		"active": 1,
+		"plugin": "freeintertv_live",
+		"channel": "Y25iY19saXZl",
+		"website": "http://www.freeintertv.com/view/id-200/1-1-0-1",
+		"liveapi": "http://www.freeintertv.com/myAjax/get_item_m3u8/",
+		"headers":
+			{
+				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+				"Referer": ""
+			},
+		"referer": 0,
+		"m3uinfo":
+			{
+				"tvg-id": "",
+				"tvg-name": "CNBC",
+				"tvg-logo": "http://www.freeintertv.com/images/tv/cnbc_live.jpg",
+				"group-title": "News",
+				"title": "CNBC"
+			},
+		"m3u8": "CNBC.m3u8"
 	     }
 }
