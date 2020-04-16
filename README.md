@@ -25,4 +25,7 @@ $ python3 iptv-proxy.py -c tvdb.txt&
 make your own m3u playlist with proxy stream:
 
 Example:
-http://192.168.1.1:8080/channel?cnn.m3u8
+ffplay http://192.168.1.1:8080/channel?cnn.m3u8
+
+Sample m3u playlist webtv.m3u:
+Please change 192.168.1.1 to your own server ip address.
