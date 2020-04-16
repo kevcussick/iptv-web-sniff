@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="Token",寰宇新闻台
+http://192.168.1.1:8080/channel?globalnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews2.png" group-title="Token",寰宇新闻台湾台
+http://192.168.1.1:8080/channel?globalnews2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="Token",无线新闻台
+http://192.168.1.1:8080/channel?tvbnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="Token",无线财经资讯台
+http://192.168.1.1:8080/channel?tvbj5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now直播台" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_170_122" group-title="Token",Now直播台
+http://192.168.1.1:8080/channel?nowlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now新闻台" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch332_170_122" group-title="Token",Now新闻台
+http://192.168.1.1:8080/channel?nownewszh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NowNEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="Token",Now NEWS
+http://192.168.1.1:8080/channel?nownewsen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NowSportsPrime" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122" group-title="Token",Now Sports Prime
+http://192.168.1.1:8080/channel?nowsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ViuTV6" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122" group-title="Token",ViuTV6
+http://192.168.1.1:8080/channel?viutv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_170_122" group-title="Token",ViuTV
+http://192.168.1.1:8080/channel?viutv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="http://www.nettv.live/uploads/18/1-1P409155110630.jpg" group-title="Token",RTHK31
+http://192.168.1.1:8080/channel?rthk31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="http://www.nettv.live/uploads/18/1-1P41QA234925.jpg" group-title="Token",RTHK32
+http://192.168.1.1:8080/channel?rthk32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHKWorld" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1912251G3550-L.jpg" group-title="Token",NHK华语视界
+http://192.168.1.1:8080/channel?nhkworldzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHKWorldPremium" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5aa73699999ec.png" group-title="Token",NHKWorldPremium
+http://192.168.1.1:8080/channel?nhkworldjp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deutsche Welle (English)" tvg-logo="http://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="Token",Deutsche Welle (English)
+http://192.168.1.1:8080/channel?DWNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="Token",Sky News
+http://192.168.1.1:8080/channel?SKYNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="http://static.iptv-epg.com/ru/Euronews.ru.png" group-title="Token",Euronews
+http://192.168.1.1:8080/channel?EURONews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="http://www.nettv.live/uploads/18/1-1P5050119103U.jpg" group-title="Token",ABC News
+http://192.168.1.1:8080/channel?ABCNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Australia" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P6092202230-L.jpg" group-title="Token",ABC News Australia
+http://192.168.1.1:8080/channel?ABCANews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC News Now" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/NBC_News_Now.svg/revision/latest/scale-to-width-down/200?cb=20200215015417" group-title="Token",NBC News Now
+http://192.168.1.1:8080/channel?NBCNewsNow.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC2 News" tvg-logo="https://wbbh.images.worldnow.com/images/16979810_G.png?auto=webp&disable=upscale&dpr=2&height=70&fit=bounds" group-title="Token",NBC2 News
+http://192.168.1.1:8080/channel?NBC2News.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="Token",TVBS新闻台
+http://192.168.1.1:8080/channel?TVBSNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Token",台视新闻台
+http://192.168.1.1:8080/channel?TTVNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="Token",民视新闻台
+http://192.168.1.1:8080/channel?FTVNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="华视新闻资讯台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="Token",华视新闻资讯台
+http://192.168.1.1:8080/channel?CTSNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="Token",东森新闻台
+http://192.168.1.1:8080/channel?EBCNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="Token",中天新闻台
+http://192.168.1.1:8080/channel?CTINews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Token",中视新闻台
+http://192.168.1.1:8080/channel?CTVNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="http://www.nettv.live/uploads/19/1-1Z4211S203T7.jpg" group-title="Token",三立新闻台
+http://192.168.1.1:8080/channel?SETNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="Token",三立iNEWS
+http://192.168.1.1:8080/channel?SETINews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png" group-title="Token",TV1
+http://192.168.1.1:8080/channel?TV1.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png" group-title="Token",TV2
+http://192.168.1.1:8080/channel?TV2.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://freeview.github.io/iptv/logos/tv3.png" group-title="Token",TV3
+http://192.168.1.1:8080/channel?TV3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+#EXTINF:-1 tvg-id="" tvg-name="NTV7" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" group-title="Token",NTV7
+http://192.168.1.1:8080/channel?NTV7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" group-title="Token",8TV
+http://192.168.1.1:8080/channel?8TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="Token",TV9
+http://192.168.1.1:8080/channel?TV9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png" group-title="Token",Drama Sangat
+http://192.168.1.1:8080/channel?DramaSangat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OKEY" tvg-logo="https://freeview.github.io/iptv/logos/okey.png" group-title="Token",OKEY
+http://192.168.1.1:8080/channel?OKEY.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports HD" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png" group-title="Token",RTM Sports HD
+http://192.168.1.1:8080/channel?RTMSports.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 tvg-id="" tvg-name="Berita RTM" tvg-logo="https://freeview.github.io/iptv/logos/bes.png" group-title="Token",Berita RTM
+http://192.168.1.1:8080/channel?BeritaRTM.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS" tvg-logo="https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png" group-title="Token",CNEWS
+https://192.168.1.1:8080/channel?CNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV Public" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Token",NASA TV Public
+http://192.168.1.1:8080/channel?NASATVp-y.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV Media" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Token",NASA TV Media
+http://192.168.1.1:8080/channel?NASATVm-y.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Earth Views" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Token",Earth Views
+http://192.168.1.1:8080/channel?EarthViews-y.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WB Kids" tvg-logo="https://i.ytimg.com/vi/BRkQ-ZGiNbc/hqdefault_live.jpg?sqp=CMCvpfQF-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAUHbt8Wp5Hof-2JE7bgmaaSi2o3Q" group-title="Token",TOM & JERRY
+http://192.168.1.1:8080/channel?WBKids.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DC Kids" tvg-logo="https://i.ytimg.com/vi/wUhVM98efxA/hqdefault_live.jpg?sqp=COyxpfQF-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCZxG0M0lXqLXVjByfpIYp-YAM7kQ" group-title="Token",Teen Titans Go
+http://192.168.1.1:8080/channel?DCKids.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DC Girls" tvg-logo="https://i.ytimg.com/vi/SiQrDuk4-iw/hqdefault_live.jpg?sqp=CJi0pfQF-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAgWPZs2GnC66QRvny1qTYLhiW8Ng" group-title="Token",Supergirl
+http://192.168.1.1:8080/channel?DCGirls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox 5 New York" tvg-logo="https://img.new.livestream.com/events/0000000000278ee3/43dcc2d1-7bc4-48b7-8315-012845031602_640x960.jpg" group-title="Token",Fox 5 New York
+http://192.168.1.1:8080/channel?fox5ny.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="http://static.iptv-epg.com/us/FoxNews.us.png" group-title="Token",Fox News
+http://192.168.1.1:8080/channel?foxnews.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="Token",BBC World News
+http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="http://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="Token",BBC News
+http://192.168.1.1:8080/channel?bbcnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="Token",CNN
+http://192.168.1.1:8080/channel?cnn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="http://www.freeintertv.com/images/tv/cnbc_live.jpg" group-title="Token",CNBC
+http://192.168.1.1:8080/channel?CNBC.m3u8
