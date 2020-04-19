@@ -33,7 +33,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"寰宇新闻2",
-            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/GlobalNews2.png",
             "group-title":"台湾",
             "title":"寰宇新闻台湾台"
         },
