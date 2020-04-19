@@ -23,6 +23,10 @@ http://192.168.1.1:8080/channel?viutv.m3u8
 http://192.168.1.1:8080/channel?rthk31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="http://www.nettv.live/uploads/18/1-1P41QA234925.jpg" group-title="Token",RTHK32
 http://192.168.1.1:8080/channel?rthk32.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="Token",香港卫视
+http://192.168.1.1:8080/channel?hks.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="Token",香港开电视
+http://192.168.1.1:8080/channel?hkopentv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHKWorld" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1912251G3550-L.jpg" group-title="Token",NHK华语视界
 http://192.168.1.1:8080/channel?nhkworldzh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHKWorldPremium" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5aa73699999ec.png" group-title="Token",NHKWorldPremium

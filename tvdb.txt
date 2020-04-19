@@ -1,1212 +1,1142 @@
-{
-	"1":{
-		"active": 1,
-		"plugin": "huanyu_live",
-		"channel": "1",
-		"website": "http://globalnewstv.com.tw/tvonline-1/",
-		"liveapi": "https://www.faintv.com.tw/asianewslivechannel/1",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "http://globalnewstv.com.tw/tvonline-1/"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "寰宇新闻",
-				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",
-				"group-title": "台湾",
-				"title": "寰宇新闻台"
-			},
-		"m3u8": "globalnews.m3u8"
-	     },
-	"2":{
-		"active": 1,
-		"plugin": "huanyu_live",
-		"channel": "2",
-		"website": "http://globalnewstv.com.tw/tvonline-2/",
-		"liveapi": "https://www.faintv.com.tw/asianewslivechannel/2",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "http://globalnewstv.com.tw/tvonline-2/"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "寰宇新闻2",
-				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",
-				"group-title": "台湾",
-				"title": "寰宇新闻台湾台"
-			},
-		"m3u8": "globalnews2.m3u8"
-	     },
-	"3":{
-		"active": 1,
-		"plugin": "tvbnews_live",
-		"channel": "",
-		"website": "https://news.tvb.com/live/",
-		"liveapi": "http://news.tvb.com/live/inews",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "http://news.tvb.com/live/inews"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "无线新闻",
-				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/wxxw.png",
-				"group-title": "香港",
-				"title": "无线新闻台"
-			},
-		"m3u8": "tvbnews.m3u8"
-	     },
-	"4":{
-		"active": 1,
-		"plugin": "tvbnews_live",
-		"channel": "",
-		"website": "https://news.tvb.com/live/",
-		"liveapi": "http://news.tvb.com/live/j5_ch85",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "http://news.tvb.com/live/inews"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "无限财经",
-				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",
-				"group-title": "香港",
-				"title": "无线财经资讯台"
-			},
-		"m3u8": "tvbj5.m3u8"
-	     },
-	"5":{
-		"active": 1,
-		"plugin": "nownews_live",
-		"channel": "331",
-		"website": "https://news.now.com/home/live",
-		"liveapi": "https://d1jithvltpp1l1.cloudfront.net/getLiveURL?channelno=331&mode=prod&audioCode=&format=HLS&callerReferenceNo=%s",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://news.now.com/home/live"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Now直播台",
-				"tvg-logo": "http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_170_122",
-				"group-title": "香港",
-				"title": "Now直播台"
-			},
-		"m3u8": "nowlive.m3u8"
-	     },
-	"6":{
-		"active": 1,
-		"plugin": "nownews_live",
-		"channel": "332",
-		"website": "https://news.now.com/home/live",
-		"liveapi": "https://d1jithvltpp1l1.cloudfront.net/getLiveURL?channelno=332&mode=prod&audioCode=&format=HLS&callerReferenceNo=%s",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://news.now.com/home/live"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Now新闻台",
-				"tvg-logo": "http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch332_170_122",
-				"group-title": "香港",
-				"title": "Now新闻台"
-			},
-		"m3u8": "nownewszh.m3u8"
-	     },
-	"7":{
-		"active": 0,
-		"plugin": "nowplayer_live",
-		"channel": "332",
-		"website": "https://nowplayer.now.com/",
-		"liveapi": "https://nowplayer.now.com/liveplayer/play/",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://nowplayer.now.com/liveplayer/332"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Now NEWS",
-				"tvg-logo": "http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122",
-				"group-title": "香港",
-				"title": "Now NEWS"
-			},
-		"m3u8": "nownewsen.m3u8"
-	     },
-	"8":{
-		"active": 0,
-		"plugin": "nowplayer_live",
-		"channel": "630",
-		"website": "https://nowplayer.now.com/",
-		"liveapi": "https://nowplayer.now.com/liveplayer/play/",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://nowplayer.now.com/liveplayer/630"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Now Sports Prime",
-				"tvg-logo": "http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122",
-				"group-title": "香港",
-				"title": "Now Sports Prime"
-			},
-		"m3u8": "nowsports.m3u8"
-	     },
-	"9":{
-		"active": 1,
-		"plugin": "viutv_live",
-		"channel": "96",
-		"website": "https://viu.tv/",
-		"liveapi": "https://api.viu.now.com/p8/2/getLiveURL",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://viu.tv/ch/96"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "ViuTV6",
-				"tvg-logo": "http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122",
-				"group-title": "香港",
-				"title": "ViuTV6"
-			},
-		"m3u8": "viutv6.m3u8"
-	     },
-	"10":{
-		"active": 1,
-		"plugin": "viutv_live",
-		"channel": "99",
-		"website": "https://viu.tv/",
-		"liveapi": "https://api.viu.now.com/p8/2/getLiveURL",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://viu.tv/ch/99"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "ViuTV",
-				"tvg-logo": "http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_170_122",
-				"group-title": "香港",
-				"title": "ViuTV"
-			},
-		"m3u8": "viutv.m3u8"
-	     },
-	"11":{
-		"active": 1,
-		"plugin": "rthk_live",
-		"channel": "31",
-		"website": "https://www.rthk.hk/tv",
-		"liveapi": "https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": ""
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "RTHK31",
-				"tvg-logo": "http://www.nettv.live/uploads/18/1-1P409155110630.jpg",
-				"group-title": "香港",
-				"title": "RTHK31"
-			},
-		"m3u8": "rthk31.m3u8"
-	     },
-	"12":{
-		"active": 1,
-		"plugin": "rthk_live",
-		"channel": "32",
-		"website": "https://www.rthk.hk/tv",
-		"liveapi": "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": ""
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "RTHK32",
-				"tvg-logo": "http://www.nettv.live/uploads/18/1-1P41QA234925.jpg",
-				"group-title": "香港",
-				"title": "RTHK32"
-			},
-		"m3u8": "rthk32.m3u8"
-	     },
-	"13":{
-		"active": 1,
-		"plugin": "nhk_live",
-		"channel": "",
-		"website": "https://www3.nhk.or.jp/nhkworld/zh/live/",
-		"liveapi": "https://www3.nhk.or.jp/nhkworld/app/tv/hlslive_zhlive.json",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www3.nhk.or.jp/nhkworld/common/player/tv/zhlive/embed/embed.html"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "NHKWorld",
-				"tvg-logo": "http://www.nettv.live/uploads/allimg/19/1-1912251G3550-L.jpg",
-				"group-title": "日本",
-				"title": "NHK华语视界"
-			},
-		"m3u8": "nhkworldzh.m3u8"
-	     },
-	"14":{
-		"active": 1,
-		"plugin": "nhk_live",
-		"channel": "",
-		"website": "https://www3.nhk.or.jp/nhkworld/en/live/",
-		"liveapi": "https://www3.nhk.or.jp/nhkworld/app/tv/hlslive_web.json",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www3.nhk.or.jp/nhkworld/common/player/tv/zhlive/embed/embed.html"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "NHKWorldPremium",
-				"tvg-logo": "http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5aa73699999ec.png",
-				"group-title": "日本",
-				"title": "NHKWorldPremium"
-			},
-		"m3u8": "nhkworldjp.m3u8"
-	     },
-	"15":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=NvqKZHpKs-g",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=NvqKZHpKs-g"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Deutsche Welle (English)",
-				"tvg-logo": "http://static.iptv-epg.com/de/DeutscheWelleEn.de.png",
-				"group-title": "News",
-				"title": "Deutsche Welle (English)"
-			},
-		"m3u8": "DWNews.m3u8"
-	     },
-	"16":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=9Auq9mYxFEE",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=9Auq9mYxFEE"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Sky News",
-				"tvg-logo": "https://static.iptv-epg.com/gb/SkyNews.uk.png",
-				"group-title": "News",
-				"title": "Sky News"
-			},
-		"m3u8": "SKYNews.m3u8"
-	     },
-	"17":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=6xrJy-1_qS4",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=6xrJy-1_qS4"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Euronews",
-				"tvg-logo": "http://static.iptv-epg.com/ru/Euronews.ru.png",
-				"group-title": "News",
-				"title": "Euronews"
-			},
-		"m3u8": "EURONews.m3u8"
-	     },
-	"18":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=w_Ma8oQLmSM",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=w_Ma8oQLmSM"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "ABC News",
-				"tvg-logo": "http://www.nettv.live/uploads/18/1-1P5050119103U.jpg",
-				"group-title": "News",
-				"title": "ABC News"
-			},
-		"m3u8": "ABCNews.m3u8"
-	     },
-	"19":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=G-sCNxj2M2M",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=G-sCNxj2M2M"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "ABC News Australia",
-				"tvg-logo": "http://www.nettv.live/uploads/allimg/18/1-1P6092202230-L.jpg",
-				"group-title": "News",
-				"title": "ABC News Australia"
-			},
-		"m3u8": "ABCANews.m3u8"
-	     },
-	"20":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=ehNhVKPaMgY",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=ehNhVKPaMgY"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "NBC News Now",
-				"tvg-logo": "https://vignette.wikia.nocookie.net/logopedia/images/4/46/NBC_News_Now.svg/revision/latest/scale-to-width-down/200?cb=20200215015417",
-				"group-title": "News",
-				"title": "NBC News Now"
-			},
-		"m3u8": "NBCNewsNow.m3u8"
-	     },
-	"21":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=tPeUHECNLKs",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=tPeUHECNLKs"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "NBC2 News",
-				"tvg-logo": "https://wbbh.images.worldnow.com/images/16979810_G.png?auto=webp&disable=upscale&dpr=2&height=70&fit=bounds",
-				"group-title": "News",
-				"title": "NBC2 News"
-			},
-		"m3u8": "NBC2News.m3u8"
-	     },
-	"22":{
-		"active": 1,
-		"plugin": "dailymotion_live",
-		"channel": "",
-		"website": "https://www.dailymotion.com/embed/video/x3b68jn",
-		"liveapi": "https://www.dailymotion.com/embed/video/x3b68jn",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.dailymotion.com/embed/video/x3b68jn"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "CNEWS",
-				"tvg-logo": "https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png",
-				"group-title": "News",
-				"title": "CNEWS"
-			},
-		"m3u8": "CNEWS.m3u8"
-	     },
-	"23":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=Hu1FkdAOws0",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=Hu1FkdAOws0"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "TVBS新闻台",
-				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",
-				"group-title": "台湾",
-				"title": "TVBS新闻台"
-			},
-		"m3u8": "TVBSNews.m3u8"
-	     },
-	"24":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=NbjI0cARzjQ",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=NbjI0cARzjQ"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "台视新闻台",
-				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",
-				"group-title": "台湾",
-				"title": "台视新闻台"
-			},
-		"m3u8": "TTVNews.m3u8"
-	     },
-	"25":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=XxJKnDLYZz4",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=XxJKnDLYZz4"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "民视新闻台",
-				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",
-				"group-title": "台湾",
-				"title": "民视新闻台"
-			},
-		"m3u8": "FTVNews.m3u8"
-	     },
-	"26":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=TL8mmew3jb8",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=TL8mmew3jb8"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "华视新闻资讯台",
-				"tvg-logo": "https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png",
-				"group-title": "台湾",
-				"title": "华视新闻资讯台"
-			},
-		"m3u8": "CTSNews.m3u8"
-	     },
-	"27":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=RaIJ767Bj_M",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=RaIJ767Bj_M"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "东森新闻台",
-				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",
-				"group-title": "台湾",
-				"title": "东森新闻台"
-			},
-		"m3u8": "EBCNews.m3u8"
-	     },
-	"28":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=wUPPkSANpyo",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=wUPPkSANpyo"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "中天新闻台",
-				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/CtiNews.png",
-				"group-title": "台湾",
-				"title": "中天新闻台"
-			},
-		"m3u8": "CTINews.m3u8"
-	     },
-	"29":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=94wGQ2EFR98",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=94wGQ2EFR98"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "中视新闻台",
-				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",
-				"group-title": "台湾",
-				"title": "中视新闻台"
-			},
-		"m3u8": "CTVNews.m3u8"
-	     },
-	"30":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=4ZVUmEUFwaY",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=4ZVUmEUFwaY"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "三立新闻台",
-				"tvg-logo": "http://www.nettv.live/uploads/19/1-1Z4211S203T7.jpg",
-				"group-title": "台湾",
-				"title": "三立新闻台"
-			},
-		"m3u8": "SETNews.m3u8"
-	     },
-	"31":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=ag9nrgExHyg",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=ag9nrgExHyg"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "三立财经新闻台",
-				"tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/SETInews.png",
-				"group-title": "台湾",
-				"title": "三立iNEWS"
-			},
-		"m3u8": "SETINews.m3u8"
-	     },
-	"32":{
-		"active": 1,
-		"plugin": "myklik_live",
-		"channel": "1",
-		"referer": 1,
-		"website": "https://myklik.rtm.gov.my",
-		"liveapi": "https://myklik.rtm.gov.my/dmxConnect/api/Channels/filtering.php?cid=704&geo=HK&ch=%s",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://myklik.rtm.gov.my"
-			},
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "TV1",
-				"tvg-logo": "https://freeview.github.io/iptv/logos/tv1.png",
-				"group-title": "Malaysian",
-				"title": "TV1"
-			},
-		"m3u8": "TV1.m3u8"
-	     },
-	"33":{
-		"active": 1,
-		"plugin": "myklik_live",
-		"channel": "2",
-		"referer": 1,
-		"website": "https://myklik.rtm.gov.my",
-		"liveapi": "https://myklik.rtm.gov.my/dmxConnect/api/Channels/filtering.php?cid=704&geo=HK&ch=%s",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://myklik.rtm.gov.my"
-			},
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "TV2",
-				"tvg-logo": "https://freeview.github.io/iptv/logos/tv2.png",
-				"group-title": "Malaysian",
-				"title": "TV2"
-			},
-		"m3u8": "TV2.m3u8"
-	     },
-	"34":{
-		"active": 1,
-		"plugin": "dailymotion_live",
-		"channel": "",
-		"website": "https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah",
-		"liveapi": "https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah"
-			},
-		"referer": 1,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "TV3",
-				"tvg-logo": "https://freeview.github.io/iptv/logos/tv3.png",
-				"group-title": "Malaysian",
-				"title": "TV3"
-			},
-		"m3u8": "TV3.m3u8"
-	     },
-	"35":{
-		"active": 1,
-		"plugin": "dailymotion_live",
-		"channel": "",
-		"website": "https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg",
-		"liveapi": "https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "NTV7",
-				"tvg-logo": "https://freeview.github.io/iptv/logos/ntv7.png",
-				"group-title": "Malaysian",
-				"title": "NTV7"
-			},
-		"m3u8": "NTV7.m3u8"
-	     },
-	"36":{
-		"active": 1,
-		"plugin": "dailymotion_live",
-		"channel": "",
-		"website": "https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar",
-		"liveapi": "https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "8TV",
-				"tvg-logo": "https://freeview.github.io/iptv/logos/8tv.png",
-				"group-title": "Malaysian",
-				"title": "8TV"
-			},
-		"m3u8": "8TV.m3u8"
-	     },
-	"37":{
-		"active": 1,
-		"plugin": "dailymotion_live",
-		"channel": "",
-		"website": "https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0",
-		"liveapi": "https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "TV9",
-				"tvg-logo": "https://freeview.github.io/iptv/logos/tv9.png",
-				"group-title": "Malaysian",
-				"title": "TV9"
-			},
-		"m3u8": "TV9.m3u8"
-	     },
-	"38":{
-		"active": 1,
-		"plugin": "dailymotion_live",
-		"channel": "",
-		"website": "https://www.dailymotion.com/embed/video/x6zvnex",
-		"liveapi": "https://www.dailymotion.com/embed/video/x6zvnex",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.dailymotion.com/embed/video/x6zvnex"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Drama Sangat",
-				"tvg-logo": "https://freeview.github.io/iptv/logos/dramasangat.png",
-				"group-title": "Malaysian",
-				"title": "Drama Sangat"
-			},
-		"m3u8": "DramaSangat.m3u8"
-	     },
-	"39":{
-		"active": 1,
-		"plugin": "myklik_live",
-		"channel": "3",
-		"referer": 1,
-		"website": "https://myklik.rtm.gov.my",
-		"liveapi": "https://myklik.rtm.gov.my/dmxConnect/api/Channels/filtering.php?cid=704&geo=HK&ch=%s",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://myklik.rtm.gov.my"
-			},
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "OKEY",
-				"tvg-logo": "https://freeview.github.io/iptv/logos/okey.png",
-				"group-title": "Malaysian",
-				"title": "OKEY"
-			},
-		"m3u8": "OKEY.m3u8"
-	     },
-	"40":{
-		"active": 1,
-		"plugin": "myklik_live",
-		"channel": "4",
-		"referer": 1,
-		"website": "https://myklik.rtm.gov.my",
-		"liveapi": "https://myklik.rtm.gov.my/dmxConnect/api/Channels/filtering.php?cid=704&geo=HK&ch=%s",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://myklik.rtm.gov.my"
-			},
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "RTM Sports HD",
-				"tvg-logo": "https://freeview.github.io/iptv/logos/rtmhdsports.png",
-				"group-title": "Malaysian",
-				"title": "RTM Sports HD"
-			},
-		"m3u8": "RTMSports.m3u8"
-	     },
-	"41":{
-		"active": 1,
-		"plugin": "myklik_live",
-		"channel": "5",
-		"referer": 1,
-		"website": "https://myklik.rtm.gov.my",
-		"liveapi": "https://myklik.rtm.gov.my/dmxConnect/api/Channels/filtering.php?cid=704&geo=HK&ch=%s",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://myklik.rtm.gov.my"
-			},
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Berita RTM",
-				"tvg-logo": "https://freeview.github.io/iptv/logos/bes.png",
-				"group-title": "Malaysian",
-				"title": "Berita RTM"
-			},
-		"m3u8": "BeritaRTM.m3u8"
-	     },
-	"42":{
-		"active": 0,
-		"plugin": "nasatv_live",
-		"channel": "",
-		"referer": 1,
-		"website": "https://www.nasa.gov/multimedia/nasatv/index.html#public",
-		"liveapi": "https://mr-a.akamaihd.net/c/data/3117/108566/108566.1.1.201510271133.json",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.nasa.gov/multimedia/nasatv/index.html"
-			},
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "NASA TV Public",
-				"tvg-logo": "https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
-				"group-title": "Documentary",
-				"title": "NASA TV Public"
-			},
-		"m3u8": "NASATVp.m3u8"
-	     },
-	"43":{
-		"active": 0,
-		"plugin": "nasatv_live",
-		"channel": "",
-		"referer": 1,
-		"website": "https://www.nasa.gov/multimedia/nasatv/index.html#media",
-		"liveapi": "https://mr-a.akamaihd.net/c/data/3117/108567/108567.1.1.201510271133.json",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.nasa.gov/multimedia/nasatv/index.html"
-			},
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "NASA TV Media",
-				"tvg-logo": "https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
-				"group-title": "Documentary",
-				"title": "NASA TV Media"
-			},
-		"m3u8": "NASATVm.m3u8"
-	     },
-	"44":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=21X5lGlDOfg"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "NASA TV Public",
-				"tvg-logo": "https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
-				"group-title": "Documentary",
-				"title": "NASA TV Public"
-			},
-		"m3u8": "NASATVp-y.m3u8"
-	     },
-	"45":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=nA9UZF-SZoQ",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=nA9UZF-SZoQ"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "NASA TV Media",
-				"tvg-logo": "https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
-				"group-title": "Documentary",
-				"title": "NASA TV Media"
-			},
-		"m3u8": "NASATVm-y.m3u8"
-	     },
-	"46":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=u5QavktMPOg",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=u5QavktMPOg"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Earth Views",
-				"tvg-logo": "https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
-				"group-title": "Documentary",
-				"title": "Earth Views"
-			},
-		"m3u8": "EarthViews-y.m3u8"
-	     },
-	"47":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=BRkQ-ZGiNbc",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=BRkQ-ZGiNbc"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "WB Kids",
-				"tvg-logo": "https://i.ytimg.com/vi/BRkQ-ZGiNbc/hqdefault_live.jpg?sqp=CMCvpfQF-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAUHbt8Wp5Hof-2JE7bgmaaSi2o3Q",
-				"group-title": "Cartoon",
-				"title": "TOM & JERRY"
-			},
-		"m3u8": "WBKids.m3u8"
-	     },
-	"48":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=wUhVM98efxA",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=wUhVM98efxA"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "DC Kids",
-				"tvg-logo": "https://i.ytimg.com/vi/wUhVM98efxA/hqdefault_live.jpg?sqp=COyxpfQF-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCZxG0M0lXqLXVjByfpIYp-YAM7kQ",
-				"group-title": "Cartoon",
-				"title": "Teen Titans Go"
-			},
-		"m3u8": "DCKids.m3u8"
-	     },
-	"49":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "",
-		"liveapi": "https://www.youtube.com/watch?v=SiQrDuk4-iw",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=SiQrDuk4-iw"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "DC Girls",
-				"tvg-logo": "https://i.ytimg.com/vi/SiQrDuk4-iw/hqdefault_live.jpg?sqp=CJi0pfQF-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAgWPZs2GnC66QRvny1qTYLhiW8Ng",
-				"group-title": "Cartoon",
-				"title": "Supergirl"
-			},
-		"m3u8": "DCGirls.m3u8"
-	     },
-	"50":{
-		"active": 1,
-		"plugin": "fox5ny_live",
-		"channel": "0",
-		"website": "https://www.fox5ny.com/live",
-		"liveapi": "https://tkx.apis.anvato.net/rest/v2/mcp/video/adstR4XbPVnXPOAx?anvack=7xyKOOK7XpcObLZu5S7Ea8BTD7GpZyve",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.fox5ny.com/live"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Fox 5 New York",
-				"tvg-logo": "https://img.new.livestream.com/events/0000000000278ee3/43dcc2d1-7bc4-48b7-8315-012845031602_640x960.jpg",
-				"group-title": "News",
-				"title": "Fox 5 New York"
-			},
-		"m3u8": "fox5ny.m3u8"
-	     },
-	"51":{
-		"active": 1,
-		"plugin": "foxnews_live",
-		"channel": "0",
-		"website": "https://video.foxnews.com/v/5614615980001/?#sp=watch-live",
-		"liveapi": "https://api.foxnews.com/v3/video-player/5614615980001",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://static.foxnews.com/"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "Fox News",
-				"tvg-logo": "http://static.iptv-epg.com/us/FoxNews.us.png",
-				"group-title": "News",
-				"title": "Fox News"
-			},
-		"m3u8": "foxnews.m3u8"
-	     },
-	"52":{
-		"active": 1,
-		"plugin": "freeintertv_live",
-		"channel": "YmJjbmV3c19saXZl",
-		"website": "http://www.freeintertv.com/view/id-2328",
-		"liveapi": "http://www.freeintertv.com/myAjax/get_item_m3u8/",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": ""
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "BBC News",
-				"tvg-logo": "http://static.iptv-epg.com/gb/BBCNews.uk.png",
-				"group-title": "News",
-				"title": "BBC News"
-			},
-		"m3u8": "bbcnews.m3u8"
-	     },
-	"53":{
-		"active": 0,
-		"plugin": "freeintertv_live",
-		"channel": "Y25uX2xpdmU=",
-		"website": "http://www.freeintertv.com/view/id-200/1-1-0-1",
-		"liveapi": "http://www.freeintertv.com/myAjax/get_item_m3u8/",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": ""
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "CNN",
-				"tvg-logo": "http://static.iptv-epg.com/gb/CNN.uk.png",
-				"group-title": "News",
-				"title": "CNN"
-			},
-		"m3u8": "cnn.m3u8"
-	     },
-	"54":{
-		"active": 1,
-		"plugin": "youtube_live",
-		"channel": "",
-		"website": "https://www.youtube.com/watch?v=gdt2epqvCqM",
-		"liveapi": "https://www.youtube.com/watch?v=gdt2epqvCqM",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": "https://www.youtube.com/watch?v=gdt2epqvCqM"
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "CNN",
-				"tvg-logo": "http://static.iptv-epg.com/gb/CNN.uk.png",
-				"group-title": "News",
-				"title": "CNN"
-			},
-		"m3u8": "cnn.m3u8"
-	     },
-	"55":{
-		"active": 1,
-		"plugin": "freeintertv_live",
-		"channel": "Y25iY19saXZl",
-		"website": "http://www.freeintertv.com/view/id-200/1-1-0-1",
-		"liveapi": "http://www.freeintertv.com/myAjax/get_item_m3u8/",
-		"headers":
-			{
-				"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-				"Referer": ""
-			},
-		"referer": 0,
-		"m3uinfo":
-			{
-				"tvg-id": "",
-				"tvg-name": "CNBC",
-				"tvg-logo": "http://www.freeintertv.com/images/tv/cnbc_live.jpg",
-				"group-title": "News",
-				"title": "CNBC"
-			},
-		"m3u8": "CNBC.m3u8"
-	     }
-}
+[
+    {
+        "active":1,
+        "plugin":"huanyu_live",
+        "channel":"1",
+        "website":"http://globalnewstv.com.tw/tvonline-1/",
+        "liveapi":"https://www.faintv.com.tw/asianewslivechannel/1",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://globalnewstv.com.tw/tvonline-1/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"寰宇新闻",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",
+            "group-title":"台湾",
+            "title":"寰宇新闻台"
+        },
+        "m3u8":"globalnews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"huanyu_live",
+        "channel":"2",
+        "website":"http://globalnewstv.com.tw/tvonline-2/",
+        "liveapi":"https://www.faintv.com.tw/asianewslivechannel/2",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://globalnewstv.com.tw/tvonline-2/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"寰宇新闻2",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",
+            "group-title":"台湾",
+            "title":"寰宇新闻台湾台"
+        },
+        "m3u8":"globalnews2.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"tvbnews_live",
+        "channel":"",
+        "website":"https://news.tvb.com/live/",
+        "liveapi":"http://news.tvb.com/live/inews",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://news.tvb.com/live/inews"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"无线新闻",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/wxxw.png",
+            "group-title":"香港",
+            "title":"无线新闻台"
+        },
+        "m3u8":"tvbnews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"tvbnews_live",
+        "channel":"",
+        "website":"https://news.tvb.com/live/",
+        "liveapi":"http://news.tvb.com/live/j5_ch85",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://news.tvb.com/live/inews"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"无限财经",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",
+            "group-title":"香港",
+            "title":"无线财经资讯台"
+        },
+        "m3u8":"tvbj5.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"nownews_live",
+        "channel":"331",
+        "website":"https://news.now.com/home/live",
+        "liveapi":"https://d1jithvltpp1l1.cloudfront.net/getLiveURL?channelno=331&mode=prod&audioCode=&format=HLS&callerReferenceNo=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://news.now.com/home/live"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Now直播台",
+            "tvg-logo":"http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_170_122",
+            "group-title":"香港",
+            "title":"Now直播台"
+        },
+        "m3u8":"nowlive.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"nownews_live",
+        "channel":"332",
+        "website":"https://news.now.com/home/live",
+        "liveapi":"https://d1jithvltpp1l1.cloudfront.net/getLiveURL?channelno=332&mode=prod&audioCode=&format=HLS&callerReferenceNo=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://news.now.com/home/live"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Now新闻台",
+            "tvg-logo":"http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch332_170_122",
+            "group-title":"香港",
+            "title":"Now新闻台"
+        },
+        "m3u8":"nownewszh.m3u8"
+    },
+    {
+        "active":0,
+        "plugin":"nowplayer_live",
+        "channel":"332",
+        "website":"https://nowplayer.now.com/",
+        "liveapi":"https://nowplayer.now.com/liveplayer/play/",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://nowplayer.now.com/liveplayer/332"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Now NEWS",
+            "tvg-logo":"http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122",
+            "group-title":"香港",
+            "title":"Now NEWS"
+        },
+        "m3u8":"nownewsen.m3u8"
+    },
+    {
+        "active":0,
+        "plugin":"nowplayer_live",
+        "channel":"630",
+        "website":"https://nowplayer.now.com/",
+        "liveapi":"https://nowplayer.now.com/liveplayer/play/",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://nowplayer.now.com/liveplayer/630"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Now Sports Prime",
+            "tvg-logo":"http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122",
+            "group-title":"香港",
+            "title":"Now Sports Prime"
+        },
+        "m3u8":"nowsports.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"viutv_live",
+        "channel":"96",
+        "website":"https://viu.tv/",
+        "liveapi":"https://api.viu.now.com/p8/2/getLiveURL",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://viu.tv/ch/96"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"ViuTV6",
+            "tvg-logo":"http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122",
+            "group-title":"香港",
+            "title":"ViuTV6"
+        },
+        "m3u8":"viutv6.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"viutv_live",
+        "channel":"99",
+        "website":"https://viu.tv/",
+        "liveapi":"https://api.viu.now.com/p8/2/getLiveURL",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://viu.tv/ch/99"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"ViuTV",
+            "tvg-logo":"http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_170_122",
+            "group-title":"香港",
+            "title":"ViuTV"
+        },
+        "m3u8":"viutv.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"rthk_live",
+        "channel":"31",
+        "website":"https://www.rthk.hk/tv",
+        "liveapi":"https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"RTHK31",
+            "tvg-logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png",
+            "group-title":"香港",
+            "title":"RTHK31"
+        },
+        "m3u8":"rthk31.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"rthk_live",
+        "channel":"32",
+        "website":"https://www.rthk.hk/tv",
+        "liveapi":"https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"RTHK32",
+            "tvg-logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png",
+            "group-title":"香港",
+            "title":"RTHK32"
+        },
+        "m3u8":"rthk32.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"hkstv_live",
+        "channel":"1",
+        "website":"www.hkstv.tv/index/live.html",
+        "liveapi":"http://lives.hkstv.tv:5080/api/player/mutfysrq?protocal=hls&mode=live",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.hkstv.tv/player/flash/SewisePlayer.swf"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"HKS",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/hks.png",
+            "group-title":"香港",
+            "title":"香港卫视"
+        },
+        "m3u8":"hks.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "hkopentv_live",
+        "channel": "1",
+        "website": "http://www.hkopentv.com/#/live",
+        "liveapi": "http://tv.fantv.hk/portal/tv/api/webapi.jsp?at=c_vc&ty=1&vk=001&chan=77&gid=null",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.hkopentv.com/"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "香港开电视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",
+            "group-title": "香港",
+            "title": "香港开电视"
+        },
+        "m3u8": "hkopentv.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"nhk_live",
+        "channel":"",
+        "website":"https://www3.nhk.or.jp/nhkworld/zh/live/",
+        "liveapi":"https://www3.nhk.or.jp/nhkworld/app/tv/hlslive_zhlive.json",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www3.nhk.or.jp/nhkworld/common/player/tv/zhlive/embed/embed.html"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"NHKWorld",
+            "tvg-logo":"http://www.nettv.live/uploads/allimg/19/1-1912251G3550-L.jpg",
+            "group-title":"日本",
+            "title":"NHK华语视界"
+        },
+        "m3u8":"nhkworldzh.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"nhk_live",
+        "channel":"",
+        "website":"https://www3.nhk.or.jp/nhkworld/en/live/",
+        "liveapi":"https://www3.nhk.or.jp/nhkworld/app/tv/hlslive_web.json",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www3.nhk.or.jp/nhkworld/common/player/tv/zhlive/embed/embed.html"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"NHKWorldPremium",
+            "tvg-logo":"http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5aa73699999ec.png",
+            "group-title":"日本",
+            "title":"NHKWorldPremium"
+        },
+        "m3u8":"nhkworldjp.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=NvqKZHpKs-g",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=NvqKZHpKs-g"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Deutsche Welle (English)",
+            "tvg-logo":"http://static.iptv-epg.com/de/DeutscheWelleEn.de.png",
+            "group-title":"News",
+            "title":"Deutsche Welle (English)"
+        },
+        "m3u8":"DWNews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=9Auq9mYxFEE",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=9Auq9mYxFEE"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Sky News",
+            "tvg-logo":"https://static.iptv-epg.com/gb/SkyNews.uk.png",
+            "group-title":"News",
+            "title":"Sky News"
+        },
+        "m3u8":"SKYNews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=6xrJy-1_qS4",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=6xrJy-1_qS4"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Euronews",
+            "tvg-logo":"http://static.iptv-epg.com/ru/Euronews.ru.png",
+            "group-title":"News",
+            "title":"Euronews"
+        },
+        "m3u8":"EURONews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=w_Ma8oQLmSM",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=w_Ma8oQLmSM"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"ABC News",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P5050119103U.jpg",
+            "group-title":"News",
+            "title":"ABC News"
+        },
+        "m3u8":"ABCNews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=G-sCNxj2M2M",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=G-sCNxj2M2M"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"ABC News Australia",
+            "tvg-logo":"http://www.nettv.live/uploads/allimg/18/1-1P6092202230-L.jpg",
+            "group-title":"News",
+            "title":"ABC News Australia"
+        },
+        "m3u8":"ABCANews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=ehNhVKPaMgY",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=ehNhVKPaMgY"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"NBC News Now",
+            "tvg-logo":"https://vignette.wikia.nocookie.net/logopedia/images/4/46/NBC_News_Now.svg/revision/latest/scale-to-width-down/200?cb=20200215015417",
+            "group-title":"News",
+            "title":"NBC News Now"
+        },
+        "m3u8":"NBCNewsNow.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=tPeUHECNLKs",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=tPeUHECNLKs"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"NBC2 News",
+            "tvg-logo":"https://wbbh.images.worldnow.com/images/16979810_G.png?auto=webp&disable=upscale&dpr=2&height=70&fit=bounds",
+            "group-title":"News",
+            "title":"NBC2 News"
+        },
+        "m3u8":"NBC2News.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"dailymotion_live",
+        "channel":"",
+        "website":"https://www.dailymotion.com/embed/video/x3b68jn",
+        "liveapi":"https://www.dailymotion.com/embed/video/x3b68jn",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.dailymotion.com/embed/video/x3b68jn"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"CNEWS",
+            "tvg-logo":"https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png",
+            "group-title":"News",
+            "title":"CNEWS"
+        },
+        "m3u8":"CNEWS.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=Hu1FkdAOws0",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=Hu1FkdAOws0"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"TVBS新闻台",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",
+            "group-title":"台湾",
+            "title":"TVBS新闻台"
+        },
+        "m3u8":"TVBSNews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=NbjI0cARzjQ",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=NbjI0cARzjQ"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"台视新闻台",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",
+            "group-title":"台湾",
+            "title":"台视新闻台"
+        },
+        "m3u8":"TTVNews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=XxJKnDLYZz4",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=XxJKnDLYZz4"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"民视新闻台",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",
+            "group-title":"台湾",
+            "title":"民视新闻台"
+        },
+        "m3u8":"FTVNews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=TL8mmew3jb8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=TL8mmew3jb8"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"华视新闻资讯台",
+            "tvg-logo":"https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png",
+            "group-title":"台湾",
+            "title":"华视新闻资讯台"
+        },
+        "m3u8":"CTSNews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=RaIJ767Bj_M",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=RaIJ767Bj_M"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"东森新闻台",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",
+            "group-title":"台湾",
+            "title":"东森新闻台"
+        },
+        "m3u8":"EBCNews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=wUPPkSANpyo",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=wUPPkSANpyo"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"中天新闻台",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/CtiNews.png",
+            "group-title":"台湾",
+            "title":"中天新闻台"
+        },
+        "m3u8":"CTINews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=94wGQ2EFR98",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=94wGQ2EFR98"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"中视新闻台",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",
+            "group-title":"台湾",
+            "title":"中视新闻台"
+        },
+        "m3u8":"CTVNews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=4ZVUmEUFwaY",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=4ZVUmEUFwaY"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"三立新闻台",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z4211S203T7.jpg",
+            "group-title":"台湾",
+            "title":"三立新闻台"
+        },
+        "m3u8":"SETNews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=ag9nrgExHyg",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=ag9nrgExHyg"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"三立财经新闻台",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/SETInews.png",
+            "group-title":"台湾",
+            "title":"三立iNEWS"
+        },
+        "m3u8":"SETINews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"myklik_live",
+        "channel":"1",
+        "referer":1,
+        "website":"https://myklik.rtm.gov.my",
+        "liveapi":"https://myklik.rtm.gov.my/dmxConnect/api/Channels/filtering.php?cid=704&geo=HK&ch=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://myklik.rtm.gov.my"
+        },
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"TV1",
+            "tvg-logo":"https://freeview.github.io/iptv/logos/tv1.png",
+            "group-title":"Malaysian",
+            "title":"TV1"
+        },
+        "m3u8":"TV1.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"myklik_live",
+        "channel":"2",
+        "referer":1,
+        "website":"https://myklik.rtm.gov.my",
+        "liveapi":"https://myklik.rtm.gov.my/dmxConnect/api/Channels/filtering.php?cid=704&geo=HK&ch=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://myklik.rtm.gov.my"
+        },
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"TV2",
+            "tvg-logo":"https://freeview.github.io/iptv/logos/tv2.png",
+            "group-title":"Malaysian",
+            "title":"TV2"
+        },
+        "m3u8":"TV2.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"dailymotion_live",
+        "channel":"",
+        "website":"https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah",
+        "liveapi":"https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah"
+        },
+        "referer":1,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"TV3",
+            "tvg-logo":"https://freeview.github.io/iptv/logos/tv3.png",
+            "group-title":"Malaysian",
+            "title":"TV3"
+        },
+        "m3u8":"TV3.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"dailymotion_live",
+        "channel":"",
+        "website":"https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg",
+        "liveapi":"https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"NTV7",
+            "tvg-logo":"https://freeview.github.io/iptv/logos/ntv7.png",
+            "group-title":"Malaysian",
+            "title":"NTV7"
+        },
+        "m3u8":"NTV7.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"dailymotion_live",
+        "channel":"",
+        "website":"https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar",
+        "liveapi":"https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"8TV",
+            "tvg-logo":"https://freeview.github.io/iptv/logos/8tv.png",
+            "group-title":"Malaysian",
+            "title":"8TV"
+        },
+        "m3u8":"8TV.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"dailymotion_live",
+        "channel":"",
+        "website":"https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0",
+        "liveapi":"https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"TV9",
+            "tvg-logo":"https://freeview.github.io/iptv/logos/tv9.png",
+            "group-title":"Malaysian",
+            "title":"TV9"
+        },
+        "m3u8":"TV9.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"dailymotion_live",
+        "channel":"",
+        "website":"https://www.dailymotion.com/embed/video/x6zvnex",
+        "liveapi":"https://www.dailymotion.com/embed/video/x6zvnex",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.dailymotion.com/embed/video/x6zvnex"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Drama Sangat",
+            "tvg-logo":"https://freeview.github.io/iptv/logos/dramasangat.png",
+            "group-title":"Malaysian",
+            "title":"Drama Sangat"
+        },
+        "m3u8":"DramaSangat.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"myklik_live",
+        "channel":"3",
+        "referer":1,
+        "website":"https://myklik.rtm.gov.my",
+        "liveapi":"https://myklik.rtm.gov.my/dmxConnect/api/Channels/filtering.php?cid=704&geo=HK&ch=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://myklik.rtm.gov.my"
+        },
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"OKEY",
+            "tvg-logo":"https://freeview.github.io/iptv/logos/okey.png",
+            "group-title":"Malaysian",
+            "title":"OKEY"
+        },
+        "m3u8":"OKEY.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"myklik_live",
+        "channel":"4",
+        "referer":1,
+        "website":"https://myklik.rtm.gov.my",
+        "liveapi":"https://myklik.rtm.gov.my/dmxConnect/api/Channels/filtering.php?cid=704&geo=HK&ch=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://myklik.rtm.gov.my"
+        },
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"RTM Sports HD",
+            "tvg-logo":"https://freeview.github.io/iptv/logos/rtmhdsports.png",
+            "group-title":"Malaysian",
+            "title":"RTM Sports HD"
+        },
+        "m3u8":"RTMSports.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"myklik_live",
+        "channel":"5",
+        "referer":1,
+        "website":"https://myklik.rtm.gov.my",
+        "liveapi":"https://myklik.rtm.gov.my/dmxConnect/api/Channels/filtering.php?cid=704&geo=HK&ch=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://myklik.rtm.gov.my"
+        },
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Berita RTM",
+            "tvg-logo":"https://freeview.github.io/iptv/logos/bes.png",
+            "group-title":"Malaysian",
+            "title":"Berita RTM"
+        },
+        "m3u8":"BeritaRTM.m3u8"
+    },
+    {
+        "active":0,
+        "plugin":"nasatv_live",
+        "channel":"",
+        "referer":1,
+        "website":"https://www.nasa.gov/multimedia/nasatv/index.html#public",
+        "liveapi":"https://mr-a.akamaihd.net/c/data/3117/108566/108566.1.1.201510271133.json",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.nasa.gov/multimedia/nasatv/index.html"
+        },
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"NASA TV Public",
+            "tvg-logo":"https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
+            "group-title":"Documentary",
+            "title":"NASA TV Public"
+        },
+        "m3u8":"NASATVp.m3u8"
+    },
+    {
+        "active":0,
+        "plugin":"nasatv_live",
+        "channel":"",
+        "referer":1,
+        "website":"https://www.nasa.gov/multimedia/nasatv/index.html#media",
+        "liveapi":"https://mr-a.akamaihd.net/c/data/3117/108567/108567.1.1.201510271133.json",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.nasa.gov/multimedia/nasatv/index.html"
+        },
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"NASA TV Media",
+            "tvg-logo":"https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
+            "group-title":"Documentary",
+            "title":"NASA TV Media"
+        },
+        "m3u8":"NASATVm.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=21X5lGlDOfg",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=21X5lGlDOfg"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"NASA TV Public",
+            "tvg-logo":"https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
+            "group-title":"Documentary",
+            "title":"NASA TV Public"
+        },
+        "m3u8":"NASATVp-y.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=nA9UZF-SZoQ",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=nA9UZF-SZoQ"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"NASA TV Media",
+            "tvg-logo":"https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
+            "group-title":"Documentary",
+            "title":"NASA TV Media"
+        },
+        "m3u8":"NASATVm-y.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=u5QavktMPOg",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=u5QavktMPOg"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Earth Views",
+            "tvg-logo":"https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
+            "group-title":"Documentary",
+            "title":"Earth Views"
+        },
+        "m3u8":"EarthViews-y.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=BRkQ-ZGiNbc",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=BRkQ-ZGiNbc"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"WB Kids",
+            "tvg-logo":"https://i.ytimg.com/vi/BRkQ-ZGiNbc/hqdefault_live.jpg?sqp=CMCvpfQF-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAUHbt8Wp5Hof-2JE7bgmaaSi2o3Q",
+            "group-title":"Cartoon",
+            "title":"TOM & JERRY"
+        },
+        "m3u8":"WBKids.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=wUhVM98efxA",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=wUhVM98efxA"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"DC Kids",
+            "tvg-logo":"https://i.ytimg.com/vi/wUhVM98efxA/hqdefault_live.jpg?sqp=COyxpfQF-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCZxG0M0lXqLXVjByfpIYp-YAM7kQ",
+            "group-title":"Cartoon",
+            "title":"Teen Titans Go"
+        },
+        "m3u8":"DCKids.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"",
+        "liveapi":"https://www.youtube.com/watch?v=SiQrDuk4-iw",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=SiQrDuk4-iw"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"DC Girls",
+            "tvg-logo":"https://i.ytimg.com/vi/SiQrDuk4-iw/hqdefault_live.jpg?sqp=CJi0pfQF-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAgWPZs2GnC66QRvny1qTYLhiW8Ng",
+            "group-title":"Cartoon",
+            "title":"Supergirl"
+        },
+        "m3u8":"DCGirls.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"fox5ny_live",
+        "channel":"0",
+        "website":"https://www.fox5ny.com/live",
+        "liveapi":"https://tkx.apis.anvato.net/rest/v2/mcp/video/adstR4XbPVnXPOAx?anvack=7xyKOOK7XpcObLZu5S7Ea8BTD7GpZyve",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.fox5ny.com/live"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Fox 5 New York",
+            "tvg-logo":"https://img.new.livestream.com/events/0000000000278ee3/43dcc2d1-7bc4-48b7-8315-012845031602_640x960.jpg",
+            "group-title":"News",
+            "title":"Fox 5 New York"
+        },
+        "m3u8":"fox5ny.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"foxnews_live",
+        "channel":"0",
+        "website":"https://video.foxnews.com/v/5614615980001/?#sp=watch-live",
+        "liveapi":"https://api.foxnews.com/v3/video-player/5614615980001",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://static.foxnews.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Fox News",
+            "tvg-logo":"http://static.iptv-epg.com/us/FoxNews.us.png",
+            "group-title":"News",
+            "title":"Fox News"
+        },
+        "m3u8":"foxnews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"freeintertv_live",
+        "channel":"YmJjbmV3c19saXZl",
+        "website":"http://www.freeintertv.com/view/id-2328",
+        "liveapi":"http://www.freeintertv.com/myAjax/get_item_m3u8/",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"BBC News",
+            "tvg-logo":"http://static.iptv-epg.com/gb/BBCNews.uk.png",
+            "group-title":"News",
+            "title":"BBC News"
+        },
+        "m3u8":"bbcnews.m3u8"
+    },
+    {
+        "active":0,
+        "plugin":"freeintertv_live",
+        "channel":"Y25uX2xpdmU=",
+        "website":"http://www.freeintertv.com/view/id-200/1-1-0-1",
+        "liveapi":"http://www.freeintertv.com/myAjax/get_item_m3u8/",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"CNN",
+            "tvg-logo":"http://static.iptv-epg.com/gb/CNN.uk.png",
+            "group-title":"News",
+            "title":"CNN"
+        },
+        "m3u8":"cnn.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"youtube_live",
+        "channel":"",
+        "website":"https://www.youtube.com/watch?v=8OPehXrjE1M",
+        "liveapi":"https://www.youtube.com/watch?v=8OPehXrjE1M",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"https://www.youtube.com/watch?v=8OPehXrjE1M"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"CNN",
+            "tvg-logo":"http://static.iptv-epg.com/gb/CNN.uk.png",
+            "group-title":"News",
+            "title":"CNN"
+        },
+        "m3u8":"cnn.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"freeintertv_live",
+        "channel":"Y25iY19saXZl",
+        "website":"http://www.freeintertv.com/view/id-200/1-1-0-1",
+        "liveapi":"http://www.freeintertv.com/myAjax/get_item_m3u8/",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"CNBC",
+            "tvg-logo":"http://www.freeintertv.com/images/tv/cnbc_live.jpg",
+            "group-title":"News",
+            "title":"CNBC"
+        },
+        "m3u8":"CNBC.m3u8"
+    }
+]
