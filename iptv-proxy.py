@@ -60,33 +60,33 @@ def iptv_proxy(tvdb, logger):
 
     with open(tvdb) as file_obj:
 
-        info = json.load(file_obj)
-        for index in info:
-            active = info[index]["active"]
+        tvlives = json.load(file_obj)
+        for tv in tvlives:
+            active = tv["active"]
             if active == 0:
                 continue
-            channel = info[index]["channel"]
-            website = info[index]["website"]
-            liveapi = info[index]["liveapi"]
-            headers = info[index]["headers"]
-            referer = info[index]["referer"]
+            channel = tv["channel"]
+            website = tv["website"]
+            liveapi = tv["liveapi"]
+            headers = tv["headers"]
+            referer = tv["referer"]
             extinfo = [
-                        info[index]["m3uinfo"]["tvg-id"],
-                        info[index]["m3uinfo"]["tvg-name"],
-                        info[index]["m3uinfo"]["tvg-logo"],
-                        info[index]["m3uinfo"]["group-title"],
-                        info[index]["m3uinfo"]["title"]
+                        tv["m3uinfo"]["tvg-id"],
+                        tv["m3uinfo"]["tvg-name"],
+                        tv["m3uinfo"]["tvg-logo"],
+                        tv["m3uinfo"]["group-title"],
+                        tv["m3uinfo"]["title"]
                       ]
 
             try:
-                live_plugin = load_module(info[index]["plugin"])
+                live_plugin = load_module(tv["plugin"])
             except AttributeError:
-                logger.error("plugin %s not supported!"%(info[index]["plugin"]))
+                logger.error("plugin %s not supported!"%(tv["plugin"]))
                 continue
 
             live = live_plugin(channel, [website, liveapi, headers], extinfo, referer, logger)
 
-            m3u8 = info[index]["m3u8"]
+            m3u8 = tv["m3u8"]
             tv_table[m3u8] = live
 
     try:
