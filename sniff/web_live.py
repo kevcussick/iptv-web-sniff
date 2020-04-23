@@ -70,6 +70,7 @@ class web_live:
         except requests.exceptions.RequestException as err:
             self.logger.error(err)
             return
+
         response.encoding = 'utf-8'
         obj_m3u8 = m3u8.loads(response.text)
         base_path = base_uri(self.link)
@@ -79,4 +80,8 @@ class web_live:
             for media in playlist.media:
                 if not is_url(media.uri):
                     media.uri = urljoin(base_path, media.uri)
+        for segment in obj_m3u8.segments:
+            if not is_url(segment.uri):
+                segment.uri = urljoin(base_path, segment.uri)
+
         obj_m3u8.dump(m3u8file)

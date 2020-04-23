@@ -41,6 +41,7 @@ class iptv_proxy_handler(BaseHTTPRequestHandler):
 
             channel = live.sniff_stream()
             if channel is not None:
+                link = live.dump_link()
                 link = channel[5]
                 self.send_response(301)
                 self.send_header('Location', link)

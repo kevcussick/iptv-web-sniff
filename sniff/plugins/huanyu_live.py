@@ -10,7 +10,6 @@ class huanyu_live(web_live):
 
     def __init__(self, chname, request_info, extinfo, referer, logger):
 
-        self.session = None
         web_live.__init__(self, chname, request_info, extinfo, referer, logger)
 
     def sniff_stream(self):

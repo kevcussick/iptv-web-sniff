@@ -46,7 +46,7 @@ def web_sniff(tvdb, path, logger):
 
             try:
                 live_plugin = load_module(tv["plugin"])
-            except AttributeError:
+            except (AttributeError, ModuleNotFoundError):
                 logger.error("plugin %s not supported!"%(tv["plugin"]))
                 continue
 
