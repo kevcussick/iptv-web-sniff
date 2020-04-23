@@ -52,43 +52,46 @@ class iptv_proxy_handler(BaseHTTPRequestHandler):
             self.send_error(404)
 
 
-def iptv_proxy(tvdb, logger):
+def iptv_proxy(tvdbs, logger):
 
-    if not tvdb: tvdb = "./tvdb.txt"
-    if not os.path.exists(tvdb):
-        logger.error("tvdb.txt is not existed!")
-        return
+    if not tvdbs: tvdbs.append("./tvdb.txt")
 
-    with open(tvdb) as file_obj:
+    print(tvdbs)
+    for tvdb in tvdbs:
+        if not os.path.exists(tvdb):
+            logger.error("%s is not existed!"%(tvdb))
+            continue
 
-        tvlives = json.load(file_obj)
-        for tv in tvlives:
-            active = tv["active"]
-            if active == 0:
-                continue
-            channel = tv["channel"]
-            website = tv["website"]
-            liveapi = tv["liveapi"]
-            headers = tv["headers"]
-            referer = tv["referer"]
-            extinfo = [
-                        tv["m3uinfo"]["tvg-id"],
-                        tv["m3uinfo"]["tvg-name"],
-                        tv["m3uinfo"]["tvg-logo"],
-                        tv["m3uinfo"]["group-title"],
-                        tv["m3uinfo"]["title"]
-                      ]
+        with open(tvdb) as file_obj:
 
-            try:
-                live_plugin = load_module(tv["plugin"])
-            except (AttributeError, ModuleNotFoundError):
-                logger.error("plugin %s not supported!"%(tv["plugin"]))
-                continue
+            tvlives = json.load(file_obj)
+            for tv in tvlives:
+                active = tv["active"]
+                if active == 0:
+                    continue
+                channel = tv["channel"]
+                website = tv["website"]
+                liveapi = tv["liveapi"]
+                headers = tv["headers"]
+                referer = tv["referer"]
+                extinfo = [
+                            tv["m3uinfo"]["tvg-id"],
+                            tv["m3uinfo"]["tvg-name"],
+                            tv["m3uinfo"]["tvg-logo"],
+                            tv["m3uinfo"]["group-title"],
+                            tv["m3uinfo"]["title"]
+                          ]
 
-            live = live_plugin(channel, [website, liveapi, headers], extinfo, referer, logger)
+                try:
+                    live_plugin = load_module(tv["plugin"])
+                except (AttributeError, ModuleNotFoundError):
+                    logger.error("plugin %s not supported!"%(tv["plugin"]))
+                    continue
 
-            m3u8 = tv["m3u8"]
-            tv_table[m3u8] = live
+                live = live_plugin(channel, [website, liveapi, headers], extinfo, referer, logger)
+
+                m3u8 = tv["m3u8"]
+                tv_table[m3u8] = live
 
     try:
         server = HTTPServer(('0.0.0.0', 8080), iptv_proxy_handler)
@@ -111,7 +114,8 @@ if __name__ == '__main__':
     parser.add_argument(
             "-c",
             "--config",
-            action="store",
+            action="append",
+            default=[],
             required=False,
             help="web sniff channel database"
             )

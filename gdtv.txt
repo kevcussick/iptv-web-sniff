@@ -1,0 +1,296 @@
+[
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"25",
+        "website":"http://star.gdtv.cn/",
+        "liveapi":"http://star.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://star.gdtv.cn/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"广东卫视",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/20191212160855EEbT.png",
+            "group-title":"广东",
+            "title":"广东卫视"
+        },
+        "m3u8":"gdtv_weishi.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"26",
+        "website":"http://zj.gdtv.cn/",
+        "liveapi":"http://zj.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://zj.gdtv.cn/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"广东珠江",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/20191212172903csL9.png",
+            "group-title":"广东",
+            "title":"广东珠江"
+        },
+        "m3u8":"gdtv_zhujiang.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"27",
+        "website":"http://sports.gdtv.cn/",
+        "liveapi":"http://sports.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://sports.gdtv.cn/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"广东体育",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/20191212172934G3jE.png",
+            "group-title":"广东",
+            "title":"广东体育"
+        },
+        "m3u8":"gdtv_tiyu.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"28",
+        "website":"http://news.gdtv.cn/",
+        "liveapi":"http://news.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://news.gdtv.cn/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"广东新闻",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/20191212173628vaft.png",
+            "group-title":"广东",
+            "title":"广东新闻"
+        },
+        "m3u8":"gdtv_xinwen.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"7",
+        "website":"http://tvs2.gdtv.cn/",
+        "liveapi":"http://tvs2.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://tvs2.gdtv.cn/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"南方卫视",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/20191212173905zpXW.png",
+            "group-title":"广东",
+            "title":"南方卫视"
+        },
+        "m3u8":"gdtv_nanfangweishi.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"93",
+        "website":"http://tvs1.gdtv.cn/",
+        "liveapi":"http://tvs1.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://tvs1.gdtv.cn/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"经济科教",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/201912121738393mwv.png",
+            "group-title":"广东",
+            "title":"经济科教"
+        },
+        "m3u8":"gdtv_jingjikejiao.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"37",
+        "website":"http://tvs4.gdtv.cn/",
+        "liveapi":"http://tvs4.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://tvs4.gdtv.cn/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"广东影视",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/20191212174012glmD.png",
+            "group-title":"广东",
+            "title":"广东影视"
+        },
+        "m3u8":"gdtv_yingshi.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"166",
+        "website":"http://tvs3.gdtv.cn/",
+        "liveapi":"http://tvs3.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://tvs3.gdtv.cn/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"广东综艺",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/20191212173944KLNW.png",
+            "group-title":"广东",
+            "title":"广东综艺"
+        },
+        "m3u8":"gdtv_zongyi.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"30",
+        "website":"http://www.gdtv.cn/tv/world/",
+        "liveapi":"http://www.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://www.gdtv.cn/tv/world/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"广东国际",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/2019121217373748M5.png",
+            "group-title":"广东",
+            "title":"广东国际"
+        },
+        "m3u8":"gdtv_guoji.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"38",
+        "website":"http://tvs5.gdtv.cn/",
+        "liveapi":"http://tvs5.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://tvs5.gdtv.cn/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"广东少儿",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/20191212174035rBLE.png",
+            "group-title":"广东",
+            "title":"广东少儿"
+        },
+        "m3u8":"gdtv_shaoer.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"29",
+        "website":"http://cartoon.gdtv.cn/",
+        "liveapi":"http://cartoon.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://cartoon.gdtv.cn/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"嘉佳卡通",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/20191212173656dVO4.png",
+            "group-title":"广东",
+            "title":"嘉佳卡通"
+        },
+        "m3u8":"gdtv_jiajiakatong.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"33",
+        "website":"http://www.gdtv.cn/tv/house/",
+        "liveapi":"http://www.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://www.gdtv.cn/tv/house/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"广东房产",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/20191212174101jFAV.png",
+            "group-title":"广东",
+            "title":"广东房产"
+        },
+        "m3u8":"gdtv_fangchan.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"169",
+        "website":"http://www.gdtv.cn/tv/edu/",
+        "liveapi":"http://www.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://www.gdtv.cn/tv/edu/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"现代教育",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/201912/20191212174132KJzY.png",
+            "group-title":"广东",
+            "title":"现代教育"
+        },
+        "m3u8":"gdtv_xiandaijiaoyu.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"gdtv_live",
+        "channel":"101",
+        "website":"http://www.gdtv.cn/tv/yd/",
+        "liveapi":"http://www.gdtv.cn/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://www.gdtv.cn/tv/yd/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"广东移动",
+            "tvg-logo":"http://www.gdtv.cn/t/icon/202002/20200226143823lBEn.png",
+            "group-title":"广东",
+            "title":"广东移动"
+        },
+        "m3u8":"gdtv_yidong.m3u8"
+    }
+]

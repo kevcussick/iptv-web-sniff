@@ -1,0 +1,212 @@
+[
+    {
+        "active":1,
+        "plugin":"fjtv_live",
+        "channel":"2",
+        "website":"http://fj-9.fjtv.net/",
+        "liveapi":"http://www.fjtv.net/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://fj-9.fjtv.net/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"少儿频道",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z50515550a32.jpg",
+            "group-title":"福建",
+            "title":"少儿频道"
+        },
+        "m3u8":"fjtv_shaoer.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"fjtv_live",
+        "channel":"3",
+        "website":"http://hxtv.fjtv.net/",
+        "liveapi":"http://www.fjtv.net/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://hxtv.fjtv.net/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"海峡卫视",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P331133954G1.jpg",
+            "group-title":"福建",
+            "title":"海峡卫视"
+        },
+        "m3u8":"fjtv_haixia.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"fjtv_live",
+        "channel":"4",
+        "website":"http://1.fjtv.net/",
+        "liveapi":"http://www.fjtv.net/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://1.fjtv.net/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"综合频道",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z505155I6353.jpg",
+            "group-title":"福建",
+            "title":"综合频道"
+        },
+        "m3u8":"fjtv_zonghe.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"fjtv_live",
+        "channel":"5",
+        "website":"http://www.setv.fjtv.net/",
+        "liveapi":"http://www.fjtv.net/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://www.setv.fjtv.net/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"东南卫视",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P331133414641.jpg",
+            "group-title":"福建",
+            "title":"东南卫视"
+        },
+        "m3u8":"fjtv_weishi.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"fjtv_live",
+        "channel":"6",
+        "website":"http://ggpd.fjtv.net/",
+        "liveapi":"http://www.fjtv.net/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://ggpd.fjtv.net/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"公共频道",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z505155911111.jpg",
+            "group-title":"福建",
+            "title":"公共频道"
+        },
+        "m3u8":"fjtv_gonggong.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"fjtv_live",
+        "channel":"7",
+        "website":"http://www.fjtv.net/folder526/folder531/",
+        "liveapi":"http://www.fjtv.net/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://www.fjtv.net/folder526/folder531/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"电视剧频道",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z505160F4H4.jpg",
+            "group-title":"福建",
+            "title":"电视剧频道"
+        },
+        "m3u8":"fjtv_dianshiju.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"fjtv_live",
+        "channel":"8",
+        "website":"http://dspd.fjtv.net/",
+        "liveapi":"http://www.fjtv.net/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://dspd.fjtv.net/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"旅游频道",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z1161I601249.jpg",
+            "group-title":"福建",
+            "title":"旅游频道"
+        },
+        "m3u8":"fjtv_lvyou.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"fjtv_live",
+        "channel":"9",
+        "website":"http://www.fjtv.net/folder526/folder533/",
+        "liveapi":"http://www.fjtv.net/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://www.fjtv.net/folder526/folder533/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"经济频道",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z505160400649.jpg",
+            "group-title":"福建",
+            "title":"经济频道"
+        },
+        "m3u8":"fjtv_jingshi.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"fjtv_live",
+        "channel":"10",
+        "website":"http://tv8.fjtv.net/",
+        "liveapi":"http://www.fjtv.net/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://tv8.fjtv.net/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"体育频道",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z505160512115.jpg",
+            "group-title":"福建",
+            "title":"体育频道"
+        },
+        "m3u8":"fjtv_tiyu.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"fjtv_live",
+        "channel":"13",
+        "website":"http://news.fjtv.net/",
+        "liveapi":"http://www.fjtv.net/m2o/channel/channel_info.php",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+            "Referer":"http://news.fjtv.net/",
+            "Cookie": "WEB=20111111; UM_distinctid=171256c4c99290-0465258ace307b-36664c08-1fa400-171256c4c9bb2e; CNZZDATA1000002509=69667788-1585466901-%7C1585466901; CNZZDATA683920=cnzz_eid%3D1462648007-1585469976-%26ntime%3D1585469976; __statCU=1585471323.001"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"新闻频道",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z5051600323a.jpg",
+            "group-title":"福建",
+            "title":"新闻频道"
+        },
+        "m3u8":"fjtv_xinwen.m3u8"
+    }
+]

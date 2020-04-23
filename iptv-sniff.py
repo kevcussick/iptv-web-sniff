@@ -14,57 +14,62 @@ def load_module(string):
     return getattr(module, string)
 
 
-def web_sniff(tvdb, path, logger):
+def web_sniff(tvdbs, path, logger):
 
-    if tvdb is None: tvdb = "./tvdb.txt"
-    if path is None: path = "./playlist"
+    if not tvdbs: tvdbs = ["./tvdb.txt"]
+    if not path: path = "./playlist"
 
     playlist = os.path.join(path, "webtv.m3u")
 
     m3ulist = m3u.load(playlist, logger)
 
-    with open(tvdb) as file_obj:
+    for tvdb in tvdbs:
+        if not os.path.exists(tvdb):
+            logger.error("%s is not existed!"%(tvdb))
+            continue
 
-        tvlives = json.load(file_obj)
-        for tv in tvlives:
-            active = tv["active"]
-            if active == 0:
-                continue
-            channel = tv["channel"]
-            website = tv["website"]
-            liveapi = tv["liveapi"]
-            headers = tv["headers"]
-            referer = tv["referer"]
-            extinfo = [
-                        tv["m3uinfo"]["tvg-id"],
-                        tv["m3uinfo"]["tvg-name"],
-                        tv["m3uinfo"]["tvg-logo"],
-                        tv["m3uinfo"]["group-title"],
-                        tv["m3uinfo"]["title"]
-                      ]
-            m3u8file = os.path.join(path, tv["m3u8"])
+        with open(tvdb) as file_obj:
 
-            try:
-                live_plugin = load_module(tv["plugin"])
-            except (AttributeError, ModuleNotFoundError):
-                logger.error("plugin %s not supported!"%(tv["plugin"]))
-                continue
+            tvlives = json.load(file_obj)
+            for tv in tvlives:
+                active = tv["active"]
+                if active == 0:
+                    continue
+                channel = tv["channel"]
+                website = tv["website"]
+                liveapi = tv["liveapi"]
+                headers = tv["headers"]
+                referer = tv["referer"]
+                extinfo = [
+                            tv["m3uinfo"]["tvg-id"],
+                            tv["m3uinfo"]["tvg-name"],
+                            tv["m3uinfo"]["tvg-logo"],
+                            tv["m3uinfo"]["group-title"],
+                            tv["m3uinfo"]["title"]
+                          ]
+                m3u8file = os.path.join(path, tv["m3u8"])
 
-            live = live_plugin(channel, [website, liveapi, headers], extinfo, referer, logger)
+                try:
+                    live_plugin = load_module(tv["plugin"])
+                except (AttributeError, ModuleNotFoundError):
+                    logger.error("plugin %s not supported!"%(tv["plugin"]))
+                    continue
 
-            print("checking %s"%(m3u8file))
-            is_alive = live.check_alive(m3u8file)
-            if is_alive:
-                print("%s is alive"%(tv["m3u8"]))
-                continue
+                live = live_plugin(channel, [website, liveapi, headers], extinfo, referer, logger)
 
-            channel = live.sniff_stream()
-            if channel is not None:
-                m3ulist.update_channel(channel)
+                print("checking %s"%(m3u8file))
+                is_alive = live.check_alive(m3u8file)
+                if is_alive:
+                    print("%s is alive"%(tv["m3u8"]))
+                    continue
 
-            live.sniff_m3u8_file(m3u8file)
+                channel = live.sniff_stream()
+                if channel is not None:
+                    m3ulist.update_channel(channel)
 
-        m3ulist.dump_m3u(playlist)
+                live.sniff_m3u8_file(m3u8file)
+
+            m3ulist.dump_m3u(playlist)
 
 if __name__ == '__main__':
 
@@ -81,7 +86,8 @@ if __name__ == '__main__':
     parser.add_argument(
             "-c",
             "--config",
-            action="store",
+            action="append",
+            default=[],
             required=False,
             help="web sniff channel database"
             )
