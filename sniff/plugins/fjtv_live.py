@@ -20,7 +20,7 @@ class fjtv_live(web_live):
         print("probe website %s ......"%(self.website))
         liveurl = "%s?id=%s"%(self.liveapi, self.chname)
         epoch = int(time.time())
-        str = "97143b56f8c6b165201dfbabebc11592&YTE3Nzc0NmE5ODYzNWNiYWY2ODAwNmViNzk1M2VmZDM=&1.0.0&%s"%(epoch)
+        str = "97143b56f8c6b165201dfbabebc11592&YTE3Nzc0NmE5ODYzNWNiYWY2ODAwNmViNzk1M2VmZDM=&1.0.0&%d"%(epoch)
         hl = hashlib.md5()
         hl.update(str.encode(encoding="utf-8"))
         headers = {

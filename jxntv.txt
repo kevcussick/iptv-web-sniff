@@ -1,0 +1,212 @@
+[
+    {
+        "active":1,
+        "plugin":"jxntv_live",
+        "channel":"jxtv1",
+        "website":"http://www.jxntv.cn/live/",
+        "liveapi":"http://live.jxtvcn.com.cn/live-jxtv/tv_%s.m3u8?token=%s&t=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.jxntv.cn/live/",
+            "Cookie": "insert_cookie=58554222; PHPSESSID=7dhcdt0ongjcavng8jjv3egsb1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"江西卫视",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",
+            "group-title":"江西",
+            "title":"江西卫视"
+        },
+        "m3u8":"jxtv_1.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"jxntv_live",
+        "channel":"jxtv2",
+        "website":"http://www.jxntv.cn/live/",
+        "liveapi":"http://live.jxtvcn.com.cn/live-jxtv/tv_%s.m3u8?token=%s&t=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.jxntv.cn/live/",
+            "Cookie": "insert_cookie=58554222; PHPSESSID=7dhcdt0ongjcavng8jjv3egsb1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"都市频道",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P503002252526.jpg",
+            "group-title":"江西",
+            "title":"都市频道"
+        },
+        "m3u8":"jxtv_2.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"jxntv_live",
+        "channel":"jxtv3",
+        "website":"http://www.jxntv.cn/live/",
+        "liveapi":"http://live.jxtvcn.com.cn/live-jxtv/tv_%s.m3u8?token=%s&t=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.jxntv.cn/live/",
+            "Cookie": "insert_cookie=58554222; PHPSESSID=7dhcdt0ongjcavng8jjv3egsb1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"经济生活",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P5030035263R.jpg",
+            "group-title":"江西",
+            "title":"经济生活"
+        },
+        "m3u8":"jxtv_3.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"jxntv_live",
+        "channel":"jxtv4",
+        "website":"http://www.jxntv.cn/live/",
+        "liveapi":"http://live.jxtvcn.com.cn/live-jxtv/tv_%s.m3u8?token=%s&t=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.jxntv.cn/live/",
+            "Cookie": "insert_cookie=58554222; PHPSESSID=7dhcdt0ongjcavng8jjv3egsb1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"旅游频道",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P5030034222N.jpg",
+            "group-title":"江西",
+            "title":"旅游频道"
+        },
+        "m3u8":"jxtv_4.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"jxntv_live",
+        "channel":"jxtv5",
+        "website":"http://www.jxntv.cn/live/",
+        "liveapi":"http://live.jxtvcn.com.cn/live-jxtv/tv_%s.m3u8?token=%s&t=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.jxntv.cn/live/",
+            "Cookie": "insert_cookie=58554222; PHPSESSID=7dhcdt0ongjcavng8jjv3egsb1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"农业频道",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P5030033352V.jpg",
+            "group-title":"江西",
+            "title":"农业频道"
+        },
+        "m3u8":"jxtv_5.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"jxntv_live",
+        "channel":"jxtv6",
+        "website":"http://www.jxntv.cn/live/",
+        "liveapi":"http://live.jxtvcn.com.cn/live-jxtv/tv_%s.m3u8?token=%s&t=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.jxntv.cn/live/",
+            "Cookie": "insert_cookie=58554222; PHPSESSID=7dhcdt0ongjcavng8jjv3egsb1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"少儿频道",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P5030032161R.jpg",
+            "group-title":"江西",
+            "title":"少儿频道"
+        },
+        "m3u8":"jxtv_6.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"jxntv_live",
+        "channel":"jxtv7",
+        "website":"http://www.jxntv.cn/live/",
+        "liveapi":"http://live.jxtvcn.com.cn/live-jxtv/tv_%s.m3u8?token=%s&t=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.jxntv.cn/live/",
+            "Cookie": "insert_cookie=58554222; PHPSESSID=7dhcdt0ongjcavng8jjv3egsb1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"新闻频道",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P5030031323Q.jpg",
+            "group-title":"江西",
+            "title":"新闻频道"
+        },
+        "m3u8":"jxtv_7.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"jxntv_live",
+        "channel":"jxtv8",
+        "website":"http://www.jxntv.cn/live/",
+        "liveapi":"http://live.jxtvcn.com.cn/live-jxtv/tv_%s.m3u8?token=%s&t=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.jxntv.cn/live/",
+            "Cookie": "insert_cookie=58554222; PHPSESSID=7dhcdt0ongjcavng8jjv3egsb1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"移动电视",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P503003032296.jpg",
+            "group-title":"江西",
+            "title":"移动电视"
+        },
+        "m3u8":"jxtv_8.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"jxntv_live",
+        "channel":"fsgw",
+        "website":"http://www.jxntv.cn/live/",
+        "liveapi":"http://live.jxtvcn.com.cn/live-jxtv/tv_%s.m3u8?token=%s&t=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.jxntv.cn/live/",
+            "Cookie": "insert_cookie=58554222; PHPSESSID=7dhcdt0ongjcavng8jjv3egsb1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"风尚购物",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P503122602309.jpg",
+            "group-title":"江西",
+            "title":"风尚购物"
+        },
+        "m3u8":"jxtv_fsgw.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"jxntv_live",
+        "channel":"taoci",
+        "website":"http://www.jxntv.cn/live/",
+        "liveapi":"http://live.jxtvcn.com.cn/live-jxtv/tv_%s.m3u8?token=%s&t=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.jxntv.cn/live/",
+            "Cookie": "insert_cookie=58554222; PHPSESSID=7dhcdt0ongjcavng8jjv3egsb1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"陶瓷频道",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P503124210L2.jpg",
+            "group-title":"江西",
+            "title":"陶瓷频道"
+        },
+        "m3u8":"jxtv_taoci.m3u8"
+    }
+]
