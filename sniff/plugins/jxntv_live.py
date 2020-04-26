@@ -53,7 +53,6 @@ class jxntv_live(web_live):
         response.encoding = 'utf-8'
         info = json.loads(response.text)
         try:
-            print(response.text)
             info = json.loads(response.text)
             if info["up"] == 0:
                 self.logger.error(info)
