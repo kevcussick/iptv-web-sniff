@@ -333,7 +333,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"Deutsche Welle (English)",
-            "tvg-logo":"http://static.iptv-epg.com/de/DeutscheWelleEn.de.png",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P626111452607.jpg",
             "group-title":"News",
             "title":"Deutsche Welle (English)"
         },
@@ -353,7 +353,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"Sky News",
-            "tvg-logo":"https://static.iptv-epg.com/gb/SkyNews.uk.png",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P611202532b9.jpg",
             "group-title":"News",
             "title":"Sky News"
         },
@@ -373,7 +373,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"Euronews",
-            "tvg-logo":"http://static.iptv-epg.com/ru/Euronews.ru.png",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1PP5215443Q0.jpg",
             "group-title":"News",
             "title":"Euronews"
         },
@@ -1053,7 +1053,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"Fox News",
-            "tvg-logo":"http://static.iptv-epg.com/us/FoxNews.us.png",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1Q20QA351W5.jpg",
             "group-title":"News",
             "title":"Fox News"
         },
@@ -1073,14 +1073,14 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"BBC News",
-            "tvg-logo":"http://static.iptv-epg.com/gb/BBCNews.uk.png",
+            "tvg-logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/100px-BBC_News.svg.png",
             "group-title":"News",
             "title":"BBC News"
         },
         "m3u8":"bbcnews.m3u8"
     },
     {
-        "active":0,
+        "active":1,
         "plugin":"freeintertv_live",
         "channel":"Y25uX2xpdmU=",
         "website":"http://www.freeintertv.com/view/id-200/1-1-0-1",
@@ -1093,14 +1093,14 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"CNN",
-            "tvg-logo":"http://static.iptv-epg.com/gb/CNN.uk.png",
+            "tvg-logo":"http://www.nettv.live/uploads/allimg/19/1-1ZP41254320-L.jpg",
             "group-title":"News",
             "title":"CNN"
         },
         "m3u8":"cnn.m3u8"
     },
     {
-        "active":1,
+        "active":0,
         "plugin":"youtube_live",
         "channel":"",
         "website":"",
@@ -1113,7 +1113,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"CNN",
-            "tvg-logo":"http://static.iptv-epg.com/gb/CNN.uk.png",
+            "tvg-logo":"http://www.nettv.live/uploads/allimg/19/1-1ZP41254320-L.jpg",
             "group-title":"News",
             "title":"CNN"
         },
