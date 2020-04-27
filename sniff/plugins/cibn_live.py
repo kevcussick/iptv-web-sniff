@@ -32,7 +32,6 @@ class cibn_live(web_live):
         info = json.loads(response.text)
         try:
             info = json.loads(response.text)
-            print(info)
             if info["code"] != "1000":
                 self.logger.error(info)
                 return None
