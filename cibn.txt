@@ -482,7 +482,7 @@
     {
         "active":1,
         "plugin":"cibn_live",
-        "channel":"36",
+        "channel":"38",
         "website":"",
         "liveapi":"http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
         "headers":{
@@ -492,11 +492,211 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"朵丫乐园",
-            "tvg-logo":"http://www.nettv.live/uploads/allimg/20/1-20020Q503330-L.jpg",
+            "tvg-name":"斗牛财经",
+            "tvg-logo":"http://www.nettv.live/uploads/allimg/20/1-20021F005030-L.jpg",
             "group-title":"CIBN",
-            "title":"朵丫乐园"
+            "title":"斗牛财经"
         },
-        "m3u8":"cibn_cwhpd.m3u8"
+        "m3u8":"cibn_dncj.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"cibn_live",
+        "channel":"39",
+        "website":"",
+        "liveapi":"http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"流金岁月",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P42019194T45.jpg",
+            "group-title":"CIBN",
+            "title":"流金岁月"
+        },
+        "m3u8":"cibn_scpd.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"cibn_live",
+        "channel":"42",
+        "website":"",
+        "liveapi":"http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"艺术院线",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P420210ZD54.jpg",
+            "group-title":"CIBN",
+            "title":"艺术院线"
+        },
+        "m3u8":"cibn_teadj.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"cibn_live",
+        "channel":"46",
+        "website":"",
+        "liveapi":"http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"新知",
+            "tvg-logo":"http://www.nettv.live/uploads/allimg/20/1-20020Q43Z50-L.jpg",
+            "group-title":"CIBN",
+            "title":"新知"
+        },
+        "m3u8":"cibn_dyds.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"cibn_live",
+        "channel":"47",
+        "website":"",
+        "liveapi":"http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"电影综合",
+            "tvg-logo":"http://www.nettv.live/uploads/allimg/18/1-1P4202041390-L.jpg",
+            "group-title":"CIBN",
+            "title":"电影综合"
+        },
+        "m3u8":"cibn_dypd.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"cibn_live",
+        "channel":"48",
+        "website":"",
+        "liveapi":"http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"中国交通",
+            "tvg-logo":"https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title":"CIBN",
+            "title":"中国交通"
+        },
+        "m3u8":"cibn_zgjt.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"cibn_live",
+        "channel":"49",
+        "website":"",
+        "liveapi":"http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"纪录片",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P420212615119.jpg",
+            "group-title":"CIBN",
+            "title":"纪录片"
+        },
+        "m3u8":"cibn_jlpd.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"cibn_live",
+        "channel":"50",
+        "website":"",
+        "liveapi":"http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"环球奇观",
+            "tvg-logo":"https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title":"CIBN",
+            "title":"环球奇观"
+        },
+        "m3u8":"cibn_hqqg.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"cibn_live",
+        "channel":"50",
+        "website":"",
+        "liveapi":"http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"环球奇观",
+            "tvg-logo":"https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title":"CIBN",
+            "title":"环球奇观"
+        },
+        "m3u8":"cibn_hqqg.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"cibn_live",
+        "channel":"53",
+        "website":"",
+        "liveapi":"http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"综合",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P42019152OS.jpg",
+            "group-title":"CIBN",
+            "title":"综合"
+        },
+        "m3u8":"cibn_xqdpd.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"cibn_live",
+        "channel":"54",
+        "website":"",
+        "liveapi":"http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":""
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"动作影院",
+            "tvg-logo":"http://www.nettv.live/uploads/allimg/18/1-1P4202112240-L.jpg",
+            "group-title":"CIBN",
+            "title":"动作影院"
+        },
+        "m3u8":"cibn_dzyy.m3u8"
     }
 ]
