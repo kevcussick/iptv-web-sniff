@@ -1,0 +1,242 @@
+[
+    {
+        "active":1,
+        "plugin":"teslagram_live",
+        "channel":"31",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/live/channel_%s.m3u8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"RTHK31",
+            "tvg-logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png",
+            "group-title":"香港",
+            "title":"RTHK31"
+        },
+        "m3u8":"teslagram_rthk31.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"teslagram_live",
+        "channel":"32",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/live/channel_%s.m3u8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"RTHK32",
+            "tvg-logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png",
+            "group-title":"香港",
+            "title":"RTHK32"
+        },
+        "m3u8":"teslagram_rthk32.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"teslagram_live",
+        "channel":"77",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/live/channel_%s.m3u8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "香港开电视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",
+            "group-title": "香港",
+            "title": "香港开电视"
+        },
+        "m3u8": "teslagram_hkopentv.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"teslagram_live",
+        "channel":"99",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/live/channel_%s.m3u8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"ViuTV",
+            "tvg-logo":"http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_170_122",
+            "group-title":"香港",
+            "title":"ViuTV"
+        },
+        "m3u8":"teslagram_viutv.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"teslagram_live",
+        "channel":"108",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/live/channel_%s.m3u8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"有线财经资讯台",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",
+            "group-title":"香港",
+            "title":"有线财经资讯台"
+        },
+        "m3u8":"teslagram_cablenews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"teslagram_live",
+        "channel":"109",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/live/channel_%s.m3u8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"有线新闻台",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",
+            "group-title":"香港",
+            "title":"有线新闻台"
+        },
+        "m3u8":"teslagram_cablnews.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"teslagram_live",
+        "channel":"301",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/live/channel_%s.m3u8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"有线综合娱乐台",
+            "tvg-logo":"http://www.nettv.live/uploads/allimg/20/1-20011QP3070-L.jpg",
+            "group-title":"香港",
+            "title":"有线综合娱乐台"
+        },
+        "m3u8":"teslagram_familyentertainment.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"teslagram_live",
+        "channel":"1",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/now_proxy.php?channel=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Now直播台",
+            "tvg-logo":"http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_170_122",
+            "group-title":"香港",
+            "title":"Now直播台"
+        },
+        "m3u8":"teslagram_nowlive.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"teslagram_live",
+        "channel":"2",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/now_proxy.php?channel=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Now新闻台",
+            "tvg-logo":"http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch332_170_122",
+            "group-title":"香港",
+            "title":"Now新闻台"
+        },
+        "m3u8":"teslagram_nownewszh.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"teslagram_live",
+        "channel":"3",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/now_proxy.php?channel=%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"Now Sports Prime",
+            "tvg-logo":"http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122",
+            "group-title":"香港",
+            "title":"Now Sports Prime"
+        },
+        "m3u8":"teslagram_nowsports.m3u8"
+    },
+    {
+        "active":0,
+        "plugin":"teslagram_live",
+        "channel":"hk01",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/live/channel_%s.m3u8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"HK01",
+            "tvg-logo":"",
+            "group-title":"香港",
+            "title":"HK01"
+        },
+        "m3u8":"teslagram_hk01.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"teslagram_live",
+        "channel":"utv_c_plus",
+        "website":"http://teslagram.com/",
+        "liveapi":"http://teslagram.com/live/channel_%s.m3u8",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://teslagram.com/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"C+",
+            "tvg-logo":"http://www.nettv.live/uploads/allimg/20/1-20030PZH60-L.jpg",
+            "group-title":"香港",
+            "title":"C+"
+        },
+        "m3u8":"teslagram_cplus.m3u8"
+    }
+]
