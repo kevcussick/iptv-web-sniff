@@ -1,5 +1,6 @@
 from sniff.web_live import web_live
 from sniff.utils.m3u import m3u
+from sniff.utils.tv import tv
 
 import importlib
 import argparse
@@ -13,46 +14,45 @@ def load_module(string):
     module = importlib.import_module("sniff.plugins.%s"%(string))
     return getattr(module, string)
 
+def iptv_sniff(config, path, logger):
 
-def web_sniff(tvdbs, path, logger):
+    tv_obj = tv.load(config, logger)
 
-    if not tvdbs: tvdbs = ["./tvdb.txt"]
-    if not path: path = "./playlist"
-
-    playlist = os.path.join(path, "webtv.m3u")
+    playlist = os.path.join(path, tv_obj.m3ulist)
 
     m3ulist = m3u.load(playlist, logger)
 
-    for tvdb in tvdbs:
-        if not os.path.exists(tvdb):
-            logger.error("%s is not existed!"%(tvdb))
+    print(tv_obj.source)
+    for source in tv_obj.source:
+        if not os.path.exists(source):
+            logger.error("%s is not existed!"%(source))
             continue
 
-        with open(tvdb) as file_obj:
+        with open(source) as file_obj:
 
-            tvlives = json.load(file_obj)
-            for tv in tvlives:
-                active = tv["active"]
+            tvlive = json.load(file_obj)
+            for info in tvlive:
+                active = info["active"]
                 if active == 0:
                     continue
-                channel = tv["channel"]
-                website = tv["website"]
-                liveapi = tv["liveapi"]
-                headers = tv["headers"]
-                referer = tv["referer"]
+                channel = info["channel"]
+                website = info["website"]
+                liveapi = info["liveapi"]
+                headers = info["headers"]
+                referer = info["referer"]
                 extinfo = [
-                            tv["m3uinfo"]["tvg-id"],
-                            tv["m3uinfo"]["tvg-name"],
-                            tv["m3uinfo"]["tvg-logo"],
-                            tv["m3uinfo"]["group-title"],
-                            tv["m3uinfo"]["title"]
+                            info["m3uinfo"]["tvg-id"],
+                            info["m3uinfo"]["tvg-name"],
+                            info["m3uinfo"]["tvg-logo"],
+                            info["m3uinfo"]["group-title"],
+                            info["m3uinfo"]["title"]
                           ]
-                m3u8file = os.path.join(path, tv["m3u8"])
+                m3u8file = os.path.join(path, info["m3u8"])
 
                 try:
-                    live_plugin = load_module(tv["plugin"])
+                    live_plugin = load_module(info["plugin"])
                 except (AttributeError, ModuleNotFoundError):
-                    logger.error("plugin %s not supported!"%(tv["plugin"]))
+                    logger.error("plugin %s not supported!"%(info["plugin"]))
                     continue
 
                 live = live_plugin(channel, [website, liveapi, headers], extinfo, referer, logger)
@@ -60,7 +60,7 @@ def web_sniff(tvdbs, path, logger):
                 print("checking %s"%(m3u8file))
                 is_alive = live.check_alive(m3u8file)
                 if is_alive:
-                    print("%s is alive"%(tv["m3u8"]))
+                    print("%s is alive"%(info["m3u8"]))
                     continue
 
                 channel = live.sniff_stream()
@@ -70,6 +70,7 @@ def web_sniff(tvdbs, path, logger):
                 live.sniff_m3u8_file(m3u8file)
 
             m3ulist.dump_m3u(playlist)
+            m3ulist.dump_txt(os.path.join(path, tv_obj.txtlist))
 
 if __name__ == '__main__':
 
@@ -86,17 +87,18 @@ if __name__ == '__main__':
     parser.add_argument(
             "-c",
             "--config",
-            action="append",
-            default=[],
+            action="store",
+            default="config.json",
             required=False,
-            help="web sniff channel database"
+            help="web sniff configure file"
             )
     parser.add_argument(
             "-o",
             "--output",
             action="store",
+            default="playlist",
             required=False,
-            help="m3u playlist/m3u8 file store path"
+            help="m3u or txt playlist/m3u8 files store path"
             )
 
     args = parser.parse_args()
@@ -115,4 +117,4 @@ if __name__ == '__main__':
                         )
     logger = logging.getLogger("web sniff")
 
-    web_sniff(args.config, args.output, logger)
+    iptv_sniff(args.config, args.output, logger)

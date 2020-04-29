@@ -1,0 +1,24 @@
+{
+	"server":
+	{
+		"ip": "192.168.190.150",
+		"port": "8080"
+	},
+	"m3ulist": "tv.m3u",
+	"txtlist": "tv.txt",
+	"source":
+	[
+		"tvdb/cditv.txt",
+		"tvdb/cetv.txt",
+		"tvdb/cibn.txt",
+		"tvdb/fjtv.txt",
+		"tvdb/gdtv.txt",
+		"tvdb/gztv.txt",
+		"tvdb/jxntv.txt",
+		"tvdb/nntv.txt",
+		"tvdb/sctv.txt",
+		"tvdb/shtv.txt",
+		"tvdb/teslagram.txt",
+		"tvdb/mixed.txt"
+	]
+}

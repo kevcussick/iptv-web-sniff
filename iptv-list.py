@@ -1,7 +1,3 @@
-from http.server import BaseHTTPRequestHandler
-from http.server import HTTPServer
-from urllib import parse
-
 from sniff.web_live import web_live
 from sniff.utils.m3u import m3u
 from sniff.utils.tv import tv
@@ -14,46 +10,17 @@ import sys
 import os
 
 
-tv_table = {}
-
 def load_module(string):
     module = importlib.import_module("sniff.plugins.%s"%(string))
     return getattr(module, string)
 
-class iptv_proxy_handler(BaseHTTPRequestHandler):
-
-    def do_GET(self):
-        #http://192.168.1.1:8080/channel?cnn.m3u8
-        parsed_path = parse.urlparse(self.path)
-
-        try:
-            m3u8 = parsed_path.query
-            live = tv_table[m3u8]
-
-            link = live.dump_link()
-            if link:
-                self.send_response(301)
-                self.send_header('Location', link)
-                self.end_headers()
-                if live.check_alive(link):
-                    print("%s is alive!"%(m3u8))
-                    return
-
-            channel = live.sniff_stream()
-            if channel is not None:
-                link = live.dump_link()
-                link = channel[5]
-                self.send_response(301)
-                self.send_header('Location', link)
-                self.end_headers()
-            else:
-                self.send_error(404)
-        except:
-            self.send_error(404)
-
-def iptv_proxy(config, logger):
+def iptv_list(config, path, logger):
 
     tv_obj = tv.load(config, logger)
+
+    playlist = os.path.join(path, tv_obj.m3ulist)
+
+    m3ulist = m3u.load(playlist, logger)
 
     print(tv_obj.source)
     for source in tv_obj.source:
@@ -68,9 +35,6 @@ def iptv_proxy(config, logger):
                 active = info["active"]
                 if active == 0:
                     continue
-                channel = info["channel"]
-                website = info["website"]
-                liveapi = info["liveapi"]
                 headers = info["headers"]
                 referer = info["referer"]
                 extinfo = [
@@ -81,27 +45,19 @@ def iptv_proxy(config, logger):
                             info["m3uinfo"]["title"]
                           ]
 
-                try:
-                    live_plugin = load_module(info["plugin"])
-                except (AttributeError, ModuleNotFoundError):
-                    logger.error("plugin %s not supported!"%(info["plugin"]))
-                    continue
+                channel = extinfo
+                link = "http://%s:%s/channel?%s"%(tv_obj.server["ip"], tv_obj.server["port"], info["m3u8"])
+                channel.append(link) 
+                channel.append(headers["Referer"] if referer == 1 else "") 
+                m3ulist.update_channel(channel)
 
-                live = live_plugin(channel, [website, liveapi, headers], extinfo, referer, logger)
-
-                m3u8 = info["m3u8"]
-                tv_table[m3u8] = live
-
-    try:
-        server = HTTPServer(('0.0.0.0', 8080), iptv_proxy_handler)
-        server.serve_forever()
-    except KeyboardInterrupt:
-        sys.exit(0)
+            m3ulist.dump_m3u(playlist)
+            m3ulist.dump_txt(os.path.join(path, tv_obj.txtlist))
 
 if __name__ == '__main__':
 
     parser=argparse.ArgumentParser(
-            description='web m3u8 sniff tool'
+            description='web stream sniff tool'
             )
     parser.add_argument(
             "-v",
@@ -118,6 +74,14 @@ if __name__ == '__main__':
             required=False,
             help="web sniff configure file"
             )
+    parser.add_argument(
+            "-o",
+            "--output",
+            action="store",
+            default="playlist",
+            required=False,
+            help="m3u or txt playlist/m3u8 files store path"
+            )
 
     args = parser.parse_args()
 
@@ -133,6 +97,6 @@ if __name__ == '__main__':
                         datefmt="%d-%M-%Y %H:%M:%S",
                         level=logging_level
                         )
-    logger = logging.getLogger("iptv proxy")
+    logger = logging.getLogger("web sniff")
 
-    iptv_proxy(args.config, logger)
+    iptv_list(args.config, args.output, logger)

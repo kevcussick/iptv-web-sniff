@@ -26,16 +26,17 @@ class tvbnews_live(web_live):
         if find:
             link = find[0].replace('\\','')
             try:
-                response = requests.get(link, headers=self.headers)
+                response = requests.get(link, headers=self.headers, allow_redirects=False)
                 response.raise_for_status()
             except requests.exceptions.RequestException as err:
                 self.logger.error(err)
                 return None
 
-            if response.history:
-                self.logger.warning("%s %s"%(response.status_code, response.url))
+            if response.status_code != 302:
+                self.logger.error("m3u8 link not found!")
+                return None
 
-            link = response.url
+            link = response.headers["Location"]
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
             channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
             self.link = link

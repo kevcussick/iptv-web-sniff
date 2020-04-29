@@ -11,7 +11,7 @@ $ pip3 install -U m3u8
 
 ### sniff web stream
 ```console
-$ python3 iptv-sniff.py -c tvdb.txt -o playlist/
+$ python3 iptv-sniff.py -c config.json -o playlist/
 ```
 This will sniff all the APIs listed in tvdb.txt and dump a m3u playlist named webtv.m3u,
 then please use iptv player to add webtv.m3u when finished.
@@ -20,13 +20,17 @@ And enjoy it!
 
 ### iptv proxy server
 ```console
-$ python3 iptv-proxy.py -c tvdb.txt&
+$ python3 iptv-proxy.py -c config.json &
 ```
 - **make your own m3u playlist with proxy stream:**
 
-	1. refer to sample m3u playlist webtv.m3u
+	1. modify the ip address and port in config.json
 
-	2. change 192.168.1.1 to your own server ip address.
+	2. generate the m3u playlist of your own server
+```console
+	$ python3 iptv-list.py -c config.json &
+```
+
 
 - **play single stream example:**
 

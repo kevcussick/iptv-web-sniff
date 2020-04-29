@@ -93,25 +93,25 @@ class m3u:
         if m: tvg_title = m.group(1)
         return [tvg_id, tvg_name, tvg_logo, tvg_group, tvg_title]
 
-    def __query_channel(self, title):
+    def __query_channel_by_link(self, link):
+
+        for channel in self.database:
+            if channel["link"] == link:
+                return channel
+        return None
+
+    def __query_channel_by_title(self, title):
 
         for channel in self.database:
             if channel["title"] == title:
                 return channel
         return None
 
-    def query_link(self, title):
-
-        for channel in self.database:
-            if channel["title"] == title:
-                return channel["link"]
-        return ""
-
     def update_channel(self, channel):
 
         tvg_id, tvg_name, tvg_logo, group_title, title, link, referer = channel
 
-        new_channel = self.__query_channel(title)
+        new_channel = self.__query_channel_by_link(link)
         if new_channel is None:
             new_channel = {}
             new_channel["id"]    = tvg_id
