@@ -1053,7 +1053,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"Fox News",
-            "tvg-logo":"http://www.nettv.live/uploads/18/1-1Q20QA351W5.jpg",
+            "tvg-logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png",
             "group-title":"News",
             "title":"Fox News"
         },
@@ -1093,7 +1093,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"CNN",
-            "tvg-logo":"http://www.nettv.live/uploads/allimg/19/1-1ZP41254320-L.jpg",
+            "tvg-logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png",
             "group-title":"News",
             "title":"CNN"
         },
@@ -1113,7 +1113,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"CNN",
-            "tvg-logo":"http://www.nettv.live/uploads/allimg/19/1-1ZP41254320-L.jpg",
+            "tvg-logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png",
             "group-title":"News",
             "title":"CNN"
         },

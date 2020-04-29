@@ -93,7 +93,7 @@ def iptv_proxy(config, logger):
                 tv_table[m3u8] = live
 
     try:
-        server = HTTPServer(('0.0.0.0', 8080), iptv_proxy_handler)
+        server = HTTPServer(('0.0.0.0', tv_obj.server["port"]), iptv_proxy_handler)
         server.serve_forever()
     except KeyboardInterrupt:
         sys.exit(0)
@@ -101,7 +101,7 @@ def iptv_proxy(config, logger):
 if __name__ == '__main__':
 
     parser=argparse.ArgumentParser(
-            description='web m3u8 sniff tool'
+            description='web tv proxy tool'
             )
     parser.add_argument(
             "-v",

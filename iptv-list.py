@@ -57,7 +57,7 @@ def iptv_list(config, path, logger):
 if __name__ == '__main__':
 
     parser=argparse.ArgumentParser(
-            description='web stream sniff tool'
+            description='web tv playlist generate tool'
             )
     parser.add_argument(
             "-v",
