@@ -93,7 +93,7 @@ def iptv_proxy(config, logger):
                 tv_table[m3u8] = live
 
     try:
-        server = HTTPServer(('0.0.0.0', tv_obj.server["port"]), iptv_proxy_handler)
+        server = HTTPServer(('0.0.0.0', int(tv_obj.server["port"])), iptv_proxy_handler)
         server.serve_forever()
     except KeyboardInterrupt:
         sys.exit(0)
