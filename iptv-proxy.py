@@ -1,5 +1,6 @@
 from http.server import BaseHTTPRequestHandler
 from http.server import HTTPServer
+from socketserver import ThreadingMixIn
 from urllib import parse
 
 from sniff.web_live import web_live
@@ -20,6 +21,9 @@ def load_module(string):
     module = importlib.import_module("sniff.plugins.%s"%(string))
     return getattr(module, string)
 
+class ThreadingHTTPServer(ThreadingMixIn, HTTPServer):
+        pass
+
 class iptv_proxy_handler(BaseHTTPRequestHandler):
 
     def do_GET(self):
@@ -38,18 +42,17 @@ class iptv_proxy_handler(BaseHTTPRequestHandler):
                 if live.check_alive(link):
                     print("%s is alive!"%(m3u8))
                     return
-
-            channel = live.sniff_stream()
-            if channel is not None:
-                link = live.dump_link()
-                link = channel[5]
-                self.send_response(301)
-                self.send_header('Location', link)
-                self.end_headers()
             else:
-                self.send_error(404)
+                channel = live.sniff_stream()
+                if channel is not None:
+                    link = live.dump_link()
+                    self.send_response(301)
+                    self.send_header('Location', link)
+                    self.end_headers()
+                    return
         except:
-            self.send_error(404)
+            pass
+        self.send_error(404)
 
 def iptv_proxy(config, logger):
 
@@ -93,8 +96,8 @@ def iptv_proxy(config, logger):
                 tv_table[m3u8] = live
 
     try:
-        server = HTTPServer(('0.0.0.0', int(tv_obj.server["port"])), iptv_proxy_handler)
-        server.serve_forever()
+        httpd = ThreadingHTTPServer(('0.0.0.0', int(tv_obj.server["port"])), iptv_proxy_handler)
+        httpd.serve_forever()
     except KeyboardInterrupt:
         sys.exit(0)
 
