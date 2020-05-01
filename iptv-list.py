@@ -97,6 +97,6 @@ if __name__ == '__main__':
                         datefmt="%d-%M-%Y %H:%M:%S",
                         level=logging_level
                         )
-    logger = logging.getLogger("web sniff")
+    logger = logging.getLogger("iptv list")
 
     iptv_list(args.config, args.output, logger)

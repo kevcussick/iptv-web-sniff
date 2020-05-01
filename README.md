@@ -13,7 +13,7 @@ $ pip3 install -U m3u8
 ```console
 $ python3 iptv-sniff.py -c config.json -o playlist/
 ```
-This will sniff all the APIs listed in tvdb.txt and dump a m3u playlist named webtv.m3u,
+This will sniff all the APIs listed in tvdb and dump a m3u playlist named tv.m3u,
 then please use iptv player to add webtv.m3u when finished.
 
 And enjoy it!
