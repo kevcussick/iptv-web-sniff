@@ -2,7 +2,7 @@
     {
         "active":1,
         "plugin":"nntv_live",
-        "channel":"",
+        "channel":"2685186",
         "website":"",
         "liveapi":"http://app.nntv.cn/api/tt_live.php?type=1",
         "headers":{
@@ -12,11 +12,71 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"东方卫视",
-            "tvg-logo":"http://static.statickksmg.com/image/2017/01/22/9f31655009e37917eceeb573c02c439c.png",
-            "group-title":"上海",
-            "title":"东方卫视"
+            "tvg-name":"新闻综合频道",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P2221Q3533B.jpg",
+            "group-title":"南宁",
+            "title":"新闻综合频道"
         },
-        "m3u8":"shtv_dfws.m3u8"
+        "m3u8":"nntv_news.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"nntv_live",
+        "channel":"2685220",
+        "website":"",
+        "liveapi":"http://app.nntv.cn/api/tt_live.php?type=1",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://app.nntv.cn/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"都市生活频道",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P2221Q123D3.jpg",
+            "group-title":"南宁",
+            "title":"都市生活频道"
+        },
+        "m3u8":"nntv_metro.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"nntv_live",
+        "channel":"2685222",
+        "website":"",
+        "liveapi":"http://app.nntv.cn/api/tt_live.php?type=1",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://app.nntv.cn/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"影视娱乐频道",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P2221Q450N7.jpg",
+            "group-title":"南宁",
+            "title":"影视娱乐频道"
+        },
+        "m3u8":"nntv_vod.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"nntv_live",
+        "channel":"2685225",
+        "website":"",
+        "liveapi":"http://app.nntv.cn/api/tt_live.php?type=1",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://app.nntv.cn/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"公共频道",
+            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P2221QGW00.jpg",
+            "group-title":"南宁",
+            "title":"公共频道"
+        },
+        "m3u8":"nntv_pub.m3u8"
     }
 ]
