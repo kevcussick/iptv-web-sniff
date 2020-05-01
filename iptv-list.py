@@ -51,8 +51,8 @@ def iptv_list(config, path, logger):
                 channel.append(headers["Referer"] if referer == 1 else "") 
                 m3ulist.update_channel(channel)
 
-            m3ulist.dump_m3u(playlist)
-            m3ulist.dump_txt(os.path.join(path, tv_obj.txtlist))
+    m3ulist.dump_m3u(playlist)
+    m3ulist.dump_txt(os.path.join(path, tv_obj.txtlist))
 
 if __name__ == '__main__':
 

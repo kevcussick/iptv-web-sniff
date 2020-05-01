@@ -69,8 +69,8 @@ def iptv_sniff(config, path, logger):
 
                 live.sniff_m3u8_file(m3u8file)
 
-            m3ulist.dump_m3u(playlist)
-            m3ulist.dump_txt(os.path.join(path, tv_obj.txtlist))
+    m3ulist.dump_m3u(playlist)
+    m3ulist.dump_txt(os.path.join(path, tv_obj.txtlist))
 
 if __name__ == '__main__':
 
