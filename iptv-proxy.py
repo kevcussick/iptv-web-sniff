@@ -30,6 +30,7 @@ class iptv_proxy_handler(BaseHTTPRequestHandler):
         #http://192.168.1.1:8080/channel?cnn.m3u8
         parsed_path = parse.urlparse(self.path)
 
+        reply_done = False
         try:
             m3u8 = parsed_path.query
             live = tv_table[m3u8]
@@ -39,20 +40,24 @@ class iptv_proxy_handler(BaseHTTPRequestHandler):
                 self.send_response(301)
                 self.send_header('Location', link)
                 self.end_headers()
+
+                reply_done = True
+
                 if live.check_alive(link):
                     print("%s is alive!"%(m3u8))
                     return
-            else:
-                channel = live.sniff_stream()
-                if channel is not None:
-                    link = live.dump_link()
-                    self.send_response(301)
-                    self.send_header('Location', link)
-                    self.end_headers()
-                    return
+
+            channel = live.sniff_stream()
+            if channel is not None:
+                link = live.dump_link()
+                self.send_response(301)
+                self.send_header('Location', link)
+                self.end_headers()
+
+                reply_done = True
         except:
             pass
-        self.send_error(404)
+        if not reply_done: self.send_error(404)
 
 def iptv_proxy(config, logger):
 
