@@ -1,14 +1,16 @@
-from sniff.web_live import web_live
+from sniff.web_live import web_live, is_url
 
 import subprocess
 import requests
+import m3u8
 import json
 import time
 import re
 import os
 
 
-class hljtv_live(web_live):
+class hnntv_live(web_live):
+
 
     def __init__(self, chname, request_info, extinfo, referer, logger):
 
@@ -18,18 +20,22 @@ class hljtv_live(web_live):
 
         print("probe website %s ......"%(self.website))
         liveurl = self.liveapi%(self.chname)
+
         try:
             response = requests.get(liveurl, headers=self.headers)
             response.raise_for_status()
         except requests.exceptions.RequestException as err:
             self.logger.error(err)
-            return None
+            return
+
         response.encoding = 'utf-8'
+        info = json.loads(response.text)
         try:
             info = json.loads(response.text)
-            link = info[0]['m3u8']
-            self.extinfo[1] = info[0]['title']
-            self.extinfo[4] = info[0]['title']
+            if info[0]["id"] != self.chname:
+                self.logger.error(info)
+                return None
+            link = info[0]["m3u8"]
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
             channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
             self.link = link

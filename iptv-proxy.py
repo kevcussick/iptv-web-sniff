@@ -122,7 +122,7 @@ if __name__ == '__main__':
             "-c",
             "--config",
             action="store",
-            default="config.json",
+            default="tv.json",
             required=False,
             help="web sniff configure file"
             )

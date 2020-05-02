@@ -8,6 +8,7 @@
 	"txtlist": "tv.txt",
 	"source":
 	[
+		"tvdb/ahtv.txt",
 		"tvdb/cditv.txt",
 		"tvdb/cetv.txt",
 		"tvdb/cibn.txt",
@@ -15,6 +16,7 @@
 		"tvdb/gdtv.txt",
 		"tvdb/gztv.txt",
 		"tvdb/hljtv.txt",
+		"tvdb/hnntv.txt",
 		"tvdb/jxntv.txt",
 		"tvdb/nntv.txt",
 		"tvdb/sctv.txt",

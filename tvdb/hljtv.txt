@@ -12,10 +12,10 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"卫视频道",
+            "tvg-name":"黑龙江卫视",
             "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z322140P4623.jpg",
             "group-title":"黑龙江",
-            "title":"卫视频道"
+            "title":"黑龙江卫视"
         },
         "m3u8":"hljws.m3u8"
     },
