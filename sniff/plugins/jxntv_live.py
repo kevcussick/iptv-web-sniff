@@ -16,19 +16,6 @@ class jxntv_live(web_live):
 
         web_live.__init__(self, chname, request_info, extinfo, referer, logger)
 
-    def login_auth(self, epoch):
-
-        if jxntv_live.login == True:
-            return
-        loginauth = "https://app.jxntv.cn/Qiniu/liveauth/authlogin.php?t=%d"%(epoch)
-        try:
-            response = requests.get(loginauth, headers=self.headers)
-            response.raise_for_status()
-        except requests.exceptions.RequestException as err:
-            self.logger.error(err)
-            return
-        jxntv_live.login = True
-
     def sniff_stream(self):
 
         print("probe website %s ......"%(self.website))
