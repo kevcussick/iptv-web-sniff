@@ -25,7 +25,7 @@ class mtxjtv_live(web_live):
                 'cdnIndex':0,
                 'playType':'live',
                 'type':'cdn',
-                'url':'http://livehyw.chinamcache.com/xjtvs/zb000%s.flv'%(self.chname)}
+                'url':'http://livehyw.chinamcache.com/xjtvs/zb000%s.m3u8'%(self.chname)}
 
         try:
             response = requests.post(liveurl, json=data, headers=self.headers)
@@ -35,10 +35,8 @@ class mtxjtv_live(web_live):
             return None
         response.encoding = 'utf-8'
 
-        print(response.text)
         try:
             info = json.loads(response.text)
-            print(info)
             if info["code"] != "0000":
                 self.logger.error(info)
                 return None
