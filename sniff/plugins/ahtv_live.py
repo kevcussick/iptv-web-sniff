@@ -14,6 +14,10 @@ class ahtv_live(web_live):
 
         web_live.__init__(self, chname, request_info, extinfo, referer, logger)
 
+    def check_alive(self, uri):
+
+        return False
+
     def sniff_stream(self):
 
         print("probe website %s ......"%(self.website))
