@@ -13,7 +13,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"黑龙江卫视",
-            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z322140P4623.jpg",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",
             "group-title":"黑龙江",
             "title":"黑龙江卫视"
         },
