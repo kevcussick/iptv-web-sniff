@@ -13,7 +13,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"四川卫视",
-            "tvg-logo":"http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/ws/sichuan.png",
             "group-title":"四川",
             "title":"四川卫视"
         },
@@ -32,8 +32,8 @@
         "referer":1,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"文化旅游",
-            "tvg-logo":"http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582930276337.png",
+            "tvg-name":"SCTV2",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/sctv2.png",
             "group-title":"四川",
             "title":"文化旅游"
         },
@@ -52,8 +52,8 @@
         "referer":1,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"经济频道",
-            "tvg-logo":"http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583013117037.png",
+            "tvg-name":"SCTV3",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/sctv3.png",
             "group-title":"四川",
             "title":"经济频道"
         },
@@ -72,8 +72,8 @@
         "referer":1,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"新闻频道",
-            "tvg-logo":"http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583176595774.png",
+            "tvg-name":"SCTV4",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/sctv4.png",
             "group-title":"四川",
             "title":"新闻频道"
         },
@@ -92,8 +92,8 @@
         "referer":1,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"影视文艺",
-            "tvg-logo":"http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583488284000.png",
+            "tvg-name":"SCTV5",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/sctv5.png",
             "group-title":"四川",
             "title":"影视文艺"
         },
@@ -112,7 +112,7 @@
         "referer":1,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"星空购物",
+            "tvg-name":"SCTV6",
             "tvg-logo":"http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583604507485.png",
             "group-title":"四川",
             "title":"星空购物"
@@ -132,10 +132,10 @@
         "referer":1,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"妇女儿童",
-            "tvg-logo":"http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583712926914.png",
+            "tvg-name":"SCTV7",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/sctv7.png",
             "group-title":"四川",
-            "title":"妇女儿童"
+            "title":"妇女儿童频道"
         },
         "m3u8":"sctv_7.m3u8"
     },
@@ -152,10 +152,10 @@
         "referer":1,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"公共乡村",
-            "tvg-logo":"http://www.sctv.com/live/pdmk/pdnav/201801/W020190505398080699973.png",
+            "tvg-name":"SCTV9",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/sctv9.png",
             "group-title":"四川",
-            "title":"公共乡村"
+            "title":"公共频道"
         },
         "m3u8":"sctv_9.m3u8"
     },
@@ -173,7 +173,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"康巴卫视",
-            "tvg-logo":"http://www.sctv.com/live/pdmk/pdnav/201801/W020181031600928497907.png",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/ws/kangba.png",
             "group-title":"四川",
             "title":"康巴卫视"
         },
@@ -192,8 +192,8 @@
         "referer":1,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"科教频道",
-            "tvg-logo":"http://www.sctv.com/live/pdmk/pdnav/201801/W020181031601081372735.png",
+            "tvg-name":"SCTV8",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/sctv8.png",
             "group-title":"四川",
             "title":"科教频道"
         },

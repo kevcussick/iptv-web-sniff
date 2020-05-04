@@ -12,8 +12,8 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"CDTV-1",
-            "tvg-logo":"http://xysj.cditv.cn/2018/0427/20180427114541916.jpg",
+            "tvg-name":"CDTV1",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png",
             "group-title":"成都",
             "title":"新闻综合"
         },
@@ -32,8 +32,8 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"CDTV-2",
-            "tvg-logo":"http://xysj.cditv.cn/2018/0427/20180427114624564.jpg",
+            "tvg-name":"CDTV2",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png",
             "group-title":"成都",
             "title":"经济资讯"
         },
@@ -52,8 +52,8 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"CDTV-3",
-            "tvg-logo":"http://xysj.cditv.cn/2018/0427/20180427114648442.jpg",
+            "tvg-name":"CDTV3",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png",
             "group-title":"成都",
             "title":"都市生活"
         },
@@ -72,8 +72,8 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"CDTV-4",
-            "tvg-logo":"http://xysj.cditv.cn/2018/0427/20180427114700330.jpg",
+            "tvg-name":"CDTV4",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png",
             "group-title":"成都",
             "title":"影视文艺"
         },
@@ -92,8 +92,8 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"CDTV-5",
-            "tvg-logo":"http://xysj.cditv.cn/2018/0427/20180427114714564.jpg",
+            "tvg-name":"CDTV5",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png",
             "group-title":"成都",
             "title":"公共频道"
         },
@@ -112,8 +112,8 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"CDTV-6",
-            "tvg-logo":"http://xysj.cditv.cn/2018/0427/20180427114732449.jpg",
+            "tvg-name":"CDTV6",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png",
             "group-title":"成都",
             "title":"少儿频道"
         },
@@ -212,8 +212,8 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"美食天府",
-            "tvg-logo":"http://xysj.cditv.cn/2014/1028/20141028043006919.jpg",
+            "tvg-name":"CDTV7",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png",
             "group-title":"成都",
             "title":"美食天府"
         },
