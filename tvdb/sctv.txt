@@ -135,7 +135,7 @@
             "tvg-name":"SCTV7",
             "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/sctv7.png",
             "group-title":"四川",
-            "title":"妇女儿童频道"
+            "title":"妇女儿童"
         },
         "m3u8":"sctv_7.m3u8"
     },
