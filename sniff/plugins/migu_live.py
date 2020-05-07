@@ -30,9 +30,9 @@ class migu_live(web_live):
                 self.logger.error(info)
                 return None
             link = info["body"]["urlInfo"]["url"]
-            link = link.replace('1200','2500')
-            link = link.replace('1500','3000')
-            link = link.replace('51','57')
+            link = link.replace('/1200/','/2500/')
+            link = link.replace('/1500/','/3000/')
+            link = link.replace('/51/','/57/')
             u = urlparse(link)
             result = u._replace(netloc='live.hcs.cmvideo.cn')
             link = urlunparse(result)
