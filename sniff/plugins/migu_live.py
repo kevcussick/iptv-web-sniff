@@ -30,12 +30,15 @@ class migu_live(web_live):
                 self.logger.error(info)
                 return None
             link = info["body"]["urlInfo"]["url"]
+            link_orig = link
             link = link.replace('/1200/','/2500/')
             link = link.replace('/1500/','/3000/')
             link = link.replace('/51/','/57/')
             u = urlparse(link)
             result = u._replace(netloc='live.hcs.cmvideo.cn')
             link = urlunparse(result)
+            if not self.check_alive(link):
+                link = link_orig
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
             channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
             self.link = link
