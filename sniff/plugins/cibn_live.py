@@ -35,11 +35,15 @@ class cibn_live(web_live):
             if info["code"] != "1000":
                 self.logger.error(info)
                 return None
-            link = info["data"]["channelList"][int(self.chname)]["m3u8"]
-            print("  {0: <20}{1:}".format(self.extinfo[4], link))
-            channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
-            self.link = link
-            return channel
+            for channel in info["data"]["channelList"]:
+                if channel["channelId"] == int(self.chname):
+                    link = channel["m3u8"]
+                    print("  {0: <20}{1:}".format(self.extinfo[4], link))
+                    channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
+                    self.link = link
+                    return channel
+            self.logger.error(info)
+            return None
         except ValueError:
             self.logger.error(response.text)
             return None
