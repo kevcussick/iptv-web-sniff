@@ -34,7 +34,7 @@ class ahtv_live(web_live):
             info = json.loads(response.text)
             sign = info["sign"]
             tick = info["time"]
-            link = "http://pull.bdflv.ahtv.cn/live/%s.flv?timestamp=%s&secret=%s"%(self.chname, tick, sign)
+            link = "http://pull.bdflv.ahtv.cn/live/%s.m3u8?timestamp=%s&secret=%s"%(self.chname, tick, sign)
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
             channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
             self.link = link
@@ -42,3 +42,7 @@ class ahtv_live(web_live):
         except ValueError:
             self.logger.error(response.text)
             return None
+
+    def sniff_m3u8_file(self, m3u8file):
+
+        self.dump_custom_m3u8(self.link, m3u8file)

@@ -37,3 +37,7 @@ class hljtv_live(web_live):
         except ValueError:
             self.logger.error(response.text)
             return None
+
+    def sniff_m3u8_file(self, m3u8file):
+
+        self.dump_custom_m3u8(self.link, m3u8file)

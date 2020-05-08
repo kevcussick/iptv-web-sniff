@@ -40,3 +40,7 @@ class gztv_live(web_live):
         else:
             self.logger.error("m3u8 link not found!")
             return None
+
+    def sniff_m3u8_file(self, m3u8file):
+
+        self.dump_custom_m3u8(self.link, m3u8file)
