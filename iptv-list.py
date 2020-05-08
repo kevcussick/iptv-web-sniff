@@ -20,7 +20,7 @@ def iptv_list(config, path, logger):
 
     playlist = os.path.join(path, tv_obj.m3ulist)
 
-    m3ulist = m3u.load(playlist, logger)
+    m3ulist = m3u.loads("", logger)
 
     print(tv_obj.source)
     for source in tv_obj.source:
