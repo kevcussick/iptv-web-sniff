@@ -1,322 +1,722 @@
 [
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"1",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/192-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "1",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"CDTV1",
-            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png",
-            "group-title":"成都",
-            "title":"新闻综合"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CDTV1",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png",
+            "group-title": "成都",
+            "title": "新闻综合频道"
         },
-        "m3u8":"cdtv_1.m3u8"
+        "m3u8": "cditv_cdtv1.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"2",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/192-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "2",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"CDTV2",
-            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png",
-            "group-title":"成都",
-            "title":"经济资讯"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CDTV2",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png",
+            "group-title": "成都",
+            "title": "经济资讯频道"
         },
-        "m3u8":"cdtv_2.m3u8"
+        "m3u8": "cditv_cdtv2.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"3",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/192-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "3",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"CDTV3",
-            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png",
-            "group-title":"成都",
-            "title":"都市生活"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CDTV3",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png",
+            "group-title": "成都",
+            "title": "都市生活频道"
         },
-        "m3u8":"cdtv_3.m3u8"
+        "m3u8": "cditv_cdtv3.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"45",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/192-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "45",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"CDTV4",
-            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png",
-            "group-title":"成都",
-            "title":"影视文艺"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CDTV4",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png",
+            "group-title": "成都",
+            "title": "影视文艺频道"
         },
-        "m3u8":"cdtv_4.m3u8"
+        "m3u8": "cditv_cdtv4.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"5",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/192-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "5",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"CDTV5",
-            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png",
-            "group-title":"成都",
-            "title":"公共频道"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CDTV5",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png",
+            "group-title": "成都",
+            "title": "公共频道"
         },
-        "m3u8":"cdtv_5.m3u8"
+        "m3u8": "cditv_cdtv5.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"6",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/192-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "6",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"CDTV6",
-            "tvg-logo":"http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png",
-            "group-title":"成都",
-            "title":"少儿频道"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CDTV6",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png",
+            "group-title": "成都",
+            "title": "少儿频道"
         },
-        "m3u8":"cdtv_6.m3u8"
+        "m3u8": "cditv_cdtv6.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"556",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/2762-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "1152",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"金牛区有线电视台",
-            "tvg-logo":"http://xysj.cditv.cn/2018/0620/20180620095354231.png",
-            "group-title":"成都",
-            "title":"金牛区有线电视台"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CDTV-M 公交移动电视",
+            "tvg-logo": "http://xysj.cditv.cn/2019/0612/20190612104842118.png",
+            "group-title": "成都",
+            "title": "CDTV-M 公交移动电视"
         },
-        "m3u8":"cdtv_jntv.m3u8"
+        "m3u8": "cditv_1152.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"557",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/2762-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "556",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"双流区广播电视台",
-            "tvg-logo":"http://xysj.cditv.cn/2018/0620/20180620095731460.png",
-            "group-title":"成都",
-            "title":"双流区广播电视台"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "金牛区有线电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2018/0620/20180620032240219.jpg",
+            "group-title": "成都",
+            "title": "金牛区有线电视台"
         },
-        "m3u8":"cdtv_shuangliu.m3u8"
+        "m3u8": "cditv_556.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"559",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/2762-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "557",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"温江电视台",
-            "tvg-logo":"http://xysj.cditv.cn/2018/0620/20180620095837293.png",
-            "group-title":"成都",
-            "title":"温江电视台"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "双流区广播电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2019/0920/20190920024245468.png",
+            "group-title": "成都",
+            "title": "双流区广播电视台"
         },
-        "m3u8":"cdtv_wenjiang.m3u8"
+        "m3u8": "cditv_557.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"722",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/2762-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "559",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"高新电视台",
-            "tvg-logo":"http://xysj.cditv.cn/2018/0914/20180914032316181.png",
-            "group-title":"成都",
-            "title":"高新电视台"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "温江电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2018/0620/20180620032426450.jpg",
+            "group-title": "成都",
+            "title": "温江电视台"
         },
-        "m3u8":"cdtv_wgaoxin.m3u8"
+        "m3u8": "cditv_559.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"17",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/2763-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "722",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"CDTV7",
-            "tvg-logo":"http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png",
-            "group-title":"成都",
-            "title":"美食天府"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "高新电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2018/0914/20180914045139219.jpg",
+            "group-title": "成都",
+            "title": "高新电视台"
         },
-        "m3u8":"cdtv_7.m3u8"
+        "m3u8": "cditv_722.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"18",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/2763-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "760",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"每日购物",
-            "tvg-logo":"http://xysj.cditv.cn/2014/1028/20141028043021218.jpg",
-            "group-title":"成都",
-            "title":"每日购物"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "新津电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2018/1019/20181019115013942.png",
+            "group-title": "成都",
+            "title": "新津电视台"
         },
-        "m3u8":"cdtv_8.m3u8"
+        "m3u8": "cditv_760.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"9",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/2763-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "790",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"食尚频道",
-            "tvg-logo":"http://xysj.cditv.cn/2014/1028/20141028043209714.jpg",
-            "group-title":"成都",
-            "title":"食尚频道"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "大邑广播电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2018/1115/20181115060529298.png",
+            "group-title": "成都",
+            "title": "大邑广播电视台"
         },
-        "m3u8":"cdtv_shishang.m3u8"
+        "m3u8": "cditv_790.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"10",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/2763-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "796",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"汽车频道",
-            "tvg-logo":"http://xysj.cditv.cn/2014/1028/20141028043121838.jpg",
-            "group-title":"成都",
-            "title":"汽车频道"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "彭州市广播电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2018/1130/20181130125947544.png",
+            "group-title": "成都",
+            "title": "彭州市广播电视台"
         },
-        "m3u8":"cdtv_qiche.m3u8"
+        "m3u8": "cditv_796.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"11",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/2763-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "828",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"资讯新干线",
-            "tvg-logo":"http://xysj.cditv.cn/2014/1028/20141028043050378.jpg",
-            "group-title":"成都",
-            "title":"资讯新干线"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "蒲江电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2019/0107/20190107115522901.jpg",
+            "group-title": "成都",
+            "title": "蒲江电视台"
         },
-        "m3u8":"cdtv_zixun.m3u8"
+        "m3u8": "cditv_828.m3u8"
     },
     {
-        "active":1,
-        "plugin":"cditv_live",
-        "channel":"12",
-        "website":"http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi":"http://mob.api.cditv.cn/show/2763-%s.html",
-        "headers":{
-            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer":"http://www.cditv.cn/html/cdrtv/#live"
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "840",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
         },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"美食旅游",
-            "tvg-logo":"http://xysj.cditv.cn/2014/1028/20141028043106716.jpg",
-            "group-title":"成都",
-            "title":"美食旅游"
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "金堂电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2019/0125/20190125042316420.jpg",
+            "group-title": "成都",
+            "title": "金堂电视台"
         },
-        "m3u8":"cdtv_lvyou.m3u8"
+        "m3u8": "cditv_840.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "845",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "郫都区广播电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2019/0131/20190131053417442.jpg",
+            "group-title": "成都",
+            "title": "郫都区广播电视台"
+        },
+        "m3u8": "cditv_845.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "882",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "龙泉驿区新闻中心",
+            "tvg-logo": "http://xysj.cditv.cn/2019/0307/20190307050234724.jpg",
+            "group-title": "成都",
+            "title": "龙泉驿区新闻中心"
+        },
+        "m3u8": "cditv_882.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "910",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "青羊区融媒体中心",
+            "tvg-logo": "http://xysj.cditv.cn/2019/0327/20190327112719618.png",
+            "group-title": "成都",
+            "title": "青羊区融媒体中心"
+        },
+        "m3u8": "cditv_910.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "966",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "青白江融媒体中心",
+            "tvg-logo": "http://xysj.cditv.cn/2019/1015/20191015021550172.png",
+            "group-title": "成都",
+            "title": "青白江融媒体中心"
+        },
+        "m3u8": "cditv_966.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "1257",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "崇州电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2019/0809/20190809052547841.jpg",
+            "group-title": "成都",
+            "title": "崇州电视台"
+        },
+        "m3u8": "cditv_1257.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "1314",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "都江堰电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2019/0911/20190911055516981.png",
+            "group-title": "成都",
+            "title": "都江堰电视台"
+        },
+        "m3u8": "cditv_1314.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "1319",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "成华有线电视",
+            "tvg-logo": "http://xysj.cditv.cn/2019/0912/20190912024126525.png",
+            "group-title": "成都",
+            "title": "成华有线电视"
+        },
+        "m3u8": "cditv_1319.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "1427",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "邛崃电视台综合频道",
+            "tvg-logo": "http://xysj.cditv.cn/2019/1118/20191118104415984.png",
+            "group-title": "成都",
+            "title": "邛崃电视台综合频道"
+        },
+        "m3u8": "cditv_1427.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "1541",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "锦江电视",
+            "tvg-logo": "http://xysj.cditv.cn/2020/0110/20200110105513306.png",
+            "group-title": "成都",
+            "title": "锦江电视"
+        },
+        "m3u8": "cditv_1541.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "1698",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "简阳市广播电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2020/0412/20200412025109843.png",
+            "group-title": "成都",
+            "title": "简阳市广播电视台"
+        },
+        "m3u8": "cditv_1698.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "1712",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "新都区广播电视台",
+            "tvg-logo": "http://xysj.cditv.cn/2020/0420/20200420102743841.png",
+            "group-title": "成都",
+            "title": "新都区广播电视台"
+        },
+        "m3u8": "cditv_1712.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "17",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CDTV7",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png",
+            "group-title": "成都",
+            "title": "美食天府"
+        },
+        "m3u8": "cditv_17.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "18",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "每日购物",
+            "tvg-logo": "http://xysj.cditv.cn/2014/1028/20141028043021218.jpg",
+            "group-title": "成都",
+            "title": "每日购物"
+        },
+        "m3u8": "cditv_18.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "15",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "蓉城先锋 党建频道",
+            "tvg-logo": "http://xysj.cditv.cn/2014/1028/20141028043038678.jpg",
+            "group-title": "成都",
+            "title": "蓉城先锋 党建频道"
+        },
+        "m3u8": "cditv_15.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "560",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "家有购物",
+            "tvg-logo": "http://xysj.cditv.cn/2018/0330/20180330063740740.png",
+            "group-title": "成都",
+            "title": "家有购物"
+        },
+        "m3u8": "cditv_560.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "561",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "快乐购物",
+            "tvg-logo": "http://xysj.cditv.cn/2018/0330/20180330063759618.png",
+            "group-title": "成都",
+            "title": "快乐购物"
+        },
+        "m3u8": "cditv_561.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "11",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "资讯新干线",
+            "tvg-logo": "http://xysj.cditv.cn/2014/1028/20141028043050378.jpg",
+            "group-title": "成都",
+            "title": "资讯新干线"
+        },
+        "m3u8": "cditv_11.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "12",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "美食旅游频道",
+            "tvg-logo": "http://xysj.cditv.cn/2014/1028/20141028043106716.jpg",
+            "group-title": "成都",
+            "title": "美食旅游频道"
+        },
+        "m3u8": "cditv_12.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "10",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "汽车频道",
+            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/cibnqiche.jpg",
+            "group-title": "成都",
+            "title": "汽车频道"
+        },
+        "m3u8": "cditv_10.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cditv_live",
+        "channel": "9",
+        "website": "http://www.cditv.cn/html/cdrtv/#live",
+        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "食尚频道",
+            "tvg-logo": "http://xysj.cditv.cn/2014/1028/20141028043209714.jpg",
+            "group-title": "成都",
+            "title": "食尚频道"
+        },
+        "m3u8": "cditv_9.m3u8"
     }
 ]
