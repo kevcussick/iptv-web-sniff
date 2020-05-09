@@ -28,4 +28,4 @@ class ifeng_live(web_live):
 
     def sniff_m3u8_file(self, m3u8file):
 
-        self.dump_custom_m3u8(self.link, m3u8file)
+        pass
