@@ -1,5 +1,6 @@
 from urllib.parse import urljoin
 import requests
+import hashlib
 import logging
 import m3u8
 import os
@@ -58,6 +59,11 @@ class web_live:
             fd.write("#EXT-X-VERSION:3\n")
             fd.write("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n") 
             fd.write(link)
+
+    def md5(self, input):
+
+        hl = hashlib.md5(input.encode(encoding="utf-8"))
+        return hl.hexdigest()
 
     def sniff_m3u8_file(self, m3u8file):
 
