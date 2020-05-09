@@ -4,7 +4,7 @@
         "plugin": "cditv_live",
         "channel": "1",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/192-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -24,7 +24,7 @@
         "plugin": "cditv_live",
         "channel": "2",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/192-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -44,7 +44,7 @@
         "plugin": "cditv_live",
         "channel": "3",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/192-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -64,7 +64,7 @@
         "plugin": "cditv_live",
         "channel": "45",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/192-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -84,7 +84,7 @@
         "plugin": "cditv_live",
         "channel": "5",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/192-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -104,7 +104,7 @@
         "plugin": "cditv_live",
         "channel": "6",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/192-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -124,7 +124,7 @@
         "plugin": "cditv_live",
         "channel": "1152",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/192-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/192-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -144,7 +144,7 @@
         "plugin": "cditv_live",
         "channel": "556",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -164,7 +164,7 @@
         "plugin": "cditv_live",
         "channel": "557",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -184,7 +184,7 @@
         "plugin": "cditv_live",
         "channel": "559",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -204,7 +204,7 @@
         "plugin": "cditv_live",
         "channel": "722",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -224,7 +224,7 @@
         "plugin": "cditv_live",
         "channel": "760",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -244,7 +244,7 @@
         "plugin": "cditv_live",
         "channel": "790",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -264,7 +264,7 @@
         "plugin": "cditv_live",
         "channel": "796",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -284,7 +284,7 @@
         "plugin": "cditv_live",
         "channel": "828",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -304,7 +304,7 @@
         "plugin": "cditv_live",
         "channel": "840",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -324,7 +324,7 @@
         "plugin": "cditv_live",
         "channel": "845",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -344,7 +344,7 @@
         "plugin": "cditv_live",
         "channel": "882",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -364,7 +364,7 @@
         "plugin": "cditv_live",
         "channel": "910",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -384,7 +384,7 @@
         "plugin": "cditv_live",
         "channel": "966",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -404,7 +404,7 @@
         "plugin": "cditv_live",
         "channel": "1257",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -424,7 +424,7 @@
         "plugin": "cditv_live",
         "channel": "1314",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -444,7 +444,7 @@
         "plugin": "cditv_live",
         "channel": "1319",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -464,7 +464,7 @@
         "plugin": "cditv_live",
         "channel": "1427",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -484,7 +484,7 @@
         "plugin": "cditv_live",
         "channel": "1541",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -504,7 +504,7 @@
         "plugin": "cditv_live",
         "channel": "1698",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -524,7 +524,7 @@
         "plugin": "cditv_live",
         "channel": "1712",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2762-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2762-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -544,7 +544,7 @@
         "plugin": "cditv_live",
         "channel": "17",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2763-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -564,7 +564,7 @@
         "plugin": "cditv_live",
         "channel": "18",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2763-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -584,7 +584,7 @@
         "plugin": "cditv_live",
         "channel": "15",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2763-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -604,7 +604,7 @@
         "plugin": "cditv_live",
         "channel": "560",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2763-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -624,7 +624,7 @@
         "plugin": "cditv_live",
         "channel": "561",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2763-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -644,7 +644,7 @@
         "plugin": "cditv_live",
         "channel": "11",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2763-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -664,7 +664,7 @@
         "plugin": "cditv_live",
         "channel": "12",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2763-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -684,7 +684,7 @@
         "plugin": "cditv_live",
         "channel": "10",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2763-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
@@ -704,7 +704,7 @@
         "plugin": "cditv_live",
         "channel": "9",
         "website": "http://www.cditv.cn/html/cdrtv/#live",
-        "liveapi": "ttp://mob.api.cditv.cn/show/2763-%s.html",
+        "liveapi": "http://mob.api.cditv.cn/show/2763-%s.html",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
             "Referer": "http://www.cditv.cn/html/cdrtv/#live"
