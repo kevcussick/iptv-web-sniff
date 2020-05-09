@@ -693,7 +693,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "汽车频道",
-            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/cibnqiche.jpg",
+            "tvg-logo": "http://xysj.cditv.cn/2014/1028/20141028043121838.jpg",
             "group-title": "成都",
             "title": "汽车频道"
         },
