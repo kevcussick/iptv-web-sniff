@@ -132,12 +132,12 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CDTV-M 公交移动电视",
-            "tvg-logo": "http://xysj.cditv.cn/2019/0612/20190612104842118.png",
+            "tvg-name": "CDTVM",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/cdtv-m.jpg",
             "group-title": "成都",
-            "title": "CDTV-M 公交移动电视"
+            "title": "公交移动电视"
         },
-        "m3u8": "cditv_1152.m3u8"
+        "m3u8": "cditv_cdtvm.m3u8"
     },
     {
         "active": 1,
@@ -152,10 +152,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "金牛区有线电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2018/0620/20180620032240219.jpg",
+            "tvg-name": "金牛电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/jinniutai.jpg",
             "group-title": "成都",
-            "title": "金牛区有线电视台"
+            "title": "金牛电视台"
         },
         "m3u8": "cditv_556.m3u8"
     },
@@ -172,10 +172,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "双流区广播电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2019/0920/20190920024245468.png",
+            "tvg-name": "双流电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/shuangliu.jpg",
             "group-title": "成都",
-            "title": "双流区广播电视台"
+            "title": "双流电视台"
         },
         "m3u8": "cditv_557.m3u8"
     },
@@ -193,7 +193,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "温江电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2018/0620/20180620032426450.jpg",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/wenjiang.jpg",
             "group-title": "成都",
             "title": "温江电视台"
         },
@@ -213,7 +213,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "高新电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2018/0914/20180914045139219.jpg",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/cdgxpd.jpg",
             "group-title": "成都",
             "title": "高新电视台"
         },
@@ -233,7 +233,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "新津电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2018/1019/20181019115013942.png",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/xinjingtai.jpg",
             "group-title": "成都",
             "title": "新津电视台"
         },
@@ -252,10 +252,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "大邑广播电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2018/1115/20181115060529298.png",
+            "tvg-name": "大邑电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/dayitai.jpg",
             "group-title": "成都",
-            "title": "大邑广播电视台"
+            "title": "大邑电视台"
         },
         "m3u8": "cditv_790.m3u8"
     },
@@ -272,10 +272,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "彭州市广播电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2018/1130/20181130125947544.png",
+            "tvg-name": "彭州电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/pengzhoutai.jpg",
             "group-title": "成都",
-            "title": "彭州市广播电视台"
+            "title": "彭州电视台"
         },
         "m3u8": "cditv_796.m3u8"
     },
@@ -293,7 +293,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "蒲江电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2019/0107/20190107115522901.jpg",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/pujiangqu.jpg",
             "group-title": "成都",
             "title": "蒲江电视台"
         },
@@ -313,7 +313,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "金堂电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2019/0125/20190125042316420.jpg",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/jingtangtai.jpg",
             "group-title": "成都",
             "title": "金堂电视台"
         },
@@ -332,10 +332,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "郫都区广播电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2019/0131/20190131053417442.jpg",
+            "tvg-name": "郫都电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/pidutai.jpg",
             "group-title": "成都",
-            "title": "郫都区广播电视台"
+            "title": "郫都电视台"
         },
         "m3u8": "cditv_845.m3u8"
     },
@@ -352,10 +352,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "龙泉驿区新闻中心",
-            "tvg-logo": "http://xysj.cditv.cn/2019/0307/20190307050234724.jpg",
+            "tvg-name": "龙泉驿电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/longquanyi.jpg",
             "group-title": "成都",
-            "title": "龙泉驿区新闻中心"
+            "title": "龙泉驿电视台"
         },
         "m3u8": "cditv_882.m3u8"
     },
@@ -372,10 +372,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "青羊区融媒体中心",
-            "tvg-logo": "http://xysj.cditv.cn/2019/0327/20190327112719618.png",
+            "tvg-name": "青羊电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/qingyangqu.jpg",
             "group-title": "成都",
-            "title": "青羊区融媒体中心"
+            "title": "青羊电视台"
         },
         "m3u8": "cditv_910.m3u8"
     },
@@ -392,10 +392,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "青白江融媒体中心",
-            "tvg-logo": "http://xysj.cditv.cn/2019/1015/20191015021550172.png",
+            "tvg-name": "青白江电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/qingbaijiang.jpg",
             "group-title": "成都",
-            "title": "青白江融媒体中心"
+            "title": "青白江电视台"
         },
         "m3u8": "cditv_966.m3u8"
     },
@@ -413,7 +413,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "崇州电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2019/0809/20190809052547841.jpg",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/chongzhoutai.jpg",
             "group-title": "成都",
             "title": "崇州电视台"
         },
@@ -433,7 +433,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "都江堰电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2019/0911/20190911055516981.png",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/dujiangyan.jpg",
             "group-title": "成都",
             "title": "都江堰电视台"
         },
@@ -452,10 +452,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "成华有线电视",
-            "tvg-logo": "http://xysj.cditv.cn/2019/0912/20190912024126525.png",
+            "tvg-name": "成华电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/chenghuayouxian.jpg",
             "group-title": "成都",
-            "title": "成华有线电视"
+            "title": "成华电视台"
         },
         "m3u8": "cditv_1319.m3u8"
     },
@@ -472,10 +472,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "邛崃电视台综合频道",
-            "tvg-logo": "http://xysj.cditv.cn/2019/1118/20191118104415984.png",
+            "tvg-name": "邛崃电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/qionglaitai.jpg",
             "group-title": "成都",
-            "title": "邛崃电视台综合频道"
+            "title": "邛崃电视台"
         },
         "m3u8": "cditv_1427.m3u8"
     },
@@ -492,10 +492,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "锦江电视",
+            "tvg-name": "锦江电视台",
             "tvg-logo": "http://xysj.cditv.cn/2020/0110/20200110105513306.png",
             "group-title": "成都",
-            "title": "锦江电视"
+            "title": "锦江电视台"
         },
         "m3u8": "cditv_1541.m3u8"
     },
@@ -512,10 +512,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "简阳市广播电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2020/0412/20200412025109843.png",
+            "tvg-name": "简阳电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/jianyangtai.jpg",
             "group-title": "成都",
-            "title": "简阳市广播电视台"
+            "title": "简阳电视台"
         },
         "m3u8": "cditv_1698.m3u8"
     },
@@ -532,10 +532,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "新都区广播电视台",
-            "tvg-logo": "http://xysj.cditv.cn/2020/0420/20200420102743841.png",
+            "tvg-name": "新都电视台",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/xindutai.jpg",
             "group-title": "成都",
-            "title": "新都区广播电视台"
+            "title": "新都电视台"
         },
         "m3u8": "cditv_1712.m3u8"
     },
@@ -592,10 +592,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "蓉城先锋 党建频道",
-            "tvg-logo": "http://xysj.cditv.cn/2014/1028/20141028043038678.jpg",
+            "tvg-name": "蓉城先锋",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/cdtvianfeng.jpg",
             "group-title": "成都",
-            "title": "蓉城先锋 党建频道"
+            "title": "蓉城先锋频道"
         },
         "m3u8": "cditv_15.m3u8"
     },
@@ -653,7 +653,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "资讯新干线",
-            "tvg-logo": "http://xysj.cditv.cn/2014/1028/20141028043050378.jpg",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/cdzxxgx.jpg",
             "group-title": "成都",
             "title": "资讯新干线"
         },
@@ -673,7 +673,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "美食旅游频道",
-            "tvg-logo": "http://xysj.cditv.cn/2014/1028/20141028043106716.jpg",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/cdlyms.jpg",
             "group-title": "成都",
             "title": "美食旅游频道"
         },
@@ -713,7 +713,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "食尚频道",
-            "tvg-logo": "http://xysj.cditv.cn/2014/1028/20141028043209714.jpg",
+            "tvg-logo": "//www.tvyan.com/uploads/dianshi/cdsspd.jpg",
             "group-title": "成都",
             "title": "食尚频道"
         },
