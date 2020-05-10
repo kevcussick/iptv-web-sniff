@@ -18,10 +18,12 @@ import os
 tv_table = {}
 
 def load_module(string):
+
     module = importlib.import_module("sniff.plugins.%s"%(string))
     return getattr(module, string)
 
 class ThreadingHTTPServer(ThreadingMixIn, HTTPServer):
+
         pass
 
 class iptv_proxy_handler(BaseHTTPRequestHandler):
@@ -91,8 +93,8 @@ def iptv_proxy(config, logger):
 
                 try:
                     live_plugin = load_module(info["plugin"])
-                except (AttributeError, ModuleNotFoundError):
-                    logger.error("plugin %s not supported!"%(info["plugin"]))
+                except (AttributeError, ModuleNotFoundError) as err:
+                    logger.error("%s - plugin %s not supported!"%(err, info["plugin"]))
                     continue
 
                 live = live_plugin(channel, [website, liveapi, headers], extinfo, referer, logger)
