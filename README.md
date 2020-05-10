@@ -5,6 +5,7 @@ A web stream sniff and proxy tool
 This tool only support python3 and requires m3u8 package.
 ```console
 $ pip3 install -U m3u8
+$ pip3 install -U pycryptodome
 ```
 
 ## usage
