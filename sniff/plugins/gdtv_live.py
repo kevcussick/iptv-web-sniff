@@ -58,12 +58,11 @@ class gdtv_live(web_live):
         signature = self.md5(string)
         headers = {
             "X-API-TIMESTAMP": "%d"%(epoch),
-	    "X-API-KEY": "55f703e33e613e9482e1181ca8c71751",
-	    "X-AUTH-TYPE": "md5",
-	    "X-API-VERSION": "1.0.0",
-	    "X-API-SIGNATURE": signature,
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0"
-        }
+            "X-API-KEY": "55f703e33e613e9482e1181ca8c71751",
+            "X-AUTH-TYPE": "md5",
+            "X-API-VERSION": "1.0.0",
+            "X-API-SIGNATURE": signature,
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0"}
         try:
             response = requests.get(liveurl, headers=self.headers)
             #response = requests.get(liveurl, headers=headers)
