@@ -26,40 +26,49 @@ class ThreadingHTTPServer(ThreadingMixIn, HTTPServer):
 
         pass
 
-class iptv_proxy_handler(BaseHTTPRequestHandler):
+def iptv_proxy_handler(tvdb, logger):
 
-    def do_GET(self):
-        #http://192.168.1.1:8080/channel?cnn.m3u8
-        parsed_path = parse.urlparse(self.path)
+    class custom_iptv_proxy_handler(BaseHTTPRequestHandler):
 
-        reply_done = False
-        try:
+        def do_GET(self):
+            #http://192.168.1.1:8080/channel?cnn.m3u8
+            parsed_path = parse.urlparse(self.path)
+
+            reply_done = False
             m3u8 = parsed_path.query
-            live = tv_table[m3u8]
+            try:
+                live = tv_table[m3u8]
 
-            link = live.dump_link()
-            if link:
-                self.send_response(301)
-                self.send_header('Location', link)
-                self.end_headers()
-
-                reply_done = True
-
-                if live.check_alive(link):
-                    print("%s is alive!"%(m3u8))
-                    return
-
-            channel = live.sniff_stream()
-            if channel is not None:
                 link = live.dump_link()
-                self.send_response(301)
-                self.send_header('Location', link)
-                self.end_headers()
+                if link:
+                    self.send_response(301)
+                    self.send_header('Location', link)
+                    self.end_headers()
 
-                reply_done = True
-        except:
-            pass
-        if not reply_done: self.send_error(404)
+                    reply_done = True
+
+                    if live.check_alive(link):
+                        print("%s is alive!"%(m3u8))
+                        return
+
+                try:
+                    channel = live.sniff_stream()
+                except Exception:
+                    logger.error("plugin catch exception!", exc_info=True)
+
+                if channel is not None:
+                    link = live.dump_link()
+                    self.send_response(301)
+                    self.send_header('Location', link)
+                    self.end_headers()
+
+                    reply_done = True
+            except (ValueError, KeyError):
+                logger.error("channel %s not supported!"%m3u8)
+
+            if not reply_done: self.send_error(404)
+
+    return custom_iptv_proxy_handler
 
 def iptv_proxy(config, logger):
 
@@ -103,7 +112,7 @@ def iptv_proxy(config, logger):
                 tv_table[m3u8] = live
 
     try:
-        httpd = ThreadingHTTPServer(('0.0.0.0', int(tv_obj.server["port"])), iptv_proxy_handler)
+        httpd = ThreadingHTTPServer(('0.0.0.0', int(tv_obj.server["port"])), iptv_proxy_handler(tv_table, logger))
         httpd.serve_forever()
     except KeyboardInterrupt:
         sys.exit(0)

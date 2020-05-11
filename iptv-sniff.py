@@ -64,7 +64,11 @@ def iptv_sniff(config, path, logger):
                     print("%s is alive"%(info["m3u8"]))
                     continue
 
-                channel = live.sniff_stream()
+                try:
+                    channel = live.sniff_stream()
+                except Exception:
+                    logger.error("plugin %s catch exception!"%(info["plugin"]), exc_info=True)
+                    continue
                 if channel is not None:
                     m3ulist.update_channel(channel)
 
