@@ -880,7 +880,7 @@
         "m3u8":"BeritaRTM.m3u8"
     },
     {
-        "active":0,
+        "active":1,
         "plugin":"nasatv_live",
         "channel":"",
         "referer":1,
@@ -900,7 +900,7 @@
         "m3u8":"NASATVp.m3u8"
     },
     {
-        "active":0,
+        "active":1,
         "plugin":"nasatv_live",
         "channel":"",
         "referer":1,
