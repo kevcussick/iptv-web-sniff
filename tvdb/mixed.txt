@@ -332,8 +332,8 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"Deutsche Welle (English)",
-            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P626111452607.jpg",
+            "tvg-name":"DW",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/DW.png",
             "group-title":"News",
             "title":"Deutsche Welle (English)"
         },
@@ -352,8 +352,8 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"Sky News",
-            "tvg-logo":"http://www.nettv.live/uploads/18/1-1P611202532b9.jpg",
+            "tvg-name":"SkyNews",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",
             "group-title":"News",
             "title":"Sky News"
         },
@@ -372,8 +372,8 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"Euronews",
-            "tvg-logo":"http://www.nettv.live/uploads/18/1-1PP5215443Q0.jpg",
+            "tvg-name":"EuroNews",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/euronews.png",
             "group-title":"News",
             "title":"Euronews"
         },
@@ -393,7 +393,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"Euronews",
-            "tvg-logo":"http://www.nettv.live/uploads/18/1-1PP5215443Q0.jpg",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/euronews.png",
             "group-title":"News",
             "title":"Euronews"
         },
@@ -432,10 +432,10 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"ABC News Australia",
-            "tvg-logo":"http://www.nettv.live/uploads/allimg/18/1-1P6092202230-L.jpg",
+            "tvg-name":"ABCAustralia",
+            "tvg-logo":"http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png",
             "group-title":"News",
-            "title":"ABC News Australia"
+            "title":"ABCAustralia"
         },
         "m3u8":"ABCANews.m3u8"
     },
@@ -1072,7 +1072,7 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"Fox News",
+            "tvg-name":"FoxNews",
             "tvg-logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png",
             "group-title":"News",
             "title":"Fox News"
@@ -1092,7 +1092,7 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"BBC News",
+            "tvg-name":"BBCNews",
             "tvg-logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/100px-BBC_News.svg.png",
             "group-title":"News",
             "title":"BBC News"
@@ -1113,7 +1113,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"CNN",
-            "tvg-logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",
             "group-title":"News",
             "title":"CNN"
         },
@@ -1133,7 +1133,7 @@
         "m3uinfo":{
             "tvg-id":"",
             "tvg-name":"CNN",
-            "tvg-logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",
             "group-title":"News",
             "title":"CNN"
         },

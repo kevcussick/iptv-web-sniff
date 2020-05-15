@@ -12,8 +12,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-1",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/f/9/c/ca1f525f17a2eddd9c98fbe17997d9df/18dbb15bd3de54b65d7e037917b89271.png",
+            "tvg-name": "CCTV1",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
             "group-title": "贵州广电",
             "title": "CCTV-1"
         },
@@ -93,7 +93,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "贵州3",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv3.jpg",
             "group-title": "贵州广电",
             "title": "贵州3"
         },
@@ -113,7 +113,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "贵州4",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv4.jpg",
             "group-title": "贵州广电",
             "title": "贵州4"
         },
@@ -133,7 +133,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "贵州5",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv5.jpg",
             "group-title": "贵州广电",
             "title": "贵州5"
         },
@@ -153,7 +153,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "贵州6",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv6.jpg",
             "group-title": "贵州广电",
             "title": "贵州6"
         },
@@ -193,7 +193,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "贵州7",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "tvg-logo": "http://www.nettv.live/uploads/allimg/19/1-1Z41G620410-L.jpg",
             "group-title": "贵州广电",
             "title": "贵州7"
         },
@@ -213,7 +213,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "贵阳1",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "tvg-logo": "http://www.nettv.live/uploads/19/1-1Z419160R1933.jpg",
             "group-title": "贵州广电",
             "title": "贵阳1"
         },
@@ -232,8 +232,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-2",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/8/4/2/2a8ffd4ee56b3fe048ac854671336398/2692cf0e3bbf5337d77b5918644774ae.png",
+            "tvg-name": "CCTV2",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",
             "group-title": "贵州广电",
             "title": "CCTV-2"
         },
@@ -252,8 +252,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-3",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/f/c/9/9c19c05ea31400b3c85598e71b2c39cf/30766fb748d7554e27106b4bd2aa70e4.png",
+            "tvg-name": "CCTV3",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",
             "group-title": "贵州广电",
             "title": "CCTV-3"
         },
@@ -272,8 +272,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-4",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/2/a/0/0ad5b86534e39cb9a77b00a76ac9fe12/859cf1f53ca699c0db9aa3c11047630c.png",
+            "tvg-name": "CCTV4",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",
             "group-title": "贵州广电",
             "title": "CCTV-4"
         },
@@ -292,8 +292,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-5",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/b/2/4/4f8e268f178c3b0d2cf82c2997b0346b/1046b3fc5548eef0a3098b9fbf50cd0e.png",
+            "tvg-name": "CCTV5",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",
             "group-title": "贵州广电",
             "title": "CCTV-5"
         },
@@ -312,8 +312,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-6",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/7/2/f/f590aa425023d9a327fa1b69678f51e7/0f82ac3b1bb6b8bbed5df814e8db429e.png",
+            "tvg-name": "CCTV6",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",
             "group-title": "贵州广电",
             "title": "CCTV-6"
         },
@@ -332,8 +332,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-7",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/c/9/3/3fa4584c5de70fde94692563299e998c/a6767169842f1522eac3280fd3b9d2f5.png",
+            "tvg-name": "CCTV7",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",
             "group-title": "贵州广电",
             "title": "CCTV-7"
         },
@@ -352,8 +352,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-8",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/6/7/b/b755332610506fe4746830b72438ae86/019b4f7c570a91051dc67ed45d29cdda.png",
+            "tvg-name": "CCTV8",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",
             "group-title": "贵州广电",
             "title": "CCTV-8"
         },
@@ -372,8 +372,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-9",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/5/5/0/0f8ce350b1250e8e50f4d1b10042b1c5/527c3e8fc195763371cf6c6b0a3ae42f.png",
+            "tvg-name": "CCTV9",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",
             "group-title": "贵州广电",
             "title": "CCTV-9"
         },
@@ -392,8 +392,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-10",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/7/2/a/a1a56acc29d03965227b40ff665e2377/d81484d0b8ace8bac5254ab8cd531077.png",
+            "tvg-name": "CCTV10",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",
             "group-title": "贵州广电",
             "title": "CCTV-10"
         },
@@ -412,10 +412,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV14少儿频道",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/4/5/9/9a8a29dbf54f51d4502ae2cbf87272b4/b1a51c99c4b02dd82773c664508081fe.png",
+            "tvg-name": "CCTV14",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",
             "group-title": "贵州广电",
-            "title": "CCTV14少儿频道"
+            "title": "CCTV-14"
         },
         "m3u8": "gzgd_9a8a29dbf54f51d4502ae2cbf87272b4.m3u8"
     },
@@ -512,10 +512,10 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "上海东方卫视",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/4/9/d/d697d7112f7cf3609cd88b63cce479d4/7513d21c6144aa65de4a6f6e54678daa.png",
+            "tvg-name": "东方卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png",
             "group-title": "贵州广电",
-            "title": "上海东方卫视"
+            "title": "东方卫视"
         },
         "m3u8": "gzgd_d697d7112f7cf3609cd88b63cce479d4.m3u8"
     },
@@ -1032,8 +1032,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-11",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/8/b/f/f73d2482318583c3ba7513b4e21d4a48/345c8990d9e01bb239f0550b5ccffd33.png",
+            "tvg-name": "CCTV11",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",
             "group-title": "贵州广电",
             "title": "CCTV-11"
         },
@@ -1112,8 +1112,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV-12",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/f/1/1/113eb2f0bd0ca6cf1779140bd1bb525f/9dd2a4935dcf83282fe7421952b34741.png",
+            "tvg-name": "CCTV12",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",
             "group-title": "贵州广电",
             "title": "CCTV-12"
         },
@@ -1152,8 +1152,8 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CETV-4",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "tvg-name": "中国教育4台",
+            "tvg-logo": "",
             "group-title": "贵州广电",
             "title": "CETV-4"
         },
@@ -1313,7 +1313,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "收藏天下",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "tvg-logo": "",
             "group-title": "贵州广电",
             "title": "收藏天下"
         },
@@ -1813,7 +1813,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "家庭理财",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "tvg-logo": "",
             "group-title": "贵州广电",
             "title": "家庭理财"
         },
@@ -2095,7 +2095,7 @@
             "tvg-name": "CCTV5+",
             "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",
             "group-title": "贵州广电",
-            "title": "CCTV5+"
+            "title": "CCTV-5+"
         },
         "m3u8": "gzgd_33cf15c8ece66fe3c41d2e4ec707ef59.m3u8"
     },
@@ -2133,7 +2133,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "华视动漫",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "tvg-logo": "",
             "group-title": "贵州广电",
             "title": "华视动漫"
         },
