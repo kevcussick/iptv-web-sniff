@@ -17,7 +17,7 @@
             "group-title":"新疆",
             "title":"新疆卫视"
         },
-        "m3u8":"mtxjtv_xjtv1.m3u8"
+        "m3u8":"xjtvs_1.flv"
     },
     {
         "active":1,
@@ -37,7 +37,7 @@
             "group-title":"新疆",
             "title":"新疆维吾尔语新闻"
         },
-        "m3u8":"mtxjtv_xjtv2.m3u8"
+        "m3u8":"xjtvs_2.flv"
     },
     {
         "active":1,
@@ -57,7 +57,7 @@
             "group-title":"新疆",
             "title":"新疆哈萨克语新闻"
         },
-        "m3u8":"mtxjtv_xjtv3.m3u8"
+        "m3u8":"xjtvs_3.flv"
     },
     {
         "active":1,
@@ -77,7 +77,7 @@
             "group-title":"新疆",
             "title":"新疆汉语综艺频道"
         },
-        "m3u8":"mtxjtv_xjtv4.m3u8"
+        "m3u8":"xjtvs_4.flv"
     },
     {
         "active":1,
@@ -97,7 +97,7 @@
             "group-title":"新疆",
             "title":"新疆维吾尔语影视频道"
         },
-        "m3u8":"mtxjtv_xjtv5.m3u8"
+        "m3u8":"xjtvs_5.flv"
     },
     {
         "active":1,
@@ -117,7 +117,7 @@
             "group-title":"新疆",
             "title":"新疆汉语经济生活频道"
         },
-        "m3u8":"mtxjtv_xjtv7.m3u8"
+        "m3u8":"xjtvs_7.flv"
     },
     {
         "active":1,
@@ -137,7 +137,7 @@
             "group-title":"新疆",
             "title":"新疆哈萨克语综艺频道"
         },
-        "m3u8":"mtxjtv_xjtv8.m3u8"
+        "m3u8":"xjtvs_8.flv"
     },
     {
         "active":1,
@@ -157,7 +157,7 @@
             "group-title":"新疆",
             "title":"新疆维吾尔语经济生活频道"
         },
-        "m3u8":"mtxjtv_xjtv9.m3u8"
+        "m3u8":"xjtvs_9.flv"
     },
     {
         "active":1,
@@ -177,7 +177,7 @@
             "group-title":"新疆",
             "title":"新疆汉语体育健康频道"
         },
-        "m3u8":"mtxjtv_xjtv10.m3u8"
+        "m3u8":"xjtvs_10.flv"
     },
     {
         "active":1,
@@ -197,7 +197,7 @@
             "group-title":"新疆",
             "title":"新疆汉语信息服务频道"
         },
-        "m3u8":"mtxjtv_xjtv11.m3u8"
+        "m3u8":"xjtvs_11.flv"
     },
     {
         "active":1,
@@ -217,6 +217,6 @@
             "group-title":"新疆",
             "title":"新疆少儿频道"
         },
-        "m3u8":"mtxjtv_xjtv12.m3u8"
+        "m3u8":"xjtvs_12.flv"
     }
 ]
