@@ -357,7 +357,7 @@
             "group-title": "贵州广电",
             "title": "CCTV-17"
         },
-        "m3u8": "gzgd_07259f1303e848e481fbc3543d583644.m3u8"
+        "m3u8": "gzgd_f5bc1ced6da68073115cc7ccd2c8925b.m3u8"
     },
     {
         "active": 1,
