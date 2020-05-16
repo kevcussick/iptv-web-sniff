@@ -9,7 +9,7 @@ import re
 import os
 
 
-class mtxjtv_live(web_live):
+class xjtvs_live(web_live):
 
 
     def __init__(self, chname, request_info, extinfo, referer, logger):
