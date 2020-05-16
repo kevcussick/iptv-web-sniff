@@ -2,6 +2,26 @@
     {
         "active": 1,
         "plugin": "gzgd_live",
+        "channel": "07259f1303e848e481fbc3543d583644",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV4K",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",
+            "group-title": "贵州广电",
+            "title": "CCTV4K"
+        },
+        "m3u8": "gzgd_ca1f525f17a2eddd9c98fbe17997d9df.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
         "channel": "ca1f525f17a2eddd9c98fbe17997d9df",
         "website": "",
         "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
@@ -18,206 +38,6 @@
             "title": "CCTV-1"
         },
         "m3u8": "gzgd_ca1f525f17a2eddd9c98fbe17997d9df.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "9bd0e0cf065e0ea9f5adfb9f0bad355e",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "CCTV新闻频道",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/e/f/9/9bd0e0cf065e0ea9f5adfb9f0bad355e/4c1f6277428ca7b017e4cab1eb72dbd6.png",
-            "group-title": "贵州广电",
-            "title": "CCTV新闻频道"
-        },
-        "m3u8": "gzgd_9bd0e0cf065e0ea9f5adfb9f0bad355e.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "9245676006cb79b03798b89fa05576b1",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "贵州卫视",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/guizhou.png",
-            "group-title": "贵州广电",
-            "title": "贵州卫视"
-        },
-        "m3u8": "gzgd_9245676006cb79b03798b89fa05576b1.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "852b5f4f18e48d3dc3ced5b612394348",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "贵州公共频道",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/8/c/8/852b5f4f18e48d3dc3ced5b612394348/86f23360ca37252e01996eed06a36876.png",
-            "group-title": "贵州广电",
-            "title": "贵州公共频道"
-        },
-        "m3u8": "gzgd_852b5f4f18e48d3dc3ced5b612394348.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "5d2efb4d7b1e5b3d4503e743e1e6d845",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "贵州3",
-            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv3.jpg",
-            "group-title": "贵州广电",
-            "title": "贵州3"
-        },
-        "m3u8": "gzgd_5d2efb4d7b1e5b3d4503e743e1e6d845.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "b83cd70d9462c3f1c5533fa12558f38c",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "贵州4",
-            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv4.jpg",
-            "group-title": "贵州广电",
-            "title": "贵州4"
-        },
-        "m3u8": "gzgd_b83cd70d9462c3f1c5533fa12558f38c.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "0023edbee08fd1d39920e364044e07c0",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "贵州5",
-            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv5.jpg",
-            "group-title": "贵州广电",
-            "title": "贵州5"
-        },
-        "m3u8": "gzgd_0023edbee08fd1d39920e364044e07c0.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "9ca14da91c162549c4991704a3623168",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "贵州6",
-            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv6.jpg",
-            "group-title": "贵州广电",
-            "title": "贵州6"
-        },
-        "m3u8": "gzgd_9ca14da91c162549c4991704a3623168.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "c485be2789affe1e8e37ae11088e3a63",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "家有购物",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/3/8/c/c485be2789affe1e8e37ae11088e3a63/59be70b5896409452d9b78aaa8d245eb.png",
-            "group-title": "贵州广电",
-            "title": "家有购物"
-        },
-        "m3u8": "gzgd_c485be2789affe1e8e37ae11088e3a63.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "a6dd2066acfcc8d87d2a164d4a757aa2",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "贵州7",
-            "tvg-logo": "http://www.nettv.live/uploads/allimg/19/1-1Z41G620410-L.jpg",
-            "group-title": "贵州广电",
-            "title": "贵州7"
-        },
-        "m3u8": "gzgd_a6dd2066acfcc8d87d2a164d4a757aa2.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "1d379c6bc47f3a8ce1e6e8b11f7d5706",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "贵阳1",
-            "tvg-logo": "http://www.nettv.live/uploads/19/1-1Z419160R1933.jpg",
-            "group-title": "贵州广电",
-            "title": "贵阳1"
-        },
-        "m3u8": "gzgd_1d379c6bc47f3a8ce1e6e8b11f7d5706.m3u8"
     },
     {
         "active": 1,
@@ -298,6 +118,26 @@
             "title": "CCTV-5"
         },
         "m3u8": "gzgd_4f8e268f178c3b0d2cf82c2997b0346b.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "33cf15c8ece66fe3c41d2e4ec707ef59",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV5+",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",
+            "group-title": "贵州广电",
+            "title": "CCTV-5+"
+        },
+        "m3u8": "gzgd_33cf15c8ece66fe3c41d2e4ec707ef59.m3u8"
     },
     {
         "active": 1,
@@ -402,6 +242,66 @@
     {
         "active": 1,
         "plugin": "gzgd_live",
+        "channel": "f73d2482318583c3ba7513b4e21d4a48",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV11",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",
+            "group-title": "贵州广电",
+            "title": "CCTV-11"
+        },
+        "m3u8": "gzgd_f73d2482318583c3ba7513b4e21d4a48.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "113eb2f0bd0ca6cf1779140bd1bb525f",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV12",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",
+            "group-title": "贵州广电",
+            "title": "CCTV-12"
+        },
+        "m3u8": "gzgd_113eb2f0bd0ca6cf1779140bd1bb525f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "9bd0e0cf065e0ea9f5adfb9f0bad355e",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV13",
+            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/e/f/9/9bd0e0cf065e0ea9f5adfb9f0bad355e/4c1f6277428ca7b017e4cab1eb72dbd6.png",
+            "group-title": "贵州广电",
+            "title": "CCTV-13"
+        },
+        "m3u8": "gzgd_9bd0e0cf065e0ea9f5adfb9f0bad355e.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
         "channel": "9a8a29dbf54f51d4502ae2cbf87272b4",
         "website": "",
         "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
@@ -418,6 +318,106 @@
             "title": "CCTV-14"
         },
         "m3u8": "gzgd_9a8a29dbf54f51d4502ae2cbf87272b4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "3f7ce58607980e4a75c3d065ef4e33d3",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV15",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",
+            "group-title": "贵州广电",
+            "title": "CCTV-15"
+        },
+        "m3u8": "gzgd_3f7ce58607980e4a75c3d065ef4e33d3.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "f5bc1ced6da68073115cc7ccd2c8925b",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV17",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",
+            "group-title": "贵州广电",
+            "title": "CCTV-17"
+        },
+        "m3u8": "gzgd_3f7ce58607980e4a75c3d065ef4e33d3.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "f2b3d9f485a15ea5cd2fd0b60fa4e872",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CGTN",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",
+            "group-title": "贵州广电",
+            "title": "CGTN"
+        },
+        "m3u8": "gzgd_f2b3d9f485a15ea5cd2fd0b60fa4e872.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "e1d3e356e5fa155017742c3e2bd63467",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "中国教育1台",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png",
+            "group-title": "贵州广电",
+            "title": "CETV-1"
+        },
+        "m3u8": "gzgd_e1d3e356e5fa155017742c3e2bd63467.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "e69aa9b85d03e1a8181633dbab0f8ae2",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "中国教育4台",
+            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/cetv4.jpg",
+            "group-title": "贵州广电",
+            "title": "CETV-4"
+        },
+        "m3u8": "gzgd_e69aa9b85d03e1a8181633dbab0f8ae2.m3u8"
     },
     {
         "active": 1,
@@ -1022,7 +1022,7 @@
     {
         "active": 1,
         "plugin": "gzgd_live",
-        "channel": "f73d2482318583c3ba7513b4e21d4a48",
+        "channel": "9245676006cb79b03798b89fa05576b1",
         "website": "",
         "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
         "headers": {
@@ -1032,52 +1032,12 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "CCTV11",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",
+            "tvg-name": "贵州卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/guizhou.png",
             "group-title": "贵州广电",
-            "title": "CCTV-11"
+            "title": "贵州卫视"
         },
-        "m3u8": "gzgd_f73d2482318583c3ba7513b4e21d4a48.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "f2b3d9f485a15ea5cd2fd0b60fa4e872",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "CCTVNEWS",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/2/c/f/f2b3d9f485a15ea5cd2fd0b60fa4e872/4e0777bc4fc7c94f82bf505e5af58736.png",
-            "group-title": "贵州广电",
-            "title": "CCTVNEWS"
-        },
-        "m3u8": "gzgd_f2b3d9f485a15ea5cd2fd0b60fa4e872.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "3f7ce58607980e4a75c3d065ef4e33d3",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "CCTV音乐频道",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/3/7/3/3f7ce58607980e4a75c3d065ef4e33d3/b8377b6524ecd736b52790a241f723e4.png",
-            "group-title": "贵州广电",
-            "title": "CCTV音乐频道"
-        },
-        "m3u8": "gzgd_3f7ce58607980e4a75c3d065ef4e33d3.m3u8"
+        "m3u8": "gzgd_9245676006cb79b03798b89fa05576b1.m3u8"
     },
     {
         "active": 1,
@@ -1102,26 +1062,6 @@
     {
         "active": 1,
         "plugin": "gzgd_live",
-        "channel": "113eb2f0bd0ca6cf1779140bd1bb525f",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "CCTV12",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",
-            "group-title": "贵州广电",
-            "title": "CCTV-12"
-        },
-        "m3u8": "gzgd_113eb2f0bd0ca6cf1779140bd1bb525f.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
         "channel": "9684959ac1679041f38f40552626a9c7",
         "website": "",
         "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
@@ -1138,26 +1078,6 @@
             "title": "中国气象频道"
         },
         "m3u8": "gzgd_9684959ac1679041f38f40552626a9c7.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "e69aa9b85d03e1a8181633dbab0f8ae2",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "中国教育4台",
-            "tvg-logo": "",
-            "group-title": "贵州广电",
-            "title": "CETV-4"
-        },
-        "m3u8": "gzgd_e69aa9b85d03e1a8181633dbab0f8ae2.m3u8"
     },
     {
         "active": 1,
@@ -1238,6 +1158,166 @@
             "title": "CCTV兵器科技"
         },
         "m3u8": "gzgd_a0e5ccb15677fd5ecb6bfe15eeae94aa.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "852b5f4f18e48d3dc3ced5b612394348",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵州公共频道",
+            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/8/c/8/852b5f4f18e48d3dc3ced5b612394348/86f23360ca37252e01996eed06a36876.png",
+            "group-title": "贵州广电",
+            "title": "贵州公共频道"
+        },
+        "m3u8": "gzgd_852b5f4f18e48d3dc3ced5b612394348.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "5d2efb4d7b1e5b3d4503e743e1e6d845",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵州3",
+            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv3.jpg",
+            "group-title": "贵州广电",
+            "title": "贵州3"
+        },
+        "m3u8": "gzgd_5d2efb4d7b1e5b3d4503e743e1e6d845.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "b83cd70d9462c3f1c5533fa12558f38c",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵州4",
+            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv4.jpg",
+            "group-title": "贵州广电",
+            "title": "贵州4"
+        },
+        "m3u8": "gzgd_b83cd70d9462c3f1c5533fa12558f38c.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "0023edbee08fd1d39920e364044e07c0",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵州5",
+            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv5.jpg",
+            "group-title": "贵州广电",
+            "title": "贵州5"
+        },
+        "m3u8": "gzgd_0023edbee08fd1d39920e364044e07c0.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "9ca14da91c162549c4991704a3623168",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵州6",
+            "tvg-logo": "http://www.tvyan.com/uploads/dianshi/gztv6.jpg",
+            "group-title": "贵州广电",
+            "title": "贵州6"
+        },
+        "m3u8": "gzgd_9ca14da91c162549c4991704a3623168.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "c485be2789affe1e8e37ae11088e3a63",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "家有购物",
+            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/vod/3/8/c/c485be2789affe1e8e37ae11088e3a63/59be70b5896409452d9b78aaa8d245eb.png",
+            "group-title": "贵州广电",
+            "title": "家有购物"
+        },
+        "m3u8": "gzgd_c485be2789affe1e8e37ae11088e3a63.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "a6dd2066acfcc8d87d2a164d4a757aa2",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵州7",
+            "tvg-logo": "http://www.nettv.live/uploads/allimg/19/1-1Z41G620410-L.jpg",
+            "group-title": "贵州广电",
+            "title": "贵州7"
+        },
+        "m3u8": "gzgd_a6dd2066acfcc8d87d2a164d4a757aa2.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "gzgd_live",
+        "channel": "1d379c6bc47f3a8ce1e6e8b11f7d5706",
+        "website": "",
+        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵阳1",
+            "tvg-logo": "http://www.nettv.live/uploads/19/1-1Z419160R1933.jpg",
+            "group-title": "贵州广电",
+            "title": "贵阳1"
+        },
+        "m3u8": "gzgd_1d379c6bc47f3a8ce1e6e8b11f7d5706.m3u8"
     },
     {
         "active": 1,
@@ -2078,46 +2158,6 @@
             "title": "英语辅导"
         },
         "m3u8": "gzgd_ee3d229194011515d191c86424be3565.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "33cf15c8ece66fe3c41d2e4ec707ef59",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "CCTV5+",
-            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",
-            "group-title": "贵州广电",
-            "title": "CCTV-5+"
-        },
-        "m3u8": "gzgd_33cf15c8ece66fe3c41d2e4ec707ef59.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "gzgd_live",
-        "channel": "e1d3e356e5fa155017742c3e2bd63467",
-        "website": "",
-        "liveapi": "http://94.191.97.114:10080/gzgd/AuthIndexStandard?nns_cp_id=&nns_video_type=1&nns_version=1.0.0.0.0.SC-GZGD-APAD.0.0_Release&nns_func=check_auth_and_get_media_by_media&nns_output_type=&nns_user_id=01010116091201000136&nns_user_agent=&nns_webtoken=&nns_video_id=%s&nns_tag=26",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "中国教育-1",
-            "tvg-logo": "http://118.24.226.75:10080/nn_img/prev/StarCor/live/91d5a3f2cbcf064c1d977a53005499d7.PNG",
-            "group-title": "贵州广电",
-            "title": "中国教育-1"
-        },
-        "m3u8": "gzgd_e1d3e356e5fa155017742c3e2bd63467.m3u8"
     },
     {
         "active": 1,
