@@ -25,7 +25,7 @@ class xjtvs_live(web_live):
                 'cdnIndex':0,
                 'playType':'live',
                 'type':'cdn',
-                'url':'http://livehyw.chinamcache.com/xjtvs/zb000%s.m3u8'%(self.chname)}
+                'url':'http://livehyw.chinamcache.com/xjtvs/zb00%02d.m3u8'%(int(self.chname))}
 
         try:
             response = requests.post(liveurl, json=data, headers=self.headers)
