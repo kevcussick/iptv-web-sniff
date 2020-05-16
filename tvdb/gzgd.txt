@@ -17,7 +17,7 @@
             "group-title": "贵州广电",
             "title": "CCTV4K"
         },
-        "m3u8": "gzgd_ca1f525f17a2eddd9c98fbe17997d9df.m3u8"
+        "m3u8": "gzgd_07259f1303e848e481fbc3543d583644.m3u8"
     },
     {
         "active": 1,
@@ -357,7 +357,7 @@
             "group-title": "贵州广电",
             "title": "CCTV-17"
         },
-        "m3u8": "gzgd_3f7ce58607980e4a75c3d065ef4e33d3.m3u8"
+        "m3u8": "gzgd_07259f1303e848e481fbc3543d583644.m3u8"
     },
     {
         "active": 1,
