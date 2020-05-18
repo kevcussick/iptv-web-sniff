@@ -538,7 +538,6 @@ class ExternalJSEngine(AbstractJSEngine):
         cmd = self.interpreter.command + ['-e', code]
         if len(list2cmdline(cmd)) > ARG_MAX:  # Direct compare, don't wait an Exception
             raise ValueError('code length is too long to run as a command')
-        print(len(list2cmdline(cmd)), ARG_MAX)
         return self._run_interpreter(cmd)
 
     def _run_interpreter_with_pipe(self, code):
