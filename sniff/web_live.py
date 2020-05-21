@@ -1,3 +1,4 @@
+from html.parser import HTMLParser
 from urllib.parse import urljoin
 import requests
 import hashlib
@@ -27,6 +28,11 @@ class web_live:
         self.logger  = logger
 
         self.link = ""
+
+    def unescape(self, string):
+
+        html_parser = HTMLParser()
+        return html_parser.unescape(string)
 
     def dump_link(self):
 
