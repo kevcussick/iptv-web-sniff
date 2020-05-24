@@ -1,0 +1,62 @@
+[
+    {
+        "active":1,
+        "plugin":"xmtv_live",
+        "channel":"xiamen",
+        "website":"http://live.xmtv.cn/xmstar/",
+        "liveapi":"http://vdn.live.cntv.cn/api2/live.do?channel=pa://cctv_p2p_hd%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://player.cntv.cn/standard/cntvlive2player20160121.swf?v=32012.11.28.1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"厦门卫视",
+            "tvg-logo":"http://epg.51zmt.top:8000/tb1/ws/xiamen.png",
+            "group-title":"厦门",
+            "title":"厦门卫视"
+        },
+        "m3u8":"xmtv_xiamen.flv"
+    },
+    {
+        "active":1,
+        "plugin":"xmtv_live",
+        "channel":"xiamen1",
+        "website":"http://live.xmtv.cn/xmstar/",
+        "liveapi":"http://vdn.live.cntv.cn/api2/live.do?channel=pa://cctv_p2p_hd%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://player.cntv.cn/standard/cntvlive2player20160121.swf?v=32012.11.28.1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"厦门一套",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z505161633132.jpg",
+            "group-title":"厦门",
+            "title":"厦门一套"
+        },
+        "m3u8":"xmtv_xiamen1.flv"
+    },
+    {
+        "active":1,
+        "plugin":"xmtv_live",
+        "channel":"xiamen2",
+        "website":"http://live.xmtv.cn/xmstar/",
+        "liveapi":"http://vdn.live.cntv.cn/api2/live.do?channel=pa://cctv_p2p_hd%s",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://player.cntv.cn/standard/cntvlive2player20160121.swf?v=32012.11.28.1"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"厦门二套",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z505161K4295.jpg",
+            "group-title":"厦门",
+            "title":"厦门二套"
+        },
+        "m3u8":"xmtv_xiamen2.flv"
+    }
+]
