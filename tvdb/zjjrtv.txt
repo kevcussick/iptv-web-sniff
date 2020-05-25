@@ -1,0 +1,42 @@
+[
+    {
+        "active":1,
+        "plugin":"zjjrtv_live",
+        "channel":"zjjtv1",
+        "website":"http://www.zjjrtv.com/folder1/folder25/folder103/",
+        "liveapi":"http://www.zjjrtv.com/m2o/channel/channel_info.php?id=2",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.zjjrtv.com/folder1/folder25/folder103/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"张家界1台",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z419200204b8.jpg",
+            "group-title":"张家界",
+            "title":"新闻综合"
+        },
+        "m3u8":"zjjtv1.m3u8"
+    },
+    {
+        "active":1,
+        "plugin":"zjjrtv_live",
+        "channel":"zjjtv2",
+        "website":"http://www.zjjrtv.com/folder1/folder25/folder104/",
+        "liveapi":"http://www.zjjrtv.com/m2o/channel/channel_info.php?id=3",
+        "headers":{
+            "User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer":"http://www.zjjrtv.com/folder1/folder25/folder104/"
+        },
+        "referer":0,
+        "m3uinfo":{
+            "tvg-id":"",
+            "tvg-name":"张家界2台",
+            "tvg-logo":"http://www.nettv.live/uploads/19/1-1Z419200922941.jpg",
+            "group-title":"张家界",
+            "title":"公共频道"
+        },
+        "m3u8":"zjjtv2.m3u8"
+    }
+]
