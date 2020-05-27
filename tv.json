@@ -9,6 +9,7 @@
 	"source":
 	[
 		"tvdb/ahtv.txt",
+		"tvdb/cctv.txt",
 		"tvdb/cditv.txt",
 		"tvdb/cetv.txt",
 		"tvdb/cibn.txt",

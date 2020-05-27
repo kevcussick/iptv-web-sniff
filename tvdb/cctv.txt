@@ -1,0 +1,2602 @@
+[
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "ebc22b913d104ccfb153dc09850e0486",
+        "website": "http://tv.cctv.com/2019/08/21/VIDE2amIPgCRzSTExdcdaWLu190821.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "海南",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/08/20/ebc22b913d104ccfb153dc09850e0486-1.jpg",
+            "group-title": "《航拍中国第一季》",
+            "title": "海南"
+        },
+        "m3u8": "cctv_ebc22b913d104ccfb153dc09850e0486.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "8edf3fb6a69148ea9a7dc0b5a9d99fdb",
+        "website": "http://tv.cctv.com/2019/08/21/VIDEKlSu5inbi2wITli5uB1P190821.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "江西",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/08/20/8edf3fb6a69148ea9a7dc0b5a9d99fdb-1.jpg",
+            "group-title": "《航拍中国第一季》",
+            "title": "江西"
+        },
+        "m3u8": "cctv_8edf3fb6a69148ea9a7dc0b5a9d99fdb.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "3e5279df88b44cb7933157330f967490",
+        "website": "http://tv.cctv.com/2019/08/21/VIDEn3kCu4rYhl8lU0ufeEdB190821.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "上海",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/08/20/3e5279df88b44cb7933157330f967490-1.jpg",
+            "group-title": "《航拍中国第一季》",
+            "title": "上海"
+        },
+        "m3u8": "cctv_3e5279df88b44cb7933157330f967490.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "1199803974fe4361980f8e764d94c607",
+        "website": "http://tv.cctv.com/2019/08/21/VIDEvxA0cu4ULiJPkhn06kNQ190821.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "黑龙江",
+            "tvg-logo": "http://p1.img.cctvpic.com/fmspic/2019/08/20/1199803974fe4361980f8e764d94c607-1.jpg",
+            "group-title": "《航拍中国第一季》",
+            "title": "黑龙江"
+        },
+        "m3u8": "cctv_1199803974fe4361980f8e764d94c607.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "c698d3595f504fd09044e0b6615040f0",
+        "website": "http://tv.cctv.com/2019/08/28/VIDE73TgoeoekYltDuOEXb2t190828.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "陕西",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/08/28/c698d3595f504fd09044e0b6615040f0-1.jpg",
+            "group-title": "《航拍中国第一季》",
+            "title": "陕西"
+        },
+        "m3u8": "cctv_c698d3595f504fd09044e0b6615040f0.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "611dfd08172c4e3082289d6d33db4df4",
+        "website": "http://tv.cctv.com/2019/08/29/VIDELYPtfpLfJN4wHnk5t510190829.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "新疆",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/08/29/611dfd08172c4e3082289d6d33db4df4-1.jpg",
+            "group-title": "《航拍中国第一季》",
+            "title": "新疆"
+        },
+        "m3u8": "cctv_611dfd08172c4e3082289d6d33db4df4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "cc46d0edb5974d9bb744a009edc9c01a",
+        "website": "http://tv.cctv.com/2019/07/04/VIDEgXTk6J4j1vZhv6JAaoyD190704.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "浙江",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2019/08/08/2019080814260983358.jpg",
+            "group-title": "《航拍中国第二季》",
+            "title": "浙江"
+        },
+        "m3u8": "cctv_cc46d0edb5974d9bb744a009edc9c01a.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "2bdfdad540b342f592f9817cb7f3b79a",
+        "website": "http://tv.cctv.com/2019/07/04/VIDEgxQdHGDzLZtXDXu8OmLs190704.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "内蒙古",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2019/08/08/2019080814220457380.jpg",
+            "group-title": "《航拍中国第二季》",
+            "title": "内蒙古"
+        },
+        "m3u8": "cctv_2bdfdad540b342f592f9817cb7f3b79a.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "1d627277720b4c4698ce58d4d2edb3b5",
+        "website": "http://tv.cctv.com/2019/07/04/VIDESd3TOPbt3vZSUE9DIqlM190704.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "甘肃",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2019/08/08/2019080814360693373.jpg",
+            "group-title": "《航拍中国第二季》",
+            "title": "甘肃"
+        },
+        "m3u8": "cctv_1d627277720b4c4698ce58d4d2edb3b5.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "d907ef756138493e9fe5b35b4ab69642",
+        "website": "http://tv.cctv.com/2019/07/04/VIDEAPudliR3q5YRoRudOriq190704.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "广东",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2019/08/08/2019080814304943306.jpg",
+            "group-title": "《航拍中国第二季》",
+            "title": "广东"
+        },
+        "m3u8": "cctv_d907ef756138493e9fe5b35b4ab69642.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "8ba642c716404cf59a87f20ef9fc54a3",
+        "website": "http://tv.cctv.com/2019/07/04/VIDEb7MAc4K9LMBIwpN1a3o1190704.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "福建",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2019/07/18/2019071816054395968.jpg",
+            "group-title": "《航拍中国第二季》",
+            "title": "福建"
+        },
+        "m3u8": "cctv_8ba642c716404cf59a87f20ef9fc54a3.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "9e9b2ec70cca4cdc917672cb1e44bb01",
+        "website": "http://tv.cctv.com/2019/09/09/VIDEHXGplGQfUJwLEngaF8u6190909.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "四川",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/09/06/9e9b2ec70cca4cdc917672cb1e44bb01-1.jpg",
+            "group-title": "《航拍中国第二季》",
+            "title": "四川"
+        },
+        "m3u8": "cctv_9e9b2ec70cca4cdc917672cb1e44bb01.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "b1e17e11d274467db1ace20e1534a953",
+        "website": "http://tv.cctv.com/2019/09/09/VIDEQ9yIP8AeadEq2d8QVIDu190909.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "江苏",
+            "tvg-logo": "http://p3.img.cctvpic.com/fmspic/2019/09/06/b1e17e11d274467db1ace20e1534a953-1.jpg",
+            "group-title": "《航拍中国第二季》",
+            "title": "江苏"
+        },
+        "m3u8": "cctv_b1e17e11d274467db1ace20e1534a953.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "67c4d1c8265b45898a455f4dbaf17680",
+        "website": "https://tv.cctv.com/2020/05/25/VIDEJovxXGLzWzXDe2q3dT4t200525.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "安徽",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/05/25/67c4d1c8265b45898a455f4dbaf17680-1450.jpg",
+            "group-title": "《航拍中国第三季》",
+            "title": "安徽"
+        },
+        "m3u8": "cctv_67c4d1c8265b45898a455f4dbaf17680.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "dc534f3d3730442a8b50334424ec2c78",
+        "website": "https://tv.cctv.com/2020/05/25/VIDE3JWBNMchRN5x8IBwxTAU200525.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "云南",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/05/25/dc534f3d3730442a8b50334424ec2c78-1450.jpg",
+            "group-title": "《航拍中国第三季》",
+            "title": "云南"
+        },
+        "m3u8": "cctv_dc534f3d3730442a8b50334424ec2c78.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "5f0f1548cb8a4018be1921b24187f2e8",
+        "website": "https://tv.cctv.com/2020/05/25/VIDEk8if3yKBNRutBmtrQRyq200525.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵州",
+            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/05/25/5f0f1548cb8a4018be1921b24187f2e8-2969.jpg",
+            "group-title": "《航拍中国第三季》",
+            "title": "贵州"
+        },
+        "m3u8": "cctv_5f0f1548cb8a4018be1921b24187f2e8.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "5f03d9f1684241f696b25a19ffc44145",
+        "website": "https://tv.cctv.com/2020/05/25/VIDEasGcvHljqrCKNxgDjy90200525.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "天津",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/05/25/5f03d9f1684241f696b25a19ffc44145-2969.jpg",
+            "group-title": "《航拍中国第三季》",
+            "title": "天津"
+        },
+        "m3u8": "cctv_5f03d9f1684241f696b25a19ffc44145.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "202cb204c7f14a85ad6d801be71a1834",
+        "website": "https://tv.cctv.com/2020/05/26/VIDEyoPe1e5grgcbzq1XsYWo200526.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "山东",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/05/26/202cb204c7f14a85ad6d801be71a1834-2968.jpg",
+            "group-title": "《航拍中国第三季》",
+            "title": "山东"
+        },
+        "m3u8": "cctv_202cb204c7f14a85ad6d801be71a1834.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "f1609a418f444f1ca0f9b8441d7a49fe",
+        "website": "https://tv.cctv.com/2020/05/26/VIDEH0Pf9P4JWucCB3Zi1Gee200526.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "山西",
+            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/05/26/f1609a418f444f1ca0f9b8441d7a49fe-2966.jpg",
+            "group-title": "《航拍中国第三季》",
+            "title": "山西"
+        },
+        "m3u8": "cctv_f1609a418f444f1ca0f9b8441d7a49fe.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "2d7f4eeaed2e4ad080bcf324eb21bc0d",
+        "website": "https://tv.cctv.com/2020/04/26/VIDEDyZbv4zY1o0e3zkOGfUw200426.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "激情",
+            "tvg-logo": "https://p3.img.cctvpic.com/fmspic/2020/04/26/2d7f4eeaed2e4ad080bcf324eb21bc0d-1.jpg",
+            "group-title": "《大太平洋》",
+            "title": "第一集.激情"
+        },
+        "m3u8": "cctv_2d7f4eeaed2e4ad080bcf324eb21bc0d.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "025dc09c0b9640b9a0fa80407558e030",
+        "website": "https://tv.cctv.com/2020/04/27/VIDEREgd4VYXptURzRcFIY0w200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "神秘",
+            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/04/26/025dc09c0b9640b9a0fa80407558e030-1.jpg",
+            "group-title": "《大太平洋》",
+            "title": "第二集.神秘"
+        },
+        "m3u8": "cctv_025dc09c0b9640b9a0fa80407558e030.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "d74cd84bb3b740f6973e27c0bfa0153f",
+        "website": "https://tv.cctv.com/2020/04/26/VIDE6sVkktKi0ovbuvISJGd0200426.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "狂暴",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/04/26/d74cd84bb3b740f6973e27c0bfa0153f-1.jpg",
+            "group-title": "《大太平洋》",
+            "title": "第三集.狂暴"
+        },
+        "m3u8": "cctv_d74cd84bb3b740f6973e27c0bfa0153f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "a853c899a31b4bba9c8ce59239325a0a",
+        "website": "https://tv.cctv.com/2020/04/26/VIDE9IJ4KgADMFNsAMDZNyD6200426.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "饕餮",
+            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/04/26/a853c899a31b4bba9c8ce59239325a0a-1.jpg",
+            "group-title": "《大太平洋》",
+            "title": "第四集.饕餮"
+        },
+        "m3u8": "cctv_a853c899a31b4bba9c8ce59239325a0a.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "19ce75d817bc4e68ae179f5b08e4e779",
+        "website": "https://tv.cctv.com/2019/07/09/VIDEXXeRA2hUY8c26QEahm7q190709.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "林窗",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2019/08/08/2019080815410418928.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "尖峰岭系列.林窗"
+        },
+        "m3u8": "cctv_19ce75d817bc4e68ae179f5b08e4e779.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "73c73940e0364e8491a07961c6913974",
+        "website": "https://tv.cctv.com/2019/07/09/VIDEMi3PELAZ48R4Yu5SKsoc190709.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "植物活化石",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2019/08/08/2019080815342974768.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "尖峰岭系列.植物活化石"
+        },
+        "m3u8": "cctv_73c73940e0364e8491a07961c6913974.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "3f594b61c83c42449080e22213fc2514",
+        "website": "https://tv.cctv.com/2019/07/09/VIDExAEFVkyNFbDfIIh2mfO8190709.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "绞杀榕",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2019/08/08/2019080815262553103.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "尖峰岭系列.绞杀榕"
+        },
+        "m3u8": "cctv_3f594b61c83c42449080e22213fc2514.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "9891cea600df4e8a83851b1b1ce23194",
+        "website": "https://tv.cctv.com/2019/07/12/VIDEtktQuJsfzRlc8WouFWN2190712.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "海南坡鹿",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2019/08/08/2019080815172597160.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "尖峰岭系列.海南坡鹿"
+        },
+        "m3u8": "cctv_9891cea600df4e8a83851b1b1ce23194.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "901f971dcee3462984e4496c2436fdc6",
+        "website": "https://tv.cctv.com/2020/05/10/VIDEufMVqmjRw9AnwP7sjngZ200510.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "海南猕猴",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2020/05/11/2020051116382149484.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "尖峰岭系列.海南猕猴"
+        },
+        "m3u8": "cctv_901f971dcee3462984e4496c2436fdc6.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "cf71b1ab4f0d4dd8a9e8b9c1b35ba751",
+        "website": "https://tv.cctv.com/2020/05/10/VIDEZIFUq3B5GvYgbZfWX1hN200510.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "黄猄蚁",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/05/11/2020051116503161201.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "尖峰岭系列.黄猄蚁"
+        },
+        "m3u8": "cctv_cf71b1ab4f0d4dd8a9e8b9c1b35ba751.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "f7439ae9d80a4d9a97ece7069d9221a0",
+        "website": "https://tv.cctv.com/2020/05/11/VIDEoyT9cCPBzUHE8rBJMCbz200511.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "雨林沟谷",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/05/11/2020051117001218678.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "尖峰岭系列.雨林沟谷"
+        },
+        "m3u8": "cctv_f7439ae9d80a4d9a97ece7069d9221a0.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "2f5adc53c1524781b3e5317ed1ecdde4",
+        "website": "https://tv.cctv.com/2020/04/27/VIDEoNMBUocOIzPBGvYqcBRZ200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "滇金丝猴",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/04/27/2f5adc53c1524781b3e5317ed1ecdde4-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "三江并流系列.滇金丝猴"
+        },
+        "m3u8": "cctv_2f5adc53c1524781b3e5317ed1ecdde4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "9c6f0e212a8d4de1ac61cde9cf62443d",
+        "website": "https://tv.cctv.com/2020/04/27/VIDErl2fLfQ281CjFvsokppK200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "自然的馈赠",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/04/27/9c6f0e212a8d4de1ac61cde9cf62443d-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "三江并流系列.自然的馈赠"
+        },
+        "m3u8": "cctv_9c6f0e212a8d4de1ac61cde9cf62443d.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "362c71bda1d24054882bd85103f48468",
+        "website": "https://tv.cctv.com/2020/04/27/VIDEvs5PCtaGjwrnCNdUWQ15200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "响古箐故事",
+            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/04/27/362c71bda1d24054882bd85103f48468-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "三江并流系列.响古箐故事"
+        },
+        "m3u8": "cctv_362c71bda1d24054882bd85103f48468.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "a65a049a80794dd48e4fde6a9eecf3af",
+        "website": "https://tv.cctv.com/2020/04/24/VIDEdQx62pWKUnfIrIkJJUy7200424.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "百花岭",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/04/26/2020042617354955019.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "高黎贡山系列.百花岭"
+        },
+        "m3u8": "cctv_a65a049a80794dd48e4fde6a9eecf3af.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "51d937a0201f4c78a5878b4b37089f3b",
+        "website": "https://tv.cctv.com/2020/04/27/VIDEnYZRDqB7nrO9H1vZrAXq200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "菲氏叶猴",
+            "tvg-logo": "https://p3.img.cctvpic.com/fmspic/2020/04/27/51d937a0201f4c78a5878b4b37089f3b-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "高黎贡山系列.菲氏叶猴"
+        },
+        "m3u8": "cctv_51d937a0201f4c78a5878b4b37089f3b.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "5e5edfdb3b754dde84e469c3658459a7",
+        "website": "https://tv.cctv.com/2020/04/27/VIDEQeVij2mKFGP0k4gXNLsu200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "火山热海",
+            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/04/27/5e5edfdb3b754dde84e469c3658459a7-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "高黎贡山系列.火山热海"
+        },
+        "m3u8": "cctv_5e5edfdb3b754dde84e469c3658459a7.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "2f365f5e37de402e92995a0e56ee7c83",
+        "website": "https://tv.cctv.com/2020/04/27/VIDEC6iIpz9us1OtbTdS6VuS200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "北海湿地",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/04/27/2f365f5e37de402e92995a0e56ee7c83-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "高黎贡山系列.北海湿地"
+        },
+        "m3u8": "cctv_2f365f5e37de402e92995a0e56ee7c83.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "5c6f21d26986437cb6931c567a31409d",
+        "website": "https://tv.cctv.com/2020/04/27/VIDEN6OethqcPUd2CoUJ7QXv200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "水中凤凰",
+            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/04/27/5c6f21d26986437cb6931c567a31409d-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "高黎贡山系列.水中凤凰"
+        },
+        "m3u8": "cctv_5c6f21d26986437cb6931c567a31409d.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "ee4c1d1451c74420822766bbdd4d35b8",
+        "website": "https://tv.cctv.com/2020/04/27/VIDEQoIoV9mkKM2yrl5CdgZT200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "百鸟争鸣",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/04/28/2020042809053368189.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "高黎贡山系列.百鸟争鸣"
+        },
+        "m3u8": "cctv_ee4c1d1451c74420822766bbdd4d35b8.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "00ac0883f05c41808025b87778ef3218",
+        "website": "https://tv.cctv.com/2020/04/28/VIDEbHeCEnFcJnmGjXQOYdyN200428.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "秃杉凌云",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/04/28/2020042810233877429.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "高黎贡山系列.秃杉凌云"
+        },
+        "m3u8": "cctv_00ac0883f05c41808025b87778ef3218.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "d702454968fc452bad1a321487a97a1d",
+        "website": "https://tv.cctv.com/2020/04/29/VIDE3jGVSa3WQ6zYJ3PhJIlt200429.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "把根留住",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2020/04/29/2020042911302152982.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "高黎贡山系列.把根留住"
+        },
+        "m3u8": "cctv_d702454968fc452bad1a321487a97a1d.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "0f2790a8ea1b471199eac49fe4ab587a",
+        "website": "https://tv.cctv.com/2020/04/30/VIDEPRCwDwLqzzfNftAxYdpo200430.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "山间集结号",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/04/30/2020043014305828329.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "高黎贡山系列.山间集结号"
+        },
+        "m3u8": "cctv_0f2790a8ea1b471199eac49fe4ab587a.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "2f5639a2d8e040019afaa00dfb40777a",
+        "website": "https://tv.cctv.com/2020/05/01/VIDE7q0vHSDzwic455Try9UG200501.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "守望高黎贡山",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/05/06/2020050612004754265.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "高黎贡山系列.守望高黎贡山"
+        },
+        "m3u8": "cctv_2f5639a2d8e040019afaa00dfb40777a.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "e3aa33881aae4c6ea710fef26b8ac7fd",
+        "website": "https://tv.cctv.com/2020/05/02/VIDEHyhkQbwo6Qm6ypFUDxc5200502.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "遇见唐家河",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/05/06/2020050612105968156.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "唐家河系列.遇见唐家河"
+        },
+        "m3u8": "cctv_e3aa33881aae4c6ea710fef26b8ac7fd.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "672713d3a9a74321a49b1777603fcac6",
+        "website": "https://tv.cctv.com/2020/05/02/VIDE8n5sV4fUJiumEvWLMKrP200502.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "河边水鸟",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/05/06/2020050612203191759.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "唐家河系列.河边水鸟"
+        },
+        "m3u8": "cctv_672713d3a9a74321a49b1777603fcac6.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "d949eae73a864d2da94f0980170e19d2",
+        "website": "https://tv.cctv.com/2020/05/04/VIDECelJjcRE3XyC5f1nsImL200504.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "四川羚牛",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/05/06/2020050612302726731.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "唐家河系列.四川羚牛"
+        },
+        "m3u8": "cctv_d949eae73a864d2da94f0980170e19d2.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "0783ebd4088e4157a663324fe49fb4d4",
+        "website": "https://tv.cctv.com/2020/05/05/VIDE9FxPAcAz0vPP3RoKHXgX200505.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "中华斑羚",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/05/06/2020050614051814589.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "唐家河系列.中华斑羚"
+        },
+        "m3u8": "cctv_0783ebd4088e4157a663324fe49fb4d4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "461f45616a3f4462b459f6b491f33887",
+        "website": "https://tv.cctv.com/2020/05/06/VIDE2caGt02ZqIIBP7Imsk2K200506.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "林间小麂",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/05/06/2020050614170974231.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "唐家河系列.林间小麂"
+        },
+        "m3u8": "cctv_461f45616a3f4462b459f6b491f33887.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "b151b8072ea540918a152b3f1449e2d9",
+        "website": "https://tv.cctv.com/2020/05/06/VIDET2WD8ZdL66zzcSoMGgOC200506.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "候鸟戴胜",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/05/07/2020050715580349372.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "唐家河系列.候鸟戴胜"
+        },
+        "m3u8": "cctv_b151b8072ea540918a152b3f1449e2d9.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "eb493a3290454603902e94a7c833e453",
+        "website": "https://tv.cctv.com/2020/05/07/VIDE3fxgBIpHYL5GSKGkuhzO200507.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "通灵瀑布",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/05/09/2020050910442074112.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "桂西南系列.通灵瀑布"
+        },
+        "m3u8": "cctv_eb493a3290454603902e94a7c833e453.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "84377f8aeb7648b38efd242159d04b8e",
+        "website": "https://tv.cctv.com/2020/05/09/VIDEX7oKnvbZUFkKRLlJmrtx200509.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "石山家族",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/05/09/2020050910550753966.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "桂西南系列.石山家族"
+        },
+        "m3u8": "cctv_84377f8aeb7648b38efd242159d04b8e.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "6fb5e2c3eb12478c802381c04a6e8269",
+        "website": "https://tv.cctv.com/2020/05/11/VIDEram1g4CDsez80ezx8DzJ200511.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "弄岗穗鹛",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/05/12/2020051211354850727.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "桂西南系列.弄岗穗鹛"
+        },
+        "m3u8": "cctv_6fb5e2c3eb12478c802381c04a6e8269.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "0066107150544881b77e412b2eecfa33",
+        "website": "https://tv.cctv.com/2020/05/13/VIDEQyrkWk56c27ecakegMn9200513.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "雨林歌者",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2020/05/14/2020051414235651319.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "桂西南系列.雨林歌者"
+        },
+        "m3u8": "cctv_0066107150544881b77e412b2eecfa33.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "3bc2644ddc2a47149c42ab4a822ebeb7",
+        "website": "https://tv.cctv.com/2020/05/13/VIDEXWIFTtr2SK5ehnOkiFDh200513.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "石山植物",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/05/13/2020051316201655142.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "桂西南系列.石山植物"
+        },
+        "m3u8": "cctv_3bc2644ddc2a47149c42ab4a822ebeb7.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "67215c1aa0274aecbfd56c4b8a65c2d1",
+        "website": "https://tv.cctv.com/2020/05/12/VIDEtocVjOWjranlj3t5kXOm200512.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "诗意南伊沟",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/05/12/2020051217175139015.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "藏东南系列.诗意南伊沟"
+        },
+        "m3u8": "cctv_67215c1aa0274aecbfd56c4b8a65c2d1.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "ce462fecfb4941c891cb9045dd0aa1b4",
+        "website": "https://tv.cctv.com/2020/05/14/VIDERrsBrERWpY6lohDFt1pU200514.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "盐湖生态",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/05/15/2020051509570744992.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "黄河中游系列.盐湖生态"
+        },
+        "m3u8": "cctv_ce462fecfb4941c891cb9045dd0aa1b4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "c7f0286afc9343aa9504e4e77140f865",
+        "website": "https://tv.cctv.com/2020/05/15/VIDEksSAUy3tJObOd9RhGsir200515.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "壶口瀑布",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/05/15/2020051510071844170.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "黄河中游系列.壶口瀑布"
+        },
+        "m3u8": "cctv_c7f0286afc9343aa9504e4e77140f865.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "5b27296c56a143c8a62543723d21666d",
+        "website": "https://tv.cctv.com/2020/05/15/VIDExMbN6PrKuCJ6g8VLRl31200515.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "远方来客",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/05/15/2020051510135471652.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "黄河中游系列.远方来客"
+        },
+        "m3u8": "cctv_5b27296c56a143c8a62543723d21666d.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "ad788ba86a6648aca79d403f472d6cb3",
+        "website": "https://tv.cctv.com/2020/05/15/VIDEPbxy8E9AQ1Qs6OcamUGX200515.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "黄河龙门",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/05/18/2020051817205697587.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "黄河中游系列.黄河龙门"
+        },
+        "m3u8": "cctv_ad788ba86a6648aca79d403f472d6cb3.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "48bb3998ac97421ca8e229cde7477b9f",
+        "website": "https://tv.cctv.com/2020/05/19/VIDEcQasV5ABPjQ7TGj216jV200519.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "鹳雀楼",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/05/19/2020051920512763395.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "黄河中游系列.鹳雀楼"
+        },
+        "m3u8": "cctv_48bb3998ac97421ca8e229cde7477b9f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "ddaeea84593e4ccca96bd1a8b27fab59",
+        "website": "https://tv.cctv.com/2020/05/20/VIDE2U1mZmpTdQNKHsok2oVC200520.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "五老峰",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/05/21/2020052111290462575.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "黄河中游系列.五老峰"
+        },
+        "m3u8": "cctv_ddaeea84593e4ccca96bd1a8b27fab59.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "e1543b9af13f413391dd5d0d1e5e2e76",
+        "website": "https://tv.cctv.com/2020/05/21/VIDEvtoCp2DNsKFMi3Ilj4US200521.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "伍姓湖",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/05/21/2020052111463776222.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "黄河中游系列.伍姓湖"
+        },
+        "m3u8": "cctv_e1543b9af13f413391dd5d0d1e5e2e76.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "afcb4997f6e04cc4b7813bf9c2a454e8",
+        "website": "https://tv.cctv.com/2020/05/16/VIDEU8OS1LHEzGXUliaoYrmK200516.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "梵天净土",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2020/05/18/2020051817311762532.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "梵净山系列.梵天净土"
+        },
+        "m3u8": "cctv_afcb4997f6e04cc4b7813bf9c2a454e8.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "a78906f88cb34605b702f72c5218e307",
+        "website": "https://tv.cctv.com/2020/05/19/VIDEJDPDbRzk0PV4CUPCKVvj200519.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "千年紫薇王",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2020/05/19/2020051920424148886.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "梵净山系列.千年紫薇王"
+        },
+        "m3u8": "cctv_a78906f88cb34605b702f72c5218e307.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "413c7b420044418caee34ac8f495e31f",
+        "website": "https://tv.cctv.com/2020/05/20/VIDEmoQRqiTwTizh90NhhiFb200520.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "九龙池",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/05/21/2020052111375638881.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "梵净山系列.九龙池"
+        },
+        "m3u8": "cctv_413c7b420044418caee34ac8f495e31f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "30cf9589fa424a6fb5fecdc5c7a9d9f1",
+        "website": "https://tv.cctv.com/2020/05/17/VIDEzr4qPuTZDBSSwE7vRx16200517.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "梵净山隐士",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/05/18/2020051817385626037.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "梵净山系列.梵净山隐士"
+        },
+        "m3u8": "cctv_30cf9589fa424a6fb5fecdc5c7a9d9f1.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "2885e9f272d14518ac8ff892ad379aa4",
+        "website": "https://tv.cctv.com/2020/05/18/VIDEUxikV7CvC5VqZODo3UmC200518.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "梵净报春",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/05/18/2020051817463111121.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "梵净山系列.梵净报春"
+        },
+        "m3u8": "cctv_2885e9f272d14518ac8ff892ad379aa4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "c46ce0b4c57f475fbae5dad5c3af915e",
+        "website": "https://tv.cctv.com/2020/05/21/VIDEYUFV6dTKhAThfPdQ2zme200521.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "一叶知山",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2020/05/21/2020052112044996371.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "武夷山系列.一叶知山"
+        },
+        "m3u8": "cctv_c46ce0b4c57f475fbae5dad5c3af915e.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "1355318dce9e465ca8fe4ea3bb0e58df",
+        "website": "https://tv.cctv.com/2020/05/22/VIDERtzkyFs0lga7Hitjbru4200522.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "家园",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/05/22/2020052210583953090.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "黄河中游系列.家园"
+        },
+        "m3u8": "cctv_1355318dce9e465ca8fe4ea3bb0e58df.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "83dfc873db6a44b380947f5dc90b1dd1",
+        "website": "https://tv.cctv.com/2020/05/22/VIDEH7Hs0iXtybaGOcs2Uj5I200522.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "钟灵毓秀",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/05/22/2020052211081588954.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "武夷山系列.钟灵毓秀"
+        },
+        "m3u8": "cctv_83dfc873db6a44b380947f5dc90b1dd1.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "b17e890214634033898019e5350ddeab",
+        "website": "https://tv.cctv.com/2020/05/22/VIDEeirTN4pRagxiIaibGKdG200522.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "慧心如兰",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/05/25/2020052514371524127.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "武夷山系列.慧心如兰"
+        },
+        "m3u8": "cctv_b17e890214634033898019e5350ddeab.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "3ab26746f4c64051b1adbe46007ab803",
+        "website": "https://tv.cctv.com/2020/05/23/VIDEuDAGGPGzxnJY5yUaqhRE200523.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "峭壁精灵",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/05/25/2020052515083434623.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "贵州喀斯特系列.峭壁精灵"
+        },
+        "m3u8": "cctv_3ab26746f4c64051b1adbe46007ab803.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "abac7430fcbf450f8fa92f15aa7ef8ee",
+        "website": "https://tv.cctv.com/2020/05/23/VIDEXh2Fb0v1cgv7ssU5HQBJ200523.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "林中仙子",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/05/25/2020052514491325244.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "武夷山系列.林中仙子"
+        },
+        "m3u8": "cctv_abac7430fcbf450f8fa92f15aa7ef8ee.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "8c0cbd8a7c9b499194b4ef386c2370d1",
+        "website": "https://tv.cctv.com/2020/05/24/VIDEP8NAY0jfRgMBquX1Tcto200524.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "母爱珍雉",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2020/05/25/2020052514585362518.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "武夷山系列.母爱珍雉"
+        },
+        "m3u8": "cctv_8c0cbd8a7c9b499194b4ef386c2370d1.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "8fcf67954caa46c9878ddf12ee0429e4",
+        "website": "https://tv.cctv.com/2020/05/26/VIDEGeupL1wG8OgNu57Qr9Hw200526.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "睦邻而居",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/05/26/2020052612050731841.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "贵州喀斯特系列.睦邻而居"
+        },
+        "m3u8": "cctv_8fcf67954caa46c9878ddf12ee0429e4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "a4663649723440f2bfb170e430092ae0",
+        "website": "https://tv.cctv.com/2020/05/26/VIDETPvBajkt7wsOk1Ke3iyn200526.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "漏斗森林",
+            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/05/26/a4663649723440f2bfb170e430092ae0-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "贵州喀斯特系列.漏斗森林"
+        },
+        "m3u8": "cctv_a4663649723440f2bfb170e430092ae0.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "d64a17c7177641b18fa37b59f4b5ae2b",
+        "website": "https://tv.cctv.com/2020/04/27/VIDEgg70SYaoezxlwBCSyRNX200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "往事千年",
+            "tvg-logo": "https://p5.img.cctvpic.com/fmspic/2020/04/27/d64a17c7177641b18fa37b59f4b5ae2b-1.jpg",
+            "group-title": "《飞向月球》",
+            "title": "第一集.往事千年"
+        },
+        "m3u8": "cctv_d64a17c7177641b18fa37b59f4b5ae2b.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "72ea230607c8498a961ccc44c085d2ba",
+        "website": "https://tv.cctv.com/2020/04/28/VIDE6CKpSWhxk3fkT9oeLJLx200428.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "中国探月",
+            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/04/27/72ea230607c8498a961ccc44c085d2ba-1.jpg",
+            "group-title": "《飞向月球》",
+            "title": "第二集.中国探月"
+        },
+        "m3u8": "cctv_72ea230607c8498a961ccc44c085d2ba.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "45c55ae6c23240beafa02b1dc3d07d74",
+        "website": "https://tv.cctv.com/2020/04/27/VIDELVtmP9umJEGhd0rUSfOE200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "嫦娥落月",
+            "tvg-logo": "https://p3.img.cctvpic.com/fmspic/2020/04/27/45c55ae6c23240beafa02b1dc3d07d74-1.jpg",
+            "group-title": "《飞向月球》",
+            "title": "第三集.嫦娥落月"
+        },
+        "m3u8": "cctv_45c55ae6c23240beafa02b1dc3d07d74.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "44eaf80f5a4048f591ed9800e9970c32",
+        "website": "https://tv.cctv.com/2020/04/27/VIDEFQ5hTc3SqrFE6nYhPv9P200427.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "月球背面",
+            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/04/27/44eaf80f5a4048f591ed9800e9970c32-1.jpg",
+            "group-title": "《飞向月球》",
+            "title": "第四集.月球背面"
+        },
+        "m3u8": "cctv_44eaf80f5a4048f591ed9800e9970c32.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "68c6dc19cb8b4d9fa3921d4f8d124513",
+        "website": "https://tv.cctv.com/2020/04/28/VIDEOEcxELl6DjcicDIymhLj200428.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "自新大陆",
+            "tvg-logo": "https://p5.img.cctvpic.com/fmspic/2020/04/28/68c6dc19cb8b4d9fa3921d4f8d124513-1.jpg",
+            "group-title": "《飞向月球》",
+            "title": "第五集.自新大陆"
+        },
+        "m3u8": "cctv_68c6dc19cb8b4d9fa3921d4f8d124513.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "c616dd34b4794d1b97b0681bd5ed4c3f",
+        "website": "http://tv.cctv.com/2019/07/01/VIDEgR33l00Tt7pMrCYLYT6H190701.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "错金铜博山炉",
+            "tvg-logo": "http://p1.img.cctvpic.com/fmspic/2019/07/01/c616dd34b4794d1b97b0681bd5ed4c3f-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "错金铜博山炉"
+        },
+        "m3u8": "cctv_c616dd34b4794d1b97b0681bd5ed4c3f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "90df87d095bd4281b9fe28bec91a068b",
+        "website": "http://tv.cctv.com/2019/07/01/VIDErmy1dtQInGTDm4IFRBTO190701.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "人头壶",
+            "tvg-logo": "http://p2.img.cctvpic.com/fmspic/2019/07/01/90df87d095bd4281b9fe28bec91a068b-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "人头壶"
+        },
+        "m3u8": "cctv_90df87d095bd4281b9fe28bec91a068b.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "75c7d5572aa14cdfb088597b70e92540",
+        "website": "http://tv.cctv.com/2019/07/01/VIDEoextCSPymOyzzpImpKCL190701.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "龙山蛋壳黑陶杯",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2019/08/09/2019080917310453769.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "龙山蛋壳黑陶杯"
+        },
+        "m3u8": "cctv_75c7d5572aa14cdfb088597b70e92540.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "3094872357544be0b0a8b91aadf2823f",
+        "website": "http://tv.cctv.com/2019/07/01/VIDEf1z0VgO1Kap8fEYERGf9190701.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "镶嵌绿松石铜牌饰",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/07/01/3094872357544be0b0a8b91aadf2823f-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "镶嵌绿松石铜牌饰"
+        },
+        "m3u8": "cctv_3094872357544be0b0a8b91aadf2823f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "9d76ed8c364440838216fd8bf9431152",
+        "website": "http://tv.cctv.com/2019/07/01/VIDE0Db7pPLkVR753mIkum3J190701.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "殷墟嵌绿松石甲骨",
+            "tvg-logo": "http://p3.img.cctvpic.com/fmspic/2019/07/01/9d76ed8c364440838216fd8bf9431152-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "殷墟嵌绿松石甲骨"
+        },
+        "m3u8": "cctv_9d76ed8c364440838216fd8bf9431152.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "386b2f8c3a444ed4a092bb481c9585d8",
+        "website": "http://tv.cctv.com/2019/07/01/VIDEfa1vNHEXI4JLKRXADoOU190701.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "错金银云纹青铜犀尊",
+            "tvg-logo": "http://p3.img.cctvpic.com/fmspic/2019/07/01/386b2f8c3a444ed4a092bb481c9585d8-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "错金银云纹青铜犀尊"
+        },
+        "m3u8": "cctv_386b2f8c3a444ed4a092bb481c9585d8.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "d10ed54a12ab44bcaf11110deb7d9adf",
+        "website": "http://tv.cctv.com/2019/07/01/VIDE9VLL1vbFtKwRwCo2feKb190701.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "妇好玉凤",
+            "tvg-logo": "http://p1.img.cctvpic.com/fmspic/2019/07/01/d10ed54a12ab44bcaf11110deb7d9adf-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "妇好玉凤"
+        },
+        "m3u8": "cctv_d10ed54a12ab44bcaf11110deb7d9adf.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "ca625f7b678b4c13aad698146bea1911",
+        "website": "http://tv.cctv.com/2019/07/01/VIDEq0lIJ19KIdZVEXjHGqEc190701.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贾湖骨笛",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2019/08/09/2019080917105943008.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "贾湖骨笛"
+        },
+        "m3u8": "cctv_ca625f7b678b4c13aad698146bea1911.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "8be6f430f11a4571a71c95e732259358",
+        "website": "http://tv.cctv.com/2019/07/02/VIDExV9bG7I93LHQTTQ3PPVH190702.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "凌家滩玉版玉龟",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2019/08/09/2019080917005542719.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "凌家滩玉版玉龟"
+        },
+        "m3u8": "cctv_8be6f430f11a4571a71c95e732259358.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "594babe9d2654fc1a6d49dbf44b154ef",
+        "website": "http://tv.cctv.com/2019/07/02/VIDEl9MVMY8OnJdHIS1YQtU1190702.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "铜奔马",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2019/08/09/2019080916501417216.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "铜奔马"
+        },
+        "m3u8": "cctv_594babe9d2654fc1a6d49dbf44b154ef.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "5a9317a066444974a3351a61d4798a53",
+        "website": "http://tv.cctv.com/2019/07/02/VIDEKDXsHdL2mSewfuO6SCcb190702.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "素纱单衣",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/07/02/5a9317a066444974a3351a61d4798a53-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "素纱单衣"
+        },
+        "m3u8": "cctv_5a9317a066444974a3351a61d4798a53.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "23cd052efda24aa98e96ad2b01a47ca0",
+        "website": "http://tv.cctv.com/2019/07/02/VIDEshkzjq4hThv6rfnXD4zt190702.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "二十八宿圆盘",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2019/08/09/2019080916324740835.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "二十八宿圆盘"
+        },
+        "m3u8": "cctv_23cd052efda24aa98e96ad2b01a47ca0.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "2884f949a5684d93a41ce51535eb188e",
+        "website": "http://tv.cctv.com/2019/07/02/VIDEcYe9rfgeipNHRl4GFbGh190702.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "狸猫纹漆食盘",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2019/08/09/2019080916220176277.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "狸猫纹漆食盘"
+        },
+        "m3u8": "cctv_2884f949a5684d93a41ce51535eb188e.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "4e5dc4db93fd443c848fe4076995b5d4",
+        "website": "http://tv.cctv.com/2019/07/02/VIDENB5K6ZJ5NiVf0XzbfA3z190702.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "算筹",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/07/02/4e5dc4db93fd443c848fe4076995b5d4-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "算筹"
+        },
+        "m3u8": "cctv_4e5dc4db93fd443c848fe4076995b5d4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "fba7f7e6750145c99081bafc7bc26b3e",
+        "website": "https://tv.cctv.com/2019/09/11/VIDE3Y6GrBV1Tg203JjG0kg8190911.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "曾侯乙编钟",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/09/11/fba7f7e6750145c99081bafc7bc26b3e-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "曾侯乙编钟"
+        },
+        "m3u8": "cctv_fba7f7e6750145c99081bafc7bc26b3e.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "c996dde827064c72a5b54fd23827450f",
+        "website": "http://tv.cctv.com/2019/09/11/VIDE8v3g02tWNjNCGMOTDV7W190911.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "古滇国贮贝器",
+            "tvg-logo": "http://p3.img.cctvpic.com/fmspic/2019/09/11/c996dde827064c72a5b54fd23827450f-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "古滇国贮贝器"
+        },
+        "m3u8": "cctv_c996dde827064c72a5b54fd23827450f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "951445826d674e6ba3b0b5f2bad439db",
+        "website": "http://tv.cctv.com/2019/09/11/VIDEv7swiy5f7A5woa9PQOeG190911.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "跪射俑",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/09/11/951445826d674e6ba3b0b5f2bad439db-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "跪射俑"
+        },
+        "m3u8": "cctv_951445826d674e6ba3b0b5f2bad439db.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "e5720e094f5944fbb0f81bcd1b084901",
+        "website": "http://tv.cctv.com/2019/09/11/VIDECLmX5YJqJrJFJmYUzCbI190911.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "大克鼎",
+            "tvg-logo": "http://p1.img.cctvpic.com/fmspic/2019/09/11/e5720e094f5944fbb0f81bcd1b084901-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "大克鼎"
+        },
+        "m3u8": "cctv_e5720e094f5944fbb0f81bcd1b084901.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "7cb3d7e59aac4775bc38158e1f166482",
+        "website": "http://tv.cctv.com/2019/09/11/VIDEpNa0doyk4XZd0h4oUo2w190911.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "错金银铜版兆域图",
+            "tvg-logo": "http://p2.img.cctvpic.com/fmspic/2019/09/11/7cb3d7e59aac4775bc38158e1f166482-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "错金银铜版兆域图"
+        },
+        "m3u8": "cctv_7cb3d7e59aac4775bc38158e1f166482.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "acf0549ce51c4d0aa1b46f23c9c9f35f",
+        "website": "http://tv.cctv.com/2019/09/11/VIDEm833ltlXSS6RzZQMXYtv190911.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "曾侯乙尊盘",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/09/11/acf0549ce51c4d0aa1b46f23c9c9f35f-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "曾侯乙尊盘"
+        },
+        "m3u8": "cctv_acf0549ce51c4d0aa1b46f23c9c9f35f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "6c9f928e0fe8445497f62afc36046f07",
+        "website": "http://tv.cctv.com/2019/09/16/VIDEAqMYhifvy5smjxP1boKP190916.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "何尊",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/09/16/6c9f928e0fe8445497f62afc36046f07-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "何尊"
+        },
+        "m3u8": "cctv_6c9f928e0fe8445497f62afc36046f07.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "260c9eb352b74d59873bcad585a7154e",
+        "website": "http://tv.cctv.com/2019/09/16/VIDEnTZ88rzdHnbGiY1Nw7Wi190916.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "红山玉龙",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/09/16/260c9eb352b74d59873bcad585a7154e-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "红山玉龙"
+        },
+        "m3u8": "cctv_260c9eb352b74d59873bcad585a7154e.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "2b80abfa7ea74ee080244ff613b4892d",
+        "website": "http://tv.cctv.com/2019/09/16/VIDEDN4ta6XzytV5ch0qUwac190916.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "虎符",
+            "tvg-logo": "http://p1.img.cctvpic.com/fmspic/2019/09/16/2b80abfa7ea74ee080244ff613b4892d-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "虎符"
+        },
+        "m3u8": "cctv_2b80abfa7ea74ee080244ff613b4892d.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "e7619732072e44cb9ed5521f0d133e42",
+        "website": "http://tv.cctv.com/2019/09/16/VIDEpqPgf2UPgCTkMSwH4c5p190916.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "后母戊鼎",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/09/16/e7619732072e44cb9ed5521f0d133e42-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "后母戊鼎"
+        },
+        "m3u8": "cctv_e7619732072e44cb9ed5521f0d133e42.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "b25a20799b934b6cb6bc2e10bea830da",
+        "website": "http://tv.cctv.com/2019/09/16/VIDEYZzp0VtIEDgcnp6Px5WC190916.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "击鼓说唱陶俑",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/09/16/b25a20799b934b6cb6bc2e10bea830da-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "击鼓说唱陶俑"
+        },
+        "m3u8": "cctv_b25a20799b934b6cb6bc2e10bea830da.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "e849c99021a3403d9433433e7070f8d4",
+        "website": "http://tv.cctv.com/2019/09/16/VIDE3t1zIyWbf2pPtQU54Rut190916.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "里耶秦简",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/09/16/e849c99021a3403d9433433e7070f8d4-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "里耶秦简"
+        },
+        "m3u8": "cctv_e849c99021a3403d9433433e7070f8d4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "3ac4c6ea44df444a8d515c98a09cd7ee",
+        "website": "http://tv.cctv.com/2019/09/16/VIDEehXQITKTLqKeh2i2mudG190916.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "利簋",
+            "tvg-logo": "http://p3.img.cctvpic.com/fmspic/2019/09/16/3ac4c6ea44df444a8d515c98a09cd7ee-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "利簋"
+        },
+        "m3u8": "cctv_3ac4c6ea44df444a8d515c98a09cd7ee.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "75f3db30ff824d4393ed552dc0155c4f",
+        "website": "http://tv.cctv.com/2019/09/16/VIDEsROSGW6Js8HQ6TIbKsqH190916.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "孔子见老子画像石",
+            "tvg-logo": "http://p2.img.cctvpic.com/fmspic/2019/09/16/75f3db30ff824d4393ed552dc0155c4f-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "孔子见老子画像石"
+        },
+        "m3u8": "cctv_75f3db30ff824d4393ed552dc0155c4f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "0c198fd18cfc4e6f8ecc3d5c5740e8fa",
+        "website": "http://tv.cctv.com/2019/09/16/VIDEJhiHnkafKxiYlhGoKcD8190916.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "莲鹤方壶",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/09/16/0c198fd18cfc4e6f8ecc3d5c5740e8fa-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "莲鹤方壶"
+        },
+        "m3u8": "cctv_0c198fd18cfc4e6f8ecc3d5c5740e8fa.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "66476a7ecb234fdcb316614c83f2e4f4",
+        "website": "http://tv.cctv.com/2019/09/17/VIDE9w8wUzCGjRQmnnc0EApP190917.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "良渚玉琮王",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/09/17/66476a7ecb234fdcb316614c83f2e4f4-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "良渚玉琮王"
+        },
+        "m3u8": "cctv_66476a7ecb234fdcb316614c83f2e4f4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "e0ce6eff47734e26939d2e9e03c416ad",
+        "website": "http://tv.cctv.com/2019/09/17/VIDEsYOxvoO71jTKKcNkSsL0190917.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "木雕双头镇墓兽",
+            "tvg-logo": "http://p3.img.cctvpic.com/fmspic/2019/09/17/e0ce6eff47734e26939d2e9e03c416ad-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "木雕双头镇墓兽"
+        },
+        "m3u8": "cctv_e0ce6eff47734e26939d2e9e03c416ad.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "8e252a85fbb24673856596b949aa0814",
+        "website": "http://tv.cctv.com/2019/09/17/VIDEBuOmtZFwYv07Z39KHV11190917.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "秦始皇陵铜车马",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/09/17/8e252a85fbb24673856596b949aa0814-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "秦始皇陵铜车马"
+        },
+        "m3u8": "cctv_8e252a85fbb24673856596b949aa0814.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "fc0558325fb24a31b2abac3c57b1aa49",
+        "website": "http://tv.cctv.com/2019/09/17/VIDEGDfJcSf57zxCqgK4zfQs190917.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "南越汉玉",
+            "tvg-logo": "http://p3.img.cctvpic.com/fmspic/2019/09/17/fc0558325fb24a31b2abac3c57b1aa49-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "南越汉玉"
+        },
+        "m3u8": "cctv_fc0558325fb24a31b2abac3c57b1aa49.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "9c73876dbe974405be538a429e0d0847",
+        "website": "http://tv.cctv.com/2019/09/17/VIDEzTQxN5SWLJIWnTlKMrzY190917.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "人物御龙帛画",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/09/17/9c73876dbe974405be538a429e0d0847-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "人物御龙帛画"
+        },
+        "m3u8": "cctv_9c73876dbe974405be538a429e0d0847.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "8e124e2a1ece428fb924a620e06f79a8",
+        "website": "http://tv.cctv.com/2019/09/17/VIDEOOpz1ECwTtI5esuFBEEL190917.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "三星堆青铜神树",
+            "tvg-logo": "http://p2.img.cctvpic.com/fmspic/2019/09/17/8e124e2a1ece428fb924a620e06f79a8-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "三星堆青铜神树"
+        },
+        "m3u8": "cctv_8e124e2a1ece428fb924a620e06f79a8.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "ff1a0e5ed8c44019b31a87e306e1e2af",
+        "website": "http://tv.cctv.com/2019/09/17/VIDE1W5ogBKr07L2O2LXU2kv190917.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "三星堆青铜人像",
+            "tvg-logo": "http://p3.img.cctvpic.com/fmspic/2019/09/17/ff1a0e5ed8c44019b31a87e306e1e2af-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "三星堆青铜人像"
+        },
+        "m3u8": "cctv_ff1a0e5ed8c44019b31a87e306e1e2af.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "f37fb4c3b09145149288d6ae6cc59ffe",
+        "website": "http://tv.cctv.com/2019/09/17/VIDEiUyUi1udA59y4GP0SX4c190917.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "四神纹玉铺首",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/09/17/f37fb4c3b09145149288d6ae6cc59ffe-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "四神纹玉铺首"
+        },
+        "m3u8": "cctv_f37fb4c3b09145149288d6ae6cc59ffe.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "d70377f7ea8a4e6cb331ee92125095f2",
+        "website": "http://tv.cctv.com/2019/09/17/VIDETO5TkG8n2AXv3BYjDDBj190917.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "太阳神鸟金箔",
+            "tvg-logo": "http://p1.img.cctvpic.com/fmspic/2019/09/17/d70377f7ea8a4e6cb331ee92125095f2-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "太阳神鸟金箔"
+        },
+        "m3u8": "cctv_d70377f7ea8a4e6cb331ee92125095f2.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "a09c9083b0394eb3b7c958956826388f",
+        "website": "http://tv.cctv.com/2019/09/17/VIDEJmOFtciSvgyFpT3bT7Q1190917.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "陶鹰鼎",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/09/17/a09c9083b0394eb3b7c958956826388f-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "陶鹰鼎"
+        },
+        "m3u8": "cctv_a09c9083b0394eb3b7c958956826388f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "01886038d18848fba550b7b71fa3b23f",
+        "website": "http://tv.cctv.com/2019/09/20/VIDEk7chCsBciSV4fwz531y0190920.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "越王勾践剑",
+            "tvg-logo": "http://p2.img.cctvpic.com/fmspic/2019/09/20/01886038d18848fba550b7b71fa3b23f-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "越王勾践剑"
+        },
+        "m3u8": "cctv_01886038d18848fba550b7b71fa3b23f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "db028e7b78734f208c39883a02319ccd",
+        "website": "http://tv.cctv.com/2019/09/20/VIDEVdrZdPIGObL8j1Sw9yq4190920.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "五星出东方织锦",
+            "tvg-logo": "http://p2.img.cctvpic.com/fmspic/2019/09/20/db028e7b78734f208c39883a02319ccd-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "五星出东方织锦"
+        },
+        "m3u8": "cctv_db028e7b78734f208c39883a02319ccd.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "205a913e066f45a9952ade11d649b5fe",
+        "website": "http://tv.cctv.com/2019/09/20/VIDEUjCV1tUm0NYeK8p6MRDA190920.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "战国商鞅方升",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/09/20/205a913e066f45a9952ade11d649b5fe-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "战国商鞅方升"
+        },
+        "m3u8": "cctv_205a913e066f45a9952ade11d649b5fe.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "1c9330333c7a4f4d99e16e46c75c37bc",
+        "website": "http://tv.cctv.com/2019/09/20/VIDEg4kBgW178Mxh6dPP9lcW190920.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "战国嵌错宴乐攻战纹铜壶",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/09/20/1c9330333c7a4f4d99e16e46c75c37bc-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "战国嵌错宴乐攻战纹铜壶"
+        },
+        "m3u8": "cctv_1c9330333c7a4f4d99e16e46c75c37bc.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "50f49d86d49c4ec890b9f27f55305fdd",
+        "website": "http://tv.cctv.com/2019/09/20/VIDECfAVzngRIdwzblbavmLw190920.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "鸮尊",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/09/20/50f49d86d49c4ec890b9f27f55305fdd-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "鸮尊"
+        },
+        "m3u8": "cctv_50f49d86d49c4ec890b9f27f55305fdd.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "903ac25fccc048af8121a3f75a1413be",
+        "website": "http://tv.cctv.com/2019/09/20/VIDESwEcFcFMVp1f7t6oxBji190920.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长毋相忘铭合符银带钩",
+            "tvg-logo": "http://p3.img.cctvpic.com/fmspic/2019/09/20/903ac25fccc048af8121a3f75a1413be-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "长毋相忘铭合符银带钩"
+        },
+        "m3u8": "cctv_903ac25fccc048af8121a3f75a1413be.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "f2a1efb12e344285999f1f780e1580e8",
+        "website": "http://tv.cctv.com/2019/09/20/VIDEmWvTFyNPR1cw1eClqvWv190920.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "鹰顶金冠饰",
+            "tvg-logo": "http://p3.img.cctvpic.com/fmspic/2019/09/20/f2a1efb12e344285999f1f780e1580e8-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "鹰顶金冠饰"
+        },
+        "m3u8": "cctv_f2a1efb12e344285999f1f780e1580e8.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "c62d103c2d47414a95356ebffd538622",
+        "website": "http://tv.cctv.com/2019/09/20/VIDEIJsZERIPvJ5E56gqX5Q0190920.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "玉组佩",
+            "tvg-logo": "http://p5.img.cctvpic.com/fmspic/2019/09/20/c62d103c2d47414a95356ebffd538622-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "玉组佩"
+        },
+        "m3u8": "cctv_c62d103c2d47414a95356ebffd538622.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "b803173535ba46d9998d2bda5db08582",
+        "website": "http://tv.cctv.com/2019/09/20/VIDEeeIkrs0jg1g2tCbC6pOM190920.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长信宫灯",
+            "tvg-logo": "http://p4.img.cctvpic.com/fmspic/2019/09/20/b803173535ba46d9998d2bda5db08582-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "长信宫灯"
+        },
+        "m3u8": "cctv_b803173535ba46d9998d2bda5db08582.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "909dca4829c1463a808ba441681cbf37",
+        "website": "http://tv.cctv.com/2019/09/20/VIDEawgiWBBHtl2hWcy7OptX190920.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "熹平石经",
+            "tvg-logo": "http://p3.img.cctvpic.com/fmspic/2019/09/20/909dca4829c1463a808ba441681cbf37-1.jpg",
+            "group-title": "《如果国宝会说话》",
+            "title": "熹平石经"
+        },
+        "m3u8": "cctv_909dca4829c1463a808ba441681cbf37.m3u8"
+    }
+]
