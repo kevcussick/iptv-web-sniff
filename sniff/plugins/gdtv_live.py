@@ -25,7 +25,7 @@ class gdtv_live(web_live):
         iv  = bytearray.fromhex("912467427aa54cccf443d2ae206a63ce")
         ciphertext = b64decode("vNIR0lurDuCNBzpTozmlU9kxA/SEwuReipfVHWhbEW8=")
         cipher = AES.new(key, AES.MODE_CBC, iv)
-        salt = cipher.decrypt(ciphertext)
+        salt = unpad(cipher.decrypt(ciphertext), AES.block_size)
         url = "http://stream1.grtn.cn/%s/sd/live.m3u8"%self.chname
         refererurl = "http://www.gdtv.cn/tv/"
         playerVersion = "4.12.180327_RC"
