@@ -362,6 +362,46 @@
     {
         "active": 1,
         "plugin": "cctv_live",
+        "channel": "f1609a418f444f1ca0f9b8441d7a49fe",
+        "website": "https://tv.cctv.com/2020/05/26/VIDEH0Pf9P4JWucCB3Zi1Gee200526.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "山西",
+            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/05/26/f1609a418f444f1ca0f9b8441d7a49fe-2966.jpg",
+            "group-title": "《航拍中国第三季》",
+            "title": "山西"
+        },
+        "m3u8": "cctv_f1609a418f444f1ca0f9b8441d7a49fe.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "7736ba0a79a94bdb83abef7ca0843c35",
+        "website": "https://tv.cctv.com/2020/05/27/VIDEcGBgeEiiLNxF279LrTQ3200527.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "吉林",
+            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/05/27/7736ba0a79a94bdb83abef7ca0843c35-1454.jpg",
+            "group-title": "《航拍中国第三季》",
+            "title": "吉林"
+        },
+        "m3u8": "cctv_7736ba0a79a94bdb83abef7ca0843c35.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
         "channel": "f5d8f71d90dd480599c0a36a26db3101",
         "website": "https://tv.cctv.com/2020/05/29/VIDEY1zlYOlUFGHOQo1ywT07200529.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
@@ -402,8 +442,8 @@
     {
         "active": 1,
         "plugin": "cctv_live",
-        "channel": "f1609a418f444f1ca0f9b8441d7a49fe",
-        "website": "https://tv.cctv.com/2020/05/26/VIDEH0Pf9P4JWucCB3Zi1Gee200526.shtml",
+        "channel": "163c971a8ec44f0ba5dd1dc3ddffb8d7",
+        "website": "https://tv.cctv.com/2020/05/30/VIDEQXPqoeeteXOspZZqsmp1200530.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
@@ -412,32 +452,12 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "山西",
-            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/05/26/f1609a418f444f1ca0f9b8441d7a49fe-2966.jpg",
+            "tvg-name": "宁夏",
+            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/05/30/163c971a8ec44f0ba5dd1dc3ddffb8d7-1450.jpg",
             "group-title": "《航拍中国第三季》",
-            "title": "山西"
+            "title": "宁夏"
         },
-        "m3u8": "cctv_f1609a418f444f1ca0f9b8441d7a49fe.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "cctv_live",
-        "channel": "7736ba0a79a94bdb83abef7ca0843c35",
-        "website": "https://tv.cctv.com/2020/05/27/VIDEcGBgeEiiLNxF279LrTQ3200527.shtml",
-        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "吉林",
-            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/05/27/7736ba0a79a94bdb83abef7ca0843c35-1454.jpg",
-            "group-title": "《航拍中国第三季》",
-            "title": "吉林"
-        },
-        "m3u8": "cctv_7736ba0a79a94bdb83abef7ca0843c35.m3u8"
+        "m3u8": "cctv_163c971a8ec44f0ba5dd1dc3ddffb8d7.m3u8"
     },
     {
         "active": 1,
