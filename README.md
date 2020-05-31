@@ -29,7 +29,7 @@ $ python3 iptv-proxy.py -c tv.json &
 
 	2. generate the m3u playlist of your own server
 ```console
-	$ python3 iptv-list.py -c tv.json &
+	$ python3 iptv-list.py -c tv.json
 ```
 
 

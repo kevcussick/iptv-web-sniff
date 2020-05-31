@@ -14,7 +14,7 @@ def load_module(string):
     module = importlib.import_module("sniff.plugins.%s"%(string))
     return getattr(module, string)
 
-def iptv_list(config, path, logger):
+def iptv_list(config, addr, path, logger):
 
     tv_obj = tv.load(config, logger)
 
@@ -46,7 +46,10 @@ def iptv_list(config, path, logger):
                           ]
 
                 channel = extinfo
-                link = "http://%s:%s/channel?%s"%(tv_obj.server["ip"], tv_obj.server["port"], info["m3u8"])
+                if addr:
+                    link = "http://%s/channel?%s"%(addr, info["m3u8"])
+                else:
+                    link = "http://%s:%s/channel?%s"%(tv_obj.server["ip"], tv_obj.server["port"], info["m3u8"])
                 channel.append(link) 
                 channel.append(headers["Referer"] if referer == 1 else "") 
                 m3ulist.update_channel(channel)
@@ -75,6 +78,14 @@ if __name__ == '__main__':
             help="web sniff configure file"
             )
     parser.add_argument(
+            "-a",
+            "--addr",
+            action="store",
+            default="",
+            required=False,
+            help="iptv proxy server address (192.168.1.1:8080)"
+            )
+    parser.add_argument(
             "-o",
             "--output",
             action="store",
@@ -99,4 +110,4 @@ if __name__ == '__main__':
                         )
     logger = logging.getLogger("iptv list")
 
-    iptv_list(args.config, args.output, logger)
+    iptv_list(args.config, args.addr, args.output, logger)
