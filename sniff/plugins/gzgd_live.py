@@ -23,7 +23,7 @@ class gzgd_live(web_live):
             self.logger.error(err)
             return None
         response.encoding = 'utf-8'
-        find = re.findall(r"(http.*m3u8)", response.text)
+        find = re.findall(r"url=\"(https?.*m3u8)", response.text)
         if find:
             link = find[0].replace('\\','')
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
