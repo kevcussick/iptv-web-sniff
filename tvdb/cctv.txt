@@ -1662,6 +1662,66 @@
     {
         "active": 1,
         "plugin": "cctv_live",
+        "channel": "96c27135601a43edbc2a453c9059c382",
+        "website": "https://tv.cctv.com/2020/06/03/VIDEUmC0rBOe0EfvPe47FFWU200603.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "气象预报员",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/06/03/2020060309105583116.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "贵州喀斯特系列.气象预报员"
+        },
+        "m3u8": "cctv_96c27135601a43edbc2a453c9059c382.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "66b66156148040b898dd5f4a165f3362",
+        "website": "https://tv.cctv.com/2020/06/03/VIDEeqK9UKwhUjZDgwoRXMm1200603.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "留守海豹",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/06/03/2020060309195944336.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "长岛系列.留守海豹"
+        },
+        "m3u8": "cctv_66b66156148040b898dd5f4a165f3362.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "c8927c07791f475d95d5d232ecd3d7eb",
+        "website": "https://tv.cctv.com/2020/06/04/VIDEJfJ9AcRqCUtVQkAUSk3D200604.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "呼伦贝尔大草原",
+            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/06/03/c8927c07791f475d95d5d232ecd3d7eb-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "呼伦贝尔系列.呼伦贝尔大草原"
+        },
+        "m3u8": "cctv_c8927c07791f475d95d5d232ecd3d7eb.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
         "channel": "d64a17c7177641b18fa37b59f4b5ae2b",
         "website": "https://tv.cctv.com/2020/04/27/VIDEgg70SYaoezxlwBCSyRNX200427.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
