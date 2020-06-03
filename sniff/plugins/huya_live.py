@@ -32,8 +32,8 @@ class huya_live(web_live):
         find = re.findall(r'"stream": ({.+?})\s*};', response.text)
         if find:
             data = json.loads(find[0])
-            #stream_info = random.choice(data['data'][0]['gameStreamInfoList'])
-            stream_info = data['data'][0]['gameStreamInfoList'][0]
+            stream_info = random.choice(data['data'][0]['gameStreamInfoList'])
+            #stream_info = data['data'][0]['gameStreamInfoList'][0]
             sHlsUrl = stream_info['sHlsUrl']
             sStreamName = stream_info['sStreamName']
             sHlsUrlSuffix = stream_info['sHlsUrlSuffix']
