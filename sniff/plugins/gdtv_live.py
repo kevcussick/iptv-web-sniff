@@ -85,7 +85,7 @@ class gdtv_live(web_live):
         print("probe website %s ......"%(self.website))
         link = self.__m2o_player()
         if link:
-            link = link.replace('stream1','nclive')
+            #link = link.replace('stream1','nclive')
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
             channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
             self.link = link
